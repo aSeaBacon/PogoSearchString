@@ -14,6 +14,11 @@ PLANNED_FEATURES.md
 *.aab
 *.jks
 *.keystore
+README.md
+android/README.md
+android/engine/src/test/resources/old_strings/
+data-pipeline/README.md
+
 
 # Python
 __pycache__/
