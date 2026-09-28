@@ -26,6 +26,7 @@ sealed interface UiState {
 
 class MainViewModel(app: Application) : AndroidViewModel(app) {
     private val repo = DataRepository(app.filesDir)
+    private val stringCache = StringCache(app.filesDir)
     private val _state = MutableStateFlow<UiState>(UiState.Working("Loading…"))
     val state: StateFlow<UiState> = _state.asStateFlow()
     private var job: Job? = null
@@ -45,10 +46,13 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
                         "Couldn't download the Pokémon data. Check your internet connection and try again." +
                             (update.exceptionOrNull()?.message?.let { "\n\n($it)" } ?: "")
                     )
-                val items = withContext(Dispatchers.Default) {
-                    val data = GameData.parse(text)
-                    StringGenerator.build(data) { _state.value = UiState.Working(it) }
-                }
+                val key = "${repo.cachedSha()}:${StringGenerator.VERSION}"
+                val items = withContext(Dispatchers.IO) { stringCache.load(key) }
+                    ?: withContext(Dispatchers.Default) {
+                        val data = GameData.parse(text)
+                        StringGenerator.build(data) { _state.value = UiState.Working(it) }
+                            .also { stringCache.save(key, it) }
+                    }
                 _state.value = UiState.Ready(
                     items = items,
                     dataDate = repo.cachedGeneratedAt()?.take(10),

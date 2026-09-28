@@ -39,21 +39,29 @@ class SearchStringBuilder(
         if (t.isEmpty()) return emptyList()
         val limit = maxLength - suffix.length
         val dexes = t.keys.sorted()
-        val cache = HashMap<Long, String>()
-        fun part(from: Int, to: Int): String = cache.getOrPut(from.toLong() shl 32 or to.toLong()) {
-            best(dexes.subList(from, to).associateWith { t.getValue(it) })
+        val candidates = VARIANTS.map { (strict, pairwise) -> exact(t, strict, pairwise) }
+        val whole = candidates.minBy { it.length }
+        if (whole.length <= limit) return listOf(SearchPart(whole + suffix, dexes.first(), dexes.last()))
+
+        // Searching for cut points builds thousands of candidate parts, so use only the construction
+        // that is shortest for the whole target. The final parts get the full [best] below, which
+        // can only make them shorter.
+        val (strict, pairwise) = VARIANTS[candidates.indexOf(whole)]
+        val cache = HashMap<Long, Int>()
+        fun length(from: Int, to: Int): Int = cache.getOrPut(from.toLong() shl 32 or to.toLong()) {
+            exact(dexes.subList(from, to).associateWith { t.getValue(it) }, strict, pairwise).length
         }
 
         fun greedy(lim: Int): List<Int>? { // cut indices, or null if a single dex doesn't fit
             val cuts = mutableListOf(0)
             var i = 0
             while (i < dexes.size) {
-                if (part(i, i + 1).length > lim) return null
+                if (length(i, i + 1) > lim) return null
                 var lo = i + 1
                 var hi = dexes.size
                 while (lo < hi) {
                     val mid = (lo + hi + 1) ushr 1
-                    if (part(i, mid).length <= lim) lo = mid else hi = mid - 1
+                    if (length(i, mid) <= lim) lo = mid else hi = mid - 1
                 }
                 cuts.add(lo)
                 i = lo
@@ -63,26 +71,25 @@ class SearchStringBuilder(
 
         var cuts = greedy(limit) ?: throw IllegalArgumentException(
             "Max length $maxLength is too short: a single Pokémon's string doesn't fit")
-        if (cuts.size > 2) {
-            // Same number of parts, but shrink the longest part as far as possible.
-            val n = cuts.size
-            var lo = (0 until n - 1).maxOf { part(cuts[it], cuts[it + 1]).length } / 2
-            var hi = limit
-            while (lo < hi) {
-                val mid = (lo + hi) ushr 1
-                val c = greedy(mid)
-                if (c != null && c.size <= n) hi = mid else lo = mid + 1
-            }
-            cuts = greedy(lo)!!
+        // Same number of parts, but shrink the longest part (to within BALANCE_SLACK characters).
+        val n = cuts.size
+        var lo = (0 until n - 1).maxOf { length(cuts[it], cuts[it + 1]) } / 2
+        var hi = limit
+        while (hi - lo > BALANCE_SLACK) {
+            val mid = (lo + hi) ushr 1
+            val c = greedy(mid)
+            if (c != null && c.size <= n) hi = mid else lo = mid + 1
         }
+        cuts = greedy(hi)!!
         return (0 until cuts.size - 1).map {
-            SearchPart(part(cuts[it], cuts[it + 1]) + suffix, dexes[cuts[it]], dexes[cuts[it + 1] - 1])
+            val part = best(dexes.subList(cuts[it], cuts[it + 1]).associateWith { d -> t.getValue(d) })
+            SearchPart(part + suffix, dexes[cuts[it]], dexes[cuts[it + 1] - 1])
         }
     }
 
     /** Shortest exact string for [per] (no splitting). */
     fun best(per: Map<Int, Set<Int>>): String =
-        (0..2).flatMap { strict -> listOf(exact(per, strict, true), exact(per, strict, false)) }.minBy { it.length }
+        VARIANTS.map { (strict, pairwise) -> exact(per, strict, pairwise) }.minBy { it.length }
 
     // --- construction -------------------------------------------------------------------------
 
@@ -206,6 +213,10 @@ class SearchStringBuilder(
     }
 
     companion object {
+        /** (strict stat, pairwise exclusion clauses) combinations tried by [best]. */
+        private val VARIANTS = (0..2).flatMap { listOf(it to true, it to false) }
+        private const val BALANCE_SLACK = 64
+
         private val TERM = Regex("""(\d+)(?:-(\d+))?([^\d,&]*)""")
 
         fun ranges(xs: Collection<Int>): List<IntRange> {

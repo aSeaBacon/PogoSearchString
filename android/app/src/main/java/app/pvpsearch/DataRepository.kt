@@ -24,6 +24,11 @@ class DataRepository(private val dir: File) {
         manifestFile.takeIf { it.exists() }?.let { JSONObject(it.readText()).optString("generatedAt", "") }
             ?.ifEmpty { null }
 
+    /** Hash of the saved data file (changes whenever the daily job publishes new data). */
+    fun cachedSha(): String? =
+        manifestFile.takeIf { it.exists() }?.let { JSONObject(it.readText()).optString("dataSha256", "") }
+            ?.ifEmpty { null }
+
     /** Fetch the manifest and download new data if it changed. Returns true if new data was saved. */
     fun update(): Boolean {
         val manifestText = get(BASE_URL + "manifest.json").decodeToString()

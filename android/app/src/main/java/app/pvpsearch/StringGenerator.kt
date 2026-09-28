@@ -6,6 +6,7 @@ import app.pvpsearch.engine.RankingCache
 import app.pvpsearch.engine.SearchOptions
 import app.pvpsearch.engine.SearchStringBuilder
 import app.pvpsearch.engine.TargetSelector
+import java.util.stream.Collectors
 
 /** One finished search string, e.g. "Great League 2". */
 data class SearchStringItem(val title: String, val text: String, val firstDex: Int, val lastDex: Int)
@@ -18,6 +19,9 @@ data class SearchStringItem(val title: String, val text: String, val firstDex: I
 object StringGenerator {
     const val SUFFIX = "&!#pvp&!#notpvp"
     const val MAX_LENGTH = 5000
+
+    /** Bump when the output changes for the same data, so saved strings are rebuilt. */
+    const val VERSION = 2
 
     private data class League(val key: String, val title: String, val minMaxCp: Int)
 
@@ -34,8 +38,9 @@ object StringGenerator {
 
         val selector = TargetSelector(cache)
         val builder = SearchStringBuilder(data.maxDex)
-        return leagues.flatMap { league ->
-            progress("Building ${league.title} strings…")
+        progress("Building strings…")
+        // The leagues are independent, so build them at the same time (order is kept).
+        return leagues.parallelStream().map { league ->
             val selection = selector.select(
                 SearchOptions(
                     leagues = listOf(LeagueOptions(league.key, minMaxCp = league.minMaxCp)),
@@ -45,6 +50,6 @@ object StringGenerator {
             builder.build(selection.target, MAX_LENGTH, SUFFIX).mapIndexed { i, part ->
                 SearchStringItem("${league.title} ${i + 1}", part.text, part.firstDex, part.lastDex)
             }
-        }
+        }.collect(Collectors.toList()).flatten()
     }
 }
