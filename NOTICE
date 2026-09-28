@@ -1,0 +1,21 @@
+PogoSearchString — third-party notices
+
+This project builds its data file (docs/v1/data.json) from the following sources.
+
+--------------------------------------------------------------------------------
+PvPoke — https://github.com/pvpoke/pvpoke
+Used: src/data/gamemaster.json (species, base stats, evolution families, tags) and
+src/data/rankings/all/overall/rankings-*.json (PvP rankings).
+
+Copyright (c) 2019 pvpoke. Licensed under the MIT License:
+https://github.com/pvpoke/pvpoke/blob/master/LICENSE
+
+--------------------------------------------------------------------------------
+PokeMiners — https://github.com/PokeMiners/game_masters
+Used: latest/latest.json (Pokémon GO Game Master) for the CP multiplier table,
+legendary/mythical/ultra-beast classes, evolution checks and base-stat checks.
+
+--------------------------------------------------------------------------------
+Pokémon and Pokémon GO are trademarks of their respective owners. This project is
+not affiliated with, endorsed or sponsored by Niantic, Scopely, Nintendo, Creatures,
+GAME FREAK or The Pokémon Company.
