@@ -1,0 +1,23 @@
+# Android / Gradle (android/)
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+reference/
+research/
+CLAUDE.md
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

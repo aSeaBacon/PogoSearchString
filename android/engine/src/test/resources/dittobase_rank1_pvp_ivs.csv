@@ -1,0 +1,1500 @@
+pokemon,slug,dex,league,rank,atk_iv,def_iv,sta_iv,level,cp,stat_atk,stat_def,stat_sta,stat_product,shadow,mega,released,types
+Ivysaur,ivysaur,2,Great,1,0,13,14,38.5,1498,118.05,121.959,132,1900447,False,False,True,Grass/Poison
+Venusaur,venusaur,3,Great,1,0,14,11,21,1498,121.207,124.268,123,1852646,False,False,True,Grass/Poison
+Venusaur,venusaur,3,Ultra,1,1,15,14,39,2499,156.143,160.066,160,3998902,False,False,True,Grass/Poison
+Charmeleon,charmeleon,5,Great,1,0,13,15,40,1499,124.867,109.852,131,1796913,False,False,True,Fire
+Charizard,charizard,6,Great,1,0,15,13,19.5,1500,131.545,110.899,117,1706819,False,False,True,Fire/Flying
+Charizard,charizard,6,Ultra,1,0,13,15,35,2500,169.829,141.651,153,3680627,False,False,True,Fire/Flying
+Wartortle,wartortle,8,Great,1,0,14,15,50,1499,105.878,142.011,141,2120045,False,False,True,Water
+Blastoise,blastoise,9,Great,1,1,15,15,23,1498,110.192,142.225,130,2037373,False,False,True,Water
+Blastoise,blastoise,9,Ultra,1,0,12,15,48.5,2500,142.409,182.384,169,4389472,False,False,True,Water
+Butterfree,butterfree,12,Great,1,0,13,15,33,1499,125.21,112.464,127,1788369,False,False,True,Bug/Flying
+Beedrill,beedrill,15,Great,1,0,13,14,32.5,1499,126.206,106.79,132,1779031,False,False,True,Bug/Poison
+Pidgeot,pidgeot,18,Great,1,0,14,14,27,1498,115.228,116.616,145,1948427,False,False,True,Normal/Flying
+Raticate,raticate,20,Great,1,0,14,15,36.5,1499,124.018,117.855,124,1812407,False,False,True,Normal
+Alolan Raticate,raticate-alola,20,Great,1,0,13,14,39,1499,105.926,131.034,153,2123632,False,False,True,Dark/Normal
+Fearow,fearow,22,Great,1,0,15,14,28.5,1498,129.797,105.549,126,1726190,False,False,True,Normal/Flying
+Arbok,arbok,24,Great,1,0,11,14,30.5,1500,122.702,120.498,124,1833372,False,False,True,Poison
+Raichu,raichu,26,Great,1,0,15,14,26,1499,131.465,113.073,115,1709495,False,False,True,Electric
+Raichu,raichu,26,Ultra,1,15,15,15,50,2467,174.782,139.49,142,3462012,False,False,True,Electric
+Alolan Raichu,raichu-alola,26,Great,1,1,15,15,24.5,1496,133.566,111.746,112,1671657,False,False,True,Electric/Psychic
+Alolan Raichu,raichu-alola,26,Ultra,1,8,15,14,50,2494,175.623,142.011,142,3541523,False,False,True,Electric/Psychic
+Sandslash,sandslash,28,Great,1,0,14,15,24,1500,119.107,123.688,128,1885719,False,False,True,Ground
+Sandslash,sandslash,28,Ultra,1,2,14,15,50,2500,154.615,158.817,164,4027098,False,False,True,Ground
+Alolan Sandslash,sandslash-alola,28,Great,1,0,14,14,23.5,1498,114.622,135.344,126,1954692,False,False,True,Ice/Steel
+Alolan Sandslash,sandslash-alola,28,Ultra,1,0,14,15,49,2499,147.848,174.578,163,4207190,False,False,True,Ice/Steel
+Nidorina,nidorina,30,Great,1,15,15,15,50,1480,110.92,113.441,157,1975496,False,False,True,Poison
+Nidoqueen,nidoqueen,31,Great,1,0,15,12,23,1499,115.318,120.443,140,1944483,False,False,True,Poison/Ground
+Nidoqueen,nidoqueen,31,Ultra,1,0,14,15,47,2498,148.554,154.331,183,4195550,False,False,True,Poison/Ground
+Nidorino,nidorino,33,Great,1,8,15,15,49.5,1493,121.482,105.563,143,1833830,False,False,True,Poison
+Nidoking,nidoking,34,Great,1,0,14,15,22,1498,127.82,106.516,129,1756321,False,False,True,Poison/Ground
+Nidoking,nidoking,34,Ultra,1,0,14,14,44,2500,165.301,137.751,166,3779887,False,False,True,Poison/Ground
+Clefable,clefable,36,Great,1,0,13,15,23.5,1500,115.269,113.327,149,1946402,False,False,True,Fairy
+Clefable,clefable,36,Ultra,1,0,15,13,49,2500,148.683,147.848,191,4198669,False,False,True,Fairy
+Ninetales,ninetales,38,Great,1,0,15,15,25,1495,112.881,136.926,128,1978416,False,False,True,Fire
+Ninetales,ninetales,38,Ultra,1,9,15,15,50,2493,149.573,172.262,161,4148284,False,False,True,Fire
+Alolan Ninetales,ninetales-alola,38,Great,1,0,14,12,25,1500,113.549,138.262,126,1978139,False,False,True,Ice/Fairy
+Alolan Ninetales,ninetales-alola,38,Ultra,1,7,15,15,50,2497,148.733,174.782,161,4185345,False,False,True,Ice/Fairy
+Wigglytuff,wigglytuff,40,Great,1,0,15,12,30,1499,114.145,76.829,224,1964391,False,False,True,Normal/Fairy
+Golbat,golbat,42,Great,1,0,15,15,29,1498,115.823,118.701,141,1938513,False,False,True,Poison/Flying
+Gloom,gloom,44,Great,1,0,12,14,39.5,1500,120.483,116.546,133,1867570,False,False,True,Grass/Poison
+Vileplume,vileplume,45,Great,1,0,15,15,22,1497,126.567,114.035,122,1760831,False,False,True,Grass/Poison
+Vileplume,vileplume,45,Ultra,1,0,15,14,44,2498,163.681,147.475,158,3813919,False,False,True,Grass/Poison
+Parasect,parasect,47,Great,1,0,13,15,32,1500,122.725,118.263,126,1828739,False,False,True,Bug/Grass
+Venomoth,venomoth,49,Great,1,0,13,15,27.5,1500,125.397,109.285,131,1795223,False,False,True,Bug/Poison
+Dugtrio,dugtrio,51,Great,1,0,15,13,44,1500,135.32,122.355,100,1655713,False,False,True,Ground
+Alolan Dugtrio,dugtrio-alola,51,Great,1,0,12,15,30,1499,147.072,112.682,92,1524652,False,False,True,Ground/Steel
+Persian,persian,53,Great,1,0,14,13,39,1500,117.696,117.696,138,1911609,False,False,True,Normal
+Alolan Persian,persian-alola,53,Great,1,1,15,15,34.5,1500,120.622,114.553,135,1865384,False,False,True,Dark
+Golduck,golduck,55,Great,1,0,10,14,23.5,1500,123.688,111.384,132,1818544,False,False,True,Water
+Golduck,golduck,55,Ultra,1,0,13,13,48.5,2496,159.066,145.741,169,3917811,False,False,True,Water
+Primeape,primeape,57,Great,1,1,15,15,24.5,1500,137.534,101.167,117,1627915,False,False,True,Fighting
+Primeape,primeape,57,Ultra,1,7,15,15,50,2493,179.824,128.566,149,3444770,False,False,True,Fighting
+Hisuian Growlithe,growlithe-hisuian,58,Great,1,15,15,15,50,1495,131.927,89.912,142,1684382,False,False,True,Fire/Rock
+Arcanine,arcanine,59,Great,1,0,14,15,18.5,1498,130.427,103.422,127,1713116,False,False,True,Fire
+Arcanine,arcanine,59,Ultra,1,0,15,15,31.5,2497,168.158,134.082,164,3697714,False,False,True,Fire
+Hisuian Arcanine,arcanine-hisuian,59,Great,1,0,14,10,18,1498,131.487,101.449,128,1707422,False,False,True,Fire/Rock
+Hisuian Arcanine,arcanine-hisuian,59,Ultra,1,0,10,15,30,2497,169.754,128.048,169,3673490,False,False,True,Fire/Rock
+Poliwhirl,poliwhirl,61,Great,1,6,15,15,49.5,1496,113.941,115.617,149,1962858,False,False,True,Water
+Poliwrath,poliwrath,62,Great,1,0,14,15,22,1498,114.035,124.06,139,1966467,False,False,True,Water/Fighting
+Poliwrath,poliwrath,62,Ultra,1,0,14,14,44,2499,147.475,160.439,179,4235272,False,False,True,Water/Fighting
+Abra,abra,63,Great,1,15,15,15,49,1499,175.413,81.024,90,1279141,False,False,True,Psychic
+Kadabra,kadabra,64,Great,1,2,15,14,27,1499,162.43,91.627,93,1384113,False,False,True,Psychic
+Alakazam,alakazam,65,Great,1,1,15,15,18,1495,154.157,103.149,91,1447010,False,False,True,Psychic
+Alakazam,alakazam,65,Ultra,1,0,14,15,30.5,2497,199.115,132.988,118,3124629,False,False,True,Psychic
+Machoke,machoke,67,Great,1,0,15,15,28,1498,125.119,98.964,144,1783037,False,False,True,Fighting
+Machamp,machamp,68,Great,1,0,14,11,18.5,1500,134.449,99.4,125,1670539,False,False,True,Fighting
+Machamp,machamp,68,Ultra,1,0,15,14,31,2497,172.638,128.372,163,3612385,False,False,True,Fighting
+Weepinbell,weepinbell,70,Great,1,1,15,15,40.5,1500,137.155,84.83,141,1640517,False,False,True,Grass/Poison
+Victreebel,victreebel,71,Great,1,1,15,15,23,1497,133.256,96.098,131,1677535,False,False,True,Grass/Poison
+Victreebel,victreebel,71,Ultra,1,0,15,12,48.5,2499,172.39,124.921,168,3617897,False,False,True,Grass/Poison
+Tentacruel,tentacruel,73,Great,1,1,15,15,23.5,1500,108.146,145.058,132,2070745,False,False,True,Water/Poison
+Tentacruel,tentacruel,73,Ultra,1,0,13,15,50,2500,139.49,186.547,172,4475672,False,False,True,Water/Poison
+Graveler,graveler,75,Great,1,0,14,15,30.5,1498,120.498,130.784,118,1859578,False,False,True,Rock/Ground
+Alolan Graveler,graveler-alola,75,Great,1,0,14,15,30.5,1498,120.498,130.784,118,1859578,False,False,True,Rock/Electric
+Golem,golem,76,Great,1,1,14,15,19,1498,123.443,123.443,119,1813347,False,False,True,Rock/Ground
+Golem,golem,76,Ultra,1,0,15,15,33.5,2498,158.826,160.331,154,3921572,False,False,True,Rock/Ground
+Alolan Golem,golem-alola,76,Great,1,1,14,15,19,1498,123.443,123.443,119,1813347,False,False,True,Rock/Electric
+Alolan Golem,golem-alola,76,Ultra,1,0,15,15,33.5,2498,158.826,160.331,154,3921572,False,False,True,Rock/Electric
+Ponyta,ponyta,77,Great,1,0,15,14,37.5,1499,131.931,110.201,117,1701059,False,False,True,Fire
+Galarian Ponyta,ponyta-galarian,77,Great,1,0,15,14,37.5,1499,131.931,110.201,117,1701059,False,False,True,Psychic
+Rapidash,rapidash,78,Great,1,0,13,15,23,1499,132.615,112.114,114,1694958,False,False,True,Fire
+Rapidash,rapidash,78,Ultra,1,0,15,14,47,2495,170.837,146.078,146,3643511,False,False,True,Fire
+Galarian Rapidash,rapidash-galarian,78,Great,1,0,13,15,23,1499,132.615,112.114,114,1694958,False,False,True,Psychic/Fairy
+Galarian Rapidash,rapidash-galarian,78,Ultra,1,0,15,14,47,2495,170.837,146.078,146,3643511,False,False,True,Psychic/Fairy
+Slowbro,slowbro,80,Great,1,0,13,15,22.5,1500,112.156,122.294,146,2002540,False,False,True,Water/Psychic
+Slowbro,slowbro,80,Ultra,1,0,14,14,45.5,2500,144.751,158.654,188,4317488,False,False,True,Water/Psychic
+Galarian Slowbro,slowbro-galarian,80,Great,1,0,14,11,23.5,1499,117.86,110.089,147,1907330,False,False,True,Poison/Psychic
+Galarian Slowbro,slowbro-galarian,80,Ultra,1,1,15,11,48.5,2500,152.403,142.409,189,4101988,False,False,True,Poison/Psychic
+Magnemite,magnemite,81,Great,1,12,15,13,50,1500,148.733,114.281,89,1512763,False,False,True,Electric/Steel
+Magneton,magneton,82,Great,1,0,15,15,22.5,1497,141.304,116.591,96,1581582,False,False,True,Electric/Steel
+Magneton,magneton,82,Ultra,1,0,15,15,45.5,2494,182.37,150.476,124,3402849,False,False,True,Electric/Steel
+Galarian Farfetch’d,farfetchd-galarian,83,Great,1,0,15,15,38,1497,135.534,100.482,121,1647875,False,False,True,Fighting
+Dodrio,dodrio,85,Great,1,0,12,15,24,1500,142.667,99.474,111,1575277,False,False,True,Normal/Flying
+Dodrio,dodrio,85,Ultra,1,0,15,15,50,2498,183.185,130.247,142,3388015,False,False,True,Normal/Flying
+Dewgong,dewgong,87,Great,1,0,12,15,29.5,1498,100.855,137.134,161,2226731,False,False,True,Water/Ice
+Grimer,grimer,88,Great,1,10,15,14,50,1498,121.844,88.232,171,1838324,False,False,True,Poison
+Alolan Grimer,grimer-alola,88,Great,1,10,15,14,50,1498,121.844,88.232,171,1838324,False,False,True,Poison/Dark
+Muk,muk,89,Great,1,0,15,15,20.5,1496,114.916,113.102,149,1936596,False,False,True,Poison
+Muk,muk,89,Ultra,1,0,15,15,38.5,2500,148.54,146.195,193,4191146,False,False,True,Poison
+Alolan Muk,muk-alola,89,Great,1,0,15,15,20.5,1496,114.916,113.102,149,1936596,False,False,True,Poison/Dark
+Alolan Muk,muk-alola,89,Ultra,1,0,15,15,38.5,2500,148.54,146.195,193,4191146,False,False,True,Poison/Dark
+Cloyster,cloyster,91,Great,1,0,13,13,22.5,1500,117.859,170.452,95,1908475,False,False,True,Water/Ice
+Cloyster,cloyster,91,Ultra,1,0,14,14,45,2496,151.646,220.131,123,4105979,False,False,True,Water/Ice
+Haunter,haunter,93,Great,1,1,15,14,28.5,1499,159.75,87.007,101,1403829,False,False,True,Ghost/Poison
+Gengar,gengar,94,Great,1,0,13,13,19.5,1498,153.961,95.562,99,1456564,False,False,True,Ghost/Poison
+Gengar,gengar,94,Ultra,1,0,15,14,34.5,2500,198.003,124.415,128,3153224,False,False,True,Ghost/Poison
+Hypno,hypno,97,Great,1,0,13,13,28,1500,101.791,145.618,149,2208577,False,False,True,Psychic
+Krabby,krabby,98,Great,1,0,15,15,43,1496,145.759,111.937,94,1533687,False,False,True,Water
+Kingler,kingler,99,Great,1,0,9,15,20,1498,143.376,113.506,96,1562308,False,False,True,Water
+Kingler,kingler,99,Ultra,1,0,15,15,35.5,2491,183.477,149.839,123,3381517,False,False,True,Water
+Electrode,electrode,101,Great,1,1,15,15,27,1498,120.781,130.499,118,1859892,False,False,True,Electric
+Hisuian Electrode,electrode-hisuian,101,Great,1,1,14,14,26.5,1499,121.72,130.66,116,1844862,False,False,True,Electric/Grass
+Hisuian Electrode,electrode-hisuian,101,Ultra,1,15,15,15,50,2430,160.497,160.497,142,3657833,False,False,True,Electric/Grass
+Exeggutor,exeggutor,103,Great,1,1,15,14,18.5,1500,134.449,94.229,132,1672316,False,False,True,Grass/Psychic
+Exeggutor,exeggutor,103,Ultra,1,1,15,15,31.5,2499,173.344,121.489,171,3601147,False,False,True,Grass/Psychic
+Alolan Exeggutor,exeggutor-alola,103,Great,1,1,15,14,18.5,1499,132.725,96.528,132,1691141,False,False,True,Grass/Dragon
+Alolan Exeggutor,exeggutor-alola,103,Ultra,1,1,15,15,31.5,2497,171.121,124.452,171,3641685,False,False,True,Grass/Dragon
+Marowak,marowak,105,Great,1,0,14,14,33.5,1500,108.393,150.546,127,2072400,False,False,True,Ground
+Alolan Marowak,marowak-alola,105,Great,1,0,14,14,33.5,1500,108.393,150.546,127,2072400,False,False,True,Fire/Ghost
+Hitmonlee,hitmonlee,106,Great,1,2,15,15,21.5,1496,139.985,121.403,94,1597499,False,False,True,Fighting
+Hitmonlee,hitmonlee,106,Ultra,1,0,14,15,43,2500,180.387,157.033,122,3455874,False,False,True,Fighting
+Hitmonchan,hitmonchan,107,Great,1,0,11,15,24.5,1500,127.615,137.534,100,1755139,False,False,True,Fighting
+Hitmonchan,hitmonchan,107,Ultra,1,4,15,15,50,2497,165.539,178.144,127,3745196,False,False,True,Fighting
+Lickitung,lickitung,108,Great,1,8,14,15,50,1499,97.475,126.885,186,2300470,False,False,True,Normal
+Weezing,weezing,110,Great,1,0,14,14,25,1500,116.221,140.934,118,1932773,False,False,True,Poison
+Weezing,weezing,110,Ultra,1,8,15,15,50,2496,152.935,178.144,149,4059404,False,False,True,Poison
+Galarian Weezing,weezing-galarian,110,Great,1,0,14,14,25,1500,116.221,140.934,118,1932773,False,False,True,Poison/Fairy
+Galarian Weezing,weezing-galarian,110,Ultra,1,8,15,15,50,2496,152.935,178.144,149,4059404,False,False,True,Poison/Fairy
+Rhyhorn,rhyhorn,111,Great,1,0,13,15,41,1500,111.342,111.342,163,2020718,False,False,True,Ground/Rock
+Rhydon,rhydon,112,Great,1,2,15,14,17.5,1499,125.178,103.942,138,1795562,False,False,True,Ground/Rock
+Rhydon,rhydon,112,Ultra,1,0,14,14,29.5,2498,161.078,134.231,179,3870286,False,False,True,Ground/Rock
+Tangela,tangela,114,Great,1,0,13,15,25.5,1498,123.448,122.774,120,1818750,False,False,True,Grass
+Tangela,tangela,114,Ultra,1,12,15,15,50,2491,163.859,154.615,149,3774917,False,False,True,Grass
+Kangaskhan,kangaskhan,115,Great,1,0,14,15,22,1497,113.409,112.156,155,1971508,False,False,True,Normal
+Kangaskhan,kangaskhan,115,Ultra,1,0,15,13,44,2500,146.664,145.854,199,4256923,False,False,True,Normal
+Seadra,seadra,117,Great,1,1,15,14,27,1498,130.499,118.699,111,1719395,False,False,True,Water
+Seaking,seaking,119,Great,1,0,14,14,26.5,1499,120.345,110.717,140,1865396,False,False,True,Water
+Seaking,seaking,119,Ultra,1,15,15,15,50,2444,159.657,136.129,172,3738228,False,False,True,Water
+Starmie,starmie,121,Great,1,0,15,11,22,1498,131.579,124.687,104,1706243,False,False,True,Water/Psychic
+Starmie,starmie,121,Ultra,1,0,15,14,43,2497,169.113,160.255,136,3685757,False,False,True,Water/Psychic
+Mr. Mime,mr-mime,122,Great,1,0,13,15,25.5,1498,129.52,147.059,91,1733279,False,False,True,Psychic/Fairy
+Mr. Mime,mr-mime,122,Ultra,1,13,15,15,50,2494,172.262,184.866,113,3598518,False,False,True,Psychic/Fairy
+Galarian Mr. Mime,mr-mime-galarian,122,Great,1,1,15,13,27.5,1500,128.9,128.9,105,1744594,False,False,True,Ice/Psychic
+Scyther,scyther,123,Great,1,0,14,11,21,1499,133.45,112.637,112,1683520,False,False,True,Bug/Flying
+Scyther,scyther,123,Ultra,1,0,13,15,39.5,2500,171.669,144.108,147,3636611,False,False,True,Bug/Flying
+Jynx,jynx,124,Great,1,0,14,15,22,1500,139.724,103.384,111,1603419,False,False,True,Ice/Psychic
+Jynx,jynx,124,Ultra,1,1,15,15,43,2497,180.387,133.68,143,3448320,False,False,True,Ice/Psychic
+Electabuzz,electabuzz,125,Great,1,0,14,11,24.5,1497,130.921,113.73,115,1712310,False,False,True,Electric
+Electabuzz,electabuzz,125,Ultra,1,5,15,15,49.5,2500,170.074,144.94,149,3672933,False,False,True,Electric
+Magmar,magmar,126,Great,1,0,15,15,23.5,1498,133.402,109.441,115,1678958,False,False,True,Fire
+Magmar,magmar,126,Ultra,1,0,14,15,49.5,2500,172.588,140.751,149,3619490,False,False,True,Fire
+Pinsir,pinsir,127,Great,1,0,13,14,19,1499,138.582,113.544,103,1620731,False,False,True,Bug
+Pinsir,pinsir,127,Ultra,1,0,14,15,33,2498,178.443,146.953,133,3487630,False,False,True,Bug
+Tauros,tauros,128,Great,1,0,15,15,21.5,1496,122.642,122.642,121,1819969,False,False,True,Normal
+Tauros,tauros,128,Ultra,1,0,15,15,42,2498,158.459,158.459,156,3917064,False,False,True,Normal
+Paldean Tauros Aqua,tauros-paldea-aqua,128,Great,1,0,11,15,20,1498,125.454,121.87,117,1788816,False,False,True,Fighting/Water
+Paldean Tauros Aqua,tauros-paldea-aqua,128,Ultra,1,0,15,15,36,2497,161.153,159.619,150,3858462,False,False,True,Fighting/Water
+Paldean Tauros Blaze,tauros-paldea-blaze,128,Great,1,0,11,15,20,1498,125.454,121.87,117,1788816,False,False,True,Fighting/Fire
+Paldean Tauros Blaze,tauros-paldea-blaze,128,Ultra,1,0,15,15,36,2497,161.153,159.619,150,3858462,False,False,True,Fighting/Fire
+Paldean Tauros Combat,tauros-paldea-combat,128,Great,1,0,11,15,20,1498,125.454,121.87,117,1788816,False,False,True,Fighting
+Paldean Tauros Combat,tauros-paldea-combat,128,Ultra,1,0,15,15,36,2497,161.153,159.619,150,3858462,False,False,True,Fighting
+Gyarados,gyarados,130,Great,1,0,14,15,16.5,1499,128.605,108.527,125,1744637,False,False,True,Water/Flying
+Gyarados,gyarados,130,Ultra,1,0,15,14,27.5,2500,166.029,140.809,161,3763914,False,False,True,Water/Flying
+Lapras,lapras,131,Great,1,0,10,14,22,1498,103.384,115.288,182,2169244,False,False,True,Water/Ice
+Lapras,lapras,131,Ultra,1,0,15,15,42.5,2498,132.463,151.73,234,4703060,False,False,True,Water/Ice
+Vaporeon,vaporeon,134,Great,1,1,15,15,18,1500,116.751,99.749,165,1921559,False,False,True,Water
+Vaporeon,vaporeon,134,Ultra,1,0,15,13,30.5,2500,150.622,129.314,213,4148725,False,False,True,Water
+Jolteon,jolteon,135,Great,1,0,12,15,19.5,1500,136.854,114.438,105,1644440,False,False,True,Electric
+Jolteon,jolteon,135,Ultra,1,0,15,15,34.5,2500,176.002,149.45,135,3550982,False,False,True,Electric
+Flareon,flareon,136,Great,1,0,15,13,18.5,1500,141.344,111.466,101,1591266,False,False,True,Fire
+Flareon,flareon,136,Ultra,1,1,15,15,31,2498,182.229,143.127,131,3416735,False,False,True,Fire
+Porygon,porygon,137,Great,1,0,13,15,37.5,1500,118.738,115.634,138,1894754,False,False,True,Normal
+Omanyte,omanyte,138,Great,1,0,13,15,45.5,1499,126.76,135.755,103,1772455,False,False,True,Rock/Water
+Omastar,omastar,139,Great,1,0,9,15,20.5,1500,125.198,127.013,113,1796907,False,False,True,Rock/Water
+Omastar,omastar,139,Ultra,1,0,14,15,37.5,2499,160.645,166.854,145,3886628,False,False,True,Rock/Water
+Kabuto,kabuto,140,Great,1,10,15,15,49.5,1493,132.373,129.86,98,1684610,False,False,True,Rock/Water
+Kabutops,kabutops,141,Great,1,0,14,10,21,1497,134.675,122.431,101,1665329,False,False,True,Rock/Water
+Kabutops,kabutops,141,Ultra,1,0,14,15,39,2497,172.62,156.927,133,3602814,False,False,True,Rock/Water
+Aerodactyl,aerodactyl,142,Great,1,1,15,15,20,1496,132.623,103.948,122,1681870,False,False,True,Rock/Flying
+Aerodactyl,aerodactyl,142,Ultra,1,0,13,15,37.5,2499,171.51,133.483,159,3640106,False,False,True,Rock/Flying
+Snorlax,snorlax,143,Great,1,1,15,14,17.5,1500,106.737,102.825,192,2107234,False,False,True,Normal
+Snorlax,snorlax,143,Ultra,1,0,12,15,29.5,2499,137.859,131.329,250,4526240,False,False,True,Normal
+Articuno,articuno,144,Great,1,0,15,15,18.5,1496,110.317,144.217,127,2020521,False,False,True,Ice/Flying
+Articuno,articuno,144,Ultra,1,0,13,15,32,2497,142.808,185.204,165,4363998,False,False,True,Ice/Flying
+Galarian Articuno,articuno-galarian,144,Great,1,0,15,15,15.5,1500,131.486,111.5,116,1700632,False,False,True,Psychic/Flying
+Galarian Articuno,articuno-galarian,144,Ultra,1,0,15,12,26,2499,170.291,144.407,149,3664095,False,False,True,Psychic/Flying
+Zapdos,zapdos,145,Great,1,0,12,12,16,1500,135.192,105.268,117,1665065,False,False,True,Electric/Flying
+Zapdos,zapdos,145,Ultra,1,0,13,13,26.5,2497,173.984,136.162,151,3577187,False,False,True,Electric/Flying
+Galarian Zapdos,zapdos-galarian,145,Great,1,3,15,14,15.5,1497,134.115,107.292,116,1669187,False,False,True,Fighting/Flying
+Galarian Zapdos,zapdos-galarian,145,Ultra,1,1,15,15,26,2498,172.335,138.958,151,3616031,False,False,True,Fighting/Flying
+Moltres,moltres,146,Great,1,1,15,15,16,1500,134.657,104.733,118,1664168,False,False,True,Fire/Flying
+Moltres,moltres,146,Ultra,1,0,14,12,27,2499,174.23,135.358,152,3584682,False,False,True,Fire/Flying
+Galarian Moltres,moltres-galarian,146,Great,1,0,13,12,18,1499,114.484,138.288,124,1963147,False,False,True,Dark/Flying
+Galarian Moltres,moltres-galarian,146,Ultra,1,1,15,15,29.5,2497,147.292,178.492,161,4232748,False,False,True,Dark/Flying
+Dragonair,dragonair,148,Great,1,1,15,15,34,1499,123.932,113.353,129,1812204,False,False,True,Dragon
+Dragonite,dragonite,149,Great,1,3,15,14,14.5,1500,135.315,108.353,113,1656785,False,False,True,Dragon/Flying
+Dragonite,dragonite,149,Ultra,1,0,13,15,24.5,2499,173.901,139.517,148,3590798,False,False,True,Dragon/Flying
+Mewtwo,mewtwo,150,Great,1,4,15,15,13,1498,146.432,94.892,110,1528476,False,False,True,Psychic
+Mewtwo,mewtwo,150,Ultra,1,1,15,13,22,2498,188.597,123.434,142,3305645,False,False,True,Psychic
+Armored Mewtwo,mewtwo-a,150,Great,1,0,11,14,18,1500,103.149,163.792,129,2179460,False,False,True,Psychic
+Armored Mewtwo,mewtwo-a,150,Ultra,1,0,12,13,30,2500,133.169,212.193,166,4690764,False,False,True,Psychic
+Mew,mew,151,Great,1,0,10,13,17.5,1500,117.354,122.943,133,1918907,False,False,True,Psychic
+Mew,mew,151,Ultra,1,0,15,10,29,2499,151.074,161.865,169,4132647,False,False,True,Psychic
+Bayleef,bayleef,153,Great,1,3,15,15,50,1500,105.038,142.851,142,2130669,False,False,True,Grass
+Meganium,meganium,154,Great,1,0,10,15,24,1499,109.945,138.74,134,2044014,False,False,True,Grass
+Meganium,meganium,154,Ultra,1,0,14,15,50,2496,141.17,181.505,172,4407174,False,False,True,Grass
+Quilava,quilava,156,Great,1,0,13,15,40,1499,124.867,109.852,131,1796913,False,False,True,Fire
+Typhlosion,typhlosion,157,Great,1,0,15,13,19.5,1500,131.545,110.899,117,1706819,False,False,True,Fire
+Typhlosion,typhlosion,157,Ultra,1,0,13,15,35,2500,169.829,141.651,153,3680627,False,False,True,Fire
+Hisuian Typhlosion,typhlosion-hisuian,157,Great,1,0,11,12,19,1500,138.582,106.557,110,1624362,False,False,True,Fire/Ghost
+Hisuian Typhlosion,typhlosion-hisuian,157,Ultra,1,1,15,14,32,2498,177.766,139.089,142,3510976,False,False,True,Fire/Ghost
+Croconaw,croconaw,159,Great,1,0,13,15,37.5,1500,116.41,120.29,138,1932405,False,False,True,Water
+Feraligatr,feraligatr,160,Great,1,0,11,13,20,1499,122.467,118.883,126,1834459,False,False,True,Water
+Feraligatr,feraligatr,160,Ultra,1,1,15,14,35.5,2497,157.484,155.191,162,3959291,False,False,True,Water
+Furret,furret,162,Great,1,1,15,14,35.5,1500,113.908,107.028,162,1975006,False,False,True,Normal
+Noctowl,noctowl,164,Great,1,1,14,15,28.5,1499,104.123,121.239,171,2158653,False,False,True,Normal/Flying
+Ledian,ledian,166,Great,1,13,15,15,50,1497,100.836,163.018,135,2219144,False,False,True,Bug/Flying
+Ariados,ariados,168,Great,1,0,14,15,35,1500,122.612,105.096,142,1829810,False,False,True,Bug/Poison
+Crobat,crobat,169,Great,1,0,15,12,21.5,1498,120.164,119.545,130,1867457,False,False,True,Poison/Flying
+Crobat,crobat,169,Ultra,1,0,15,14,41.5,2497,154.774,153.976,169,4027523,False,False,True,Poison/Flying
+Lanturn,lanturn,171,Great,1,0,13,14,28,1500,103.205,106.033,199,2177678,False,False,True,Water/Electric
+Togetic,togetic,176,Great,1,0,14,14,38.5,1500,108.669,152.449,125,2070807,False,False,True,Fairy/Flying
+Xatu,xatu,178,Great,1,0,13,15,26,1498,130.784,108.305,121,1713911,False,False,True,Psychic/Flying
+Xatu,xatu,178,Ultra,1,15,15,15,50,2474,173.942,135.288,149,3506318,False,False,True,Psychic/Flying
+Flaaffy,flaaffy,180,Great,1,0,15,14,47,1499,119.668,102.337,153,1873720,False,False,True,Electric
+Ampharos,ampharos,181,Great,1,0,13,11,20,1499,126.051,108.727,130,1781672,False,False,True,Electric
+Ampharos,ampharos,181,Ultra,1,0,13,15,36,2497,161.921,139.666,170,3844529,False,False,True,Electric
+Bellossom,bellossom,182,Great,1,1,14,14,25,1497,113.549,133.587,130,1971920,False,False,True,Grass
+Bellossom,bellossom,182,Ultra,1,9,15,15,50,2494,149.573,168.9,164,4143131,False,False,True,Grass
+Azumarill,azumarill,184,Great,1,0,15,15,45.5,1499,91.594,136.573,196,2451821,False,False,True,Water/Fairy
+Sudowoodo,sudowoodo,185,Great,1,0,14,11,27,1500,115.922,131.887,127,1941657,False,False,True,Rock
+Sudowoodo,sudowoodo,185,Ultra,1,15,15,15,50,2428,152.935,160.497,157,3853658,False,False,True,Rock
+Politoed,politoed,186,Great,1,0,15,11,23.5,1500,112.679,125.631,141,1995989,False,False,True,Water
+Politoed,politoed,186,Ultra,1,0,15,14,48.5,2498,144.908,161.564,184,4307786,False,False,True,Water
+Jumpluff,jumpluff,189,Great,1,0,14,14,43,1499,95.025,158.644,157,2366809,False,False,True,Grass/Flying
+Aipom,aipom,190,Great,1,14,15,14,49.5,1500,125.671,106.401,134,1791779,False,False,True,Normal
+Sunflora,sunflora,192,Great,1,0,15,15,26.5,1500,127.222,103.153,134,1758518,False,False,True,Grass
+Sunflora,sunflora,192,Ultra,1,15,15,15,50,2421,168.06,126.045,164,3474032,False,False,True,Grass
+Yanma,yanma,193,Great,1,0,14,15,49.5,1498,129.022,90.483,149,1739464,False,False,True,Bug/Flying
+Quagsire,quagsire,195,Great,1,0,15,14,29,1499,109.349,113.665,165,2050805,False,False,True,Water/Ground
+Espeon,espeon,196,Great,1,0,15,15,17.5,1498,145.855,106.178,99,1533168,False,False,True,Psychic
+Espeon,espeon,196,Ultra,1,1,15,15,29,2493,188.483,136.686,128,3297651,False,False,True,Psychic
+Umbreon,umbreon,197,Great,1,0,15,15,27.5,1500,88.268,178.638,161,2538669,False,False,True,Dark
+Murkrow,murkrow,198,Great,1,0,15,14,43.5,1499,141.366,82.396,136,1584123,False,False,True,Dark/Flying
+Slowking,slowking,199,Great,1,0,13,15,22.5,1500,112.156,122.294,146,2002540,False,False,True,Water/Psychic
+Slowking,slowking,199,Ultra,1,0,14,14,45.5,2500,144.751,158.654,188,4317488,False,False,True,Water/Psychic
+Galarian Slowking,slowking-galarian,199,Great,1,0,14,13,21,1500,116.31,118.759,140,1933790,False,False,True,Poison/Psychic
+Galarian Slowking,slowking-galarian,199,Ultra,1,0,15,15,39.5,2500,149.62,153.557,181,4158520,False,False,True,Poison/Psychic
+Misdreavus,misdreavus,200,Great,1,1,15,15,29.5,1499,121.897,122.622,123,1838512,False,False,True,Ghost
+Girafarig,girafarig,203,Great,1,0,15,12,28,1500,128.653,104.619,130,1749738,False,False,True,Normal/Psychic
+Forretress,forretress,205,Great,1,0,9,15,25.5,1500,108.608,144.361,132,2069583,False,False,True,Bug/Steel
+Forretress,forretress,205,Ultra,1,9,15,15,50,2492,142.851,184.866,164,4330960,False,False,True,Bug/Steel
+Dunsparce,dunsparce,206,Great,1,0,14,12,40,1500,103.529,112.223,187,2172627,False,False,True,Normal
+Gligar,gligar,207,Great,1,0,15,12,33,1500,107.216,149.202,131,2095589,False,False,True,Ground/Flying
+Steelix,steelix,208,Great,1,0,14,15,24,1500,96.856,187.169,128,2320447,False,False,True,Steel/Ground
+Steelix,steelix,208,Ultra,1,2,15,15,49.5,2497,125.671,240.45,164,4955661,False,False,True,Steel/Ground
+Granbull,granbull,210,Great,1,0,15,15,22,1498,132.832,91.479,139,1689035,False,False,True,Fairy
+Granbull,granbull,210,Ultra,1,0,15,14,44,2500,171.784,118.304,179,3637755,False,False,True,Fairy
+Qwilfish,qwilfish,211,Great,1,0,12,14,28,1498,130.067,106.033,125,1723914,False,False,True,Water/Poison
+Hisuian Qwilfish,qwilfish-hisuian,211,Great,1,0,15,15,26.5,1495,126.534,114.156,122,1762239,False,False,True,Dark/Poison
+Scizor,scizor,212,Great,1,1,15,15,18.5,1497,136.173,112.616,107,1640865,False,False,True,Bug/Steel
+Scizor,scizor,212,Ultra,1,0,15,15,32,2499,175.534,145.783,139,3556992,False,False,True,Bug/Steel
+Heracross,heracross,214,Great,1,0,15,15,18,1498,132.621,109.95,116,1691475,False,False,True,Bug/Fighting
+Heracross,heracross,214,Ultra,1,0,14,13,30.5,2500,171.929,141.805,149,3632687,False,False,True,Bug/Fighting
+Sneasel,sneasel,215,Great,1,1,15,14,27.5,1496,133.103,112.787,112,1681384,False,False,True,Dark/Ice
+Hisuian Sneasel,sneasel-hisuian,215,Great,1,1,15,14,27.5,1496,133.103,112.787,112,1681384,False,False,True,Fighting/Poison
+Teddiursa,teddiursa,216,Great,1,15,15,14,50,1497,131.927,90.752,142,1700124,False,False,True,Normal
+Ursaring,ursaring,217,Great,1,0,14,15,19,1498,137.418,92.0,129,1630876,False,False,True,Normal
+Ursaring,ursaring,217,Ultra,1,0,15,13,33.5,2500,177.644,119.684,165,3508088,False,False,True,Normal
+Magcargo,magcargo,219,Great,1,0,15,14,38.5,1498,108.669,161.049,118,2065115,False,False,True,Fire/Rock
+Piloswine,piloswine,221,Great,1,0,15,10,24.5,1500,119.681,101.167,155,1876691,False,False,True,Ice/Ground
+Piloswine,piloswine,221,Ultra,1,5,15,12,50,2500,156.296,128.566,199,3998768,False,False,True,Ice/Ground
+Corsola,corsola,222,Great,1,10,15,15,50,1499,107.558,143.691,135,2086453,False,False,True,Water/Rock
+Galarian Corsola,corsola-galarian,222,Great,1,0,15,15,50,1498,97.475,165.539,142,2291297,False,False,True,Ghost
+Octillery,octillery,224,Great,1,0,15,13,24.5,1498,130.26,103.15,128,1719855,False,False,True,Water
+Octillery,octillery,224,Ultra,1,5,15,15,50,2494,169.741,131.087,164,3649124,False,False,True,Water
+Mantine,mantine,226,Great,1,0,15,14,27.5,1500,103.68,168.831,123,2153046,False,False,True,Water/Flying
+Skarmory,skarmory,227,Great,1,0,15,14,27.5,1500,103.68,168.831,123,2153046,False,False,True,Steel/Flying
+Houndoom,houndoom,229,Great,1,0,13,13,21.5,1499,138.747,97.246,120,1619113,False,False,True,Dark/Fire
+Houndoom,houndoom,229,Ultra,1,0,15,14,41,2494,178.147,126.453,155,3491715,False,False,True,Dark/Fire
+Kingdra,kingdra,230,Great,1,0,15,13,21.5,1498,120.164,129.455,120,1866712,False,False,True,Water/Dragon
+Kingdra,kingdra,230,Ultra,1,0,15,15,41.5,2499,154.774,166.741,156,4025918,False,False,True,Water/Dragon
+Donphan,donphan,232,Great,1,0,14,8,19,1500,124.608,115.874,125,1804841,False,False,True,Ground
+Donphan,donphan,232,Ultra,1,0,15,15,32,2494,159.171,148.758,165,3906859,False,False,True,Ground
+Porygon2,porygon2,233,Great,1,0,12,15,21,1500,121.207,117.534,130,1851978,False,False,True,Normal
+Porygon2,porygon2,233,Ultra,1,1,15,15,39,2496,156.143,153.004,167,3989713,False,False,True,Normal
+Stantler,stantler,234,Great,1,0,11,15,26.5,1499,132.036,97.651,132,1701933,False,False,True,Normal
+Stantler,stantler,234,Ultra,1,15,15,15,50,2447,173.942,122.684,161,3435721,False,False,True,Normal
+Hitmontop,hitmontop,237,Great,1,0,14,15,26.5,1499,118.969,151.978,104,1880402,False,False,True,Fighting
+Hitmontop,hitmontop,237,Ultra,1,15,15,15,50,2438,157.976,186.547,127,3742685,False,False,True,Fighting
+Magby,magby,240,Great,1,15,15,15,50,1496,139.49,95.794,120,1603478,False,False,True,Fire
+Miltank,miltank,241,Great,1,0,14,14,24.5,1497,103.811,136.872,152,2159755,False,False,True,Normal
+Miltank,miltank,241,Ultra,1,4,15,15,50,2491,135.288,174.782,194,4587327,False,False,True,Normal
+Blissey,blissey,242,Great,1,0,15,3,21.5,1499,79.903,113.97,309,2813936,False,False,True,Normal
+Blissey,blissey,242,Ultra,1,0,15,14,41,2499,102.594,146.335,405,6080293,False,False,True,Normal
+Raikou,raikou,243,Great,1,3,15,14,16,1500,130.382,112.214,118,1726433,False,False,True,Electric
+Raikou,raikou,243,Ultra,1,1,15,12,27,2500,167.983,145.77,152,3722005,False,False,True,Electric
+Entei,entei,244,Great,1,1,15,15,16,1498,126.108,99.39,142,1779803,False,False,True,Fire
+Entei,entei,244,Ultra,1,0,12,15,27,2498,163.124,127.028,184,3812725,False,False,True,Fire
+Suicune,suicune,245,Great,1,1,15,14,19,1500,105.392,145.57,139,2132532,False,False,True,Water
+Suicune,suicune,245,Ultra,1,0,15,15,33.5,2498,135.491,188.182,180,4589469,False,False,True,Water
+Pupitar,pupitar,247,Great,1,0,14,14,35.5,1497,118.495,112.379,142,1890935,False,False,True,Rock/Ground
+Tyranitar,tyranitar,248,Great,1,0,15,15,14.5,1499,127.684,112.932,122,1759191,False,False,True,Rock/Dark
+Tyranitar,tyranitar,248,Ultra,1,0,13,11,24.5,2500,165.966,145.468,156,3766275,False,False,True,Rock/Dark
+Lugia,lugia,249,Great,1,0,11,11,15.5,1500,101.507,168.828,129,2210694,False,False,True,Psychic/Flying
+Lugia,lugia,249,Ultra,1,0,14,15,25.5,2499,130.194,218.565,168,4780584,False,False,True,Psychic/Flying
+Ho-Oh,ho-oh,250,Great,1,0,13,15,14.5,1500,121.58,130.736,116,1843807,False,False,True,Fire/Flying
+Ho-Oh,ho-oh,250,Ultra,1,1,15,14,24,2497,157.065,169.499,149,3966716,False,False,True,Fire/Flying
+Celebi,celebi,251,Great,1,0,10,13,17.5,1500,117.354,122.943,133,1918907,False,False,True,Psychic/Grass
+Celebi,celebi,251,Ultra,1,0,15,10,29,2499,151.074,161.865,169,4132647,False,False,True,Psychic/Grass
+Grovyle,grovyle,253,Great,1,0,15,14,38.5,1500,134.468,105.542,118,1674652,False,False,True,Grass
+Sceptile,sceptile,254,Great,1,0,12,15,20.5,1500,134.876,109.473,113,1668474,False,False,True,Grass
+Sceptile,sceptile,254,Ultra,1,0,15,13,38,2496,173.702,143.324,144,3584967,False,False,True,Grass
+Combusken,combusken,256,Great,1,0,15,14,39.5,1498,128.358,102.372,133,1747651,False,False,True,Fire/Fighting
+Blaziken,blaziken,257,Great,1,1,15,15,19.5,1499,142.163,92.023,120,1569863,False,False,True,Fire/Fighting
+Blaziken,blaziken,257,Ultra,1,1,15,15,35,2499,183.537,118.804,156,3401566,False,False,True,Fire/Fighting
+Marshtomp,marshtomp,259,Great,1,0,14,15,35,1500,118.804,111.95,142,1888613,False,False,True,Water/Ground
+Swampert,swampert,260,Great,1,0,14,14,19,1498,121.114,110.051,139,1852687,False,False,True,Water/Ground
+Swampert,swampert,260,Ultra,1,0,14,13,33.5,2499,156.568,142.266,179,3987086,False,False,True,Water/Ground
+Mightyena,mightyena,262,Great,1,0,12,14,30,1498,125.121,105.365,136,1792931,False,False,True,Dark
+Linoone,linoone,264,Great,1,0,15,14,40,1499,112.223,113.013,158,2003851,False,False,True,Normal
+Galarian Linoone,linoone-galarian,264,Great,1,0,15,14,40,1499,112.223,113.013,158,2003851,False,False,True,Dark/Normal
+Beautifly,beautifly,267,Great,1,0,15,15,34,1495,142.825,85.392,128,1561106,False,False,True,Bug/Flying
+Ludicolo,ludicolo,272,Great,1,0,15,15,24.5,1496,114.391,126.293,135,1950313,False,False,True,Water/Grass
+Ludicolo,ludicolo,272,Ultra,1,6,14,15,50,2494,150.414,159.657,172,4130511,False,False,True,Water/Grass
+Shiftry,shiftry,275,Great,1,0,14,11,24.5,1500,132.244,89.265,144,1699876,False,False,True,Grass/Dark
+Shiftry,shiftry,275,Ultra,1,3,15,15,50,2490,170.581,114.281,186,3625907,False,False,True,Grass/Dark
+Swellow,swellow,277,Great,1,0,15,15,29.5,1497,134.231,100.855,123,1665164,False,False,True,Normal/Flying
+Pelipper,pelipper,279,Great,1,0,12,15,27,1499,121.475,129.111,118,1850682,False,False,True,Water/Flying
+Gardevoir,gardevoir,282,Great,1,0,15,15,18,1496,134.321,119.018,104,1662612,False,False,True,Psychic/Fairy
+Gardevoir,gardevoir,282,Ultra,1,0,12,15,30.5,2496,174.134,152.091,135,3575370,False,False,True,Psychic/Fairy
+Masquerain,masquerain,284,Great,1,0,15,14,25,1500,128.243,110.209,124,1752564,False,False,True,Bug/Flying
+Masquerain,masquerain,284,Ultra,1,9,15,15,50,2493,168.9,138.65,157,3676617,False,False,True,Bug/Flying
+Breloom,breloom,286,Great,1,2,15,15,21,1497,148.754,97.333,104,1505784,False,False,True,Grass/Fighting
+Breloom,breloom,286,Ultra,1,0,14,15,41,2498,191.667,125.657,135,3251396,False,False,True,Grass/Fighting
+Vigoroth,vigoroth,288,Great,1,1,15,15,29,1499,115.104,115.104,147,1947588,False,False,True,Normal
+Slaking,slaking,289,Great,1,0,14,15,12.5,1500,136.977,85.02,141,1642071,False,False,True,Normal
+Slaking,slaking,289,Ultra,1,0,11,15,21,2500,177.526,108.352,183,3520046,False,False,True,Normal
+Ninjask,ninjask,291,Great,1,0,12,15,29,1499,143.16,89.205,123,1570795,False,False,True,Bug/Flying
+Loudred,loudred,294,Great,1,15,15,15,50,1500,125.205,80.669,178,1797820,False,False,True,Normal
+Exploud,exploud,295,Great,1,0,15,10,24.5,1500,118.358,100.505,160,1903302,False,False,True,Normal
+Exploud,exploud,295,Ultra,1,4,15,14,50,2498,153.775,127.726,206,4046044,False,False,True,Normal
+Hariyama,hariyama,297,Great,1,0,14,14,20,1500,124.857,76.467,188,1794918,False,False,True,Fighting
+Hariyama,hariyama,297,Ultra,1,1,15,15,36,2500,161.153,98.994,243,3876642,False,False,True,Fighting
+Delcatty,delcatty,301,Great,1,0,15,15,49,1500,110.26,118.613,156,2040196,False,False,True,Normal
+Sableye,sableye,302,Great,1,0,15,15,49.5,1499,118.13,126.508,127,1897948,False,False,True,Dark/Ghost
+Mawile,mawile,303,Great,1,1,15,15,40,1500,123.287,123.287,120,1823956,False,False,True,Steel/Fairy
+Aron,aron,304,Great,1,15,15,15,50,1478,114.281,131.087,127,1902550,False,False,True,Steel/Rock
+Lairon,lairon,305,Great,1,0,14,15,28,1498,111.688,149.859,120,2008495,False,False,True,Steel/Rock
+Aggron,aggron,306,Great,1,0,14,12,19,1499,115.291,157.798,107,1946616,False,False,True,Steel/Rock
+Aggron,aggron,306,Ultra,1,0,13,15,33,2500,148.453,202.435,140,4207293,False,False,True,Steel/Rock
+Medicham,medicham,308,Great,1,5,15,15,50,1499,105.878,140.33,142,2109814,False,False,True,Fighting/Psychic
+Manectric,manectric,310,Great,1,0,15,15,24,1500,140.704,92.93,122,1595220,False,False,True,Electric
+Manectric,manectric,310,Ultra,1,2,15,15,50,2496,182.345,119.323,157,3415989,False,False,True,Electric
+Plusle,plusle,311,Great,1,0,15,14,34.5,1499,126.691,109.243,128,1771534,False,False,True,Electric
+Minun,minun,312,Great,1,0,15,14,38.5,1500,114.923,128.995,132,1956841,False,False,True,Electric
+Volbeat,volbeat,313,Great,1,0,15,15,35.5,1500,109.322,138.372,136,2057277,False,False,True,Bug
+Illumise,illumise,314,Great,1,0,15,15,35.5,1500,109.322,138.372,136,2057277,False,False,True,Bug
+Roselia,roselia,315,Great,1,0,13,15,31,1497,137.225,106.239,112,1632807,False,False,True,Grass/Poison
+Swalot,swalot,317,Great,1,0,14,14,29.5,1498,101.581,125.525,173,2205899,False,False,True,Poison
+Sharpedo,sharpedo,319,Great,1,0,15,15,25.5,1496,163.923,66.109,126,1365439,False,False,True,Water/Dark
+Sharpedo,sharpedo,319,Ultra,1,15,15,15,50,2466,216.797,82.349,157,2802942,False,False,True,Water/Dark
+Wailmer,wailmer,320,Great,1,0,15,15,50,1494,114.281,69.745,245,1952773,False,False,True,Water
+Wailord,wailord,321,Great,1,0,15,15,25,1500,116.888,68.129,241,1919209,False,False,True,Water
+Wailord,wailord,321,Ultra,1,9,15,15,50,2496,154.615,85.711,304,4028657,False,False,True,Water
+Camerupt,camerupt,323,Great,1,0,14,13,26,1499,132.146,102.175,126,1701250,False,False,True,Fire/Ground
+Camerupt,camerupt,323,Ultra,1,15,15,15,50,2479,175.623,126.885,157,3498579,False,False,True,Fire/Ground
+Torkoal,torkoal,324,Great,1,0,15,15,27.5,1496,105.782,152.718,131,2116285,False,False,True,Fire
+Spoink,spoink,325,Great,1,15,15,15,49.5,1499,117.293,114.779,142,1911708,False,False,True,Psychic
+Grumpig,grumpig,326,Great,1,1,14,15,24,1499,112.563,132.196,134,1993969,False,False,True,Psychic
+Grumpig,grumpig,326,Ultra,1,3,14,15,50,2500,146.212,169.741,172,4268721,False,False,True,Psychic
+Flygon,flygon,330,Great,1,0,15,9,21.5,1500,126.978,113.351,123,1770346,False,False,True,Ground/Dragon
+Flygon,flygon,330,Ultra,1,0,13,15,41,2497,163.037,143.949,163,3825445,False,False,True,Ground/Dragon
+Cacturne,cacturne,332,Great,1,0,14,15,24.5,1500,146.129,85.297,123,1533127,False,False,True,Grass/Dark
+Cacturne,cacturne,332,Ultra,1,6,15,15,50,2499,190.748,109.239,157,3271430,False,False,True,Grass/Dark
+Altaria,altaria,334,Great,1,0,14,15,29,1497,101.435,154.671,141,2212160,False,False,True,Dragon/Flying
+Zangoose,zangoose,335,Great,1,0,15,10,23.5,1500,143.763,90.014,121,1565818,False,False,True,Normal
+Zangoose,zangoose,335,Ultra,1,0,15,15,48,2500,184.327,115.412,159,3382478,False,False,True,Normal
+Seviper,seviper,336,Great,1,0,14,14,27,1499,136.052,91.627,132,1645518,False,False,True,Poison
+Lunatone,lunatone,337,Great,1,0,15,14,24.5,1499,117.697,111.085,146,1908856,False,False,True,Rock/Psychic
+Lunatone,lunatone,337,Ultra,1,5,15,15,50,2495,153.775,141.17,186,4037775,False,False,True,Rock/Psychic
+Solrock,solrock,338,Great,1,0,15,14,24.5,1499,117.697,111.085,146,1908856,False,False,True,Rock/Psychic
+Solrock,solrock,338,Ultra,1,5,15,15,50,2495,153.775,141.17,186,4037775,False,False,True,Rock/Psychic
+Whiscash,whiscash,340,Great,1,0,14,13,28,1500,106.74,109.567,180,2105124,False,False,True,Water/Ground
+Crawdaunt,crawdaunt,342,Great,1,2,15,14,22.5,1499,143.205,99.483,110,1567107,False,False,True,Water/Dark
+Crawdaunt,crawdaunt,342,Ultra,1,0,15,15,46,2498,183.747,128.787,143,3383990,False,False,True,Water/Dark
+Claydol,claydol,344,Great,1,0,14,15,29.5,1498,101.581,176.315,123,2202951,False,False,True,Ground/Psychic
+Cradily,cradily,346,Great,1,0,15,15,26,1494,103.537,142.363,146,2152025,False,False,True,Rock/Grass
+Cradily,cradily,346,Ultra,1,15,15,15,50,2499,140.33,175.623,180,4436127,False,False,True,Rock/Grass
+Anorith,anorith,347,Great,1,0,15,15,45,1500,143.493,93.759,116,1560642,False,False,True,Rock/Bug
+Armaldo,armaldo,348,Great,1,0,9,15,20,1500,132.623,109.324,117,1696369,False,False,True,Rock/Bug
+Armaldo,armaldo,348,Ultra,1,2,15,15,35,2500,170.59,143.936,149,3658548,False,False,True,Rock/Bug
+Milotic,milotic,350,Great,1,0,15,11,19,1500,111.798,136.253,132,2010727,False,False,True,Water
+Milotic,milotic,350,Ultra,1,0,13,15,33,2498,143.954,173.945,173,4331926,False,False,True,Water
+Castform,castform,351,Great,1,0,14,15,41.5,1496,110.895,122.064,149,2016902,False,False,True,Normal
+Castform Rainy,castform-rainy,351,Great,1,0,14,15,41.5,1496,110.895,122.064,149,2016902,False,False,True,Water
+Castform Snowy,castform-snowy,351,Great,1,0,14,15,41.5,1496,110.895,122.064,149,2016902,False,False,True,Ice
+Castform Sunny,castform-sunny,351,Great,1,0,14,15,41.5,1496,110.895,122.064,149,2016902,False,False,True,Fire
+Kecleon,kecleon,352,Great,1,0,15,15,28,1498,113.808,144.204,120,1969400,False,False,True,Normal
+Banette,banette,354,Great,1,0,14,15,24.5,1500,144.146,92.571,117,1561210,False,False,True,Ghost
+Banette,banette,354,Ultra,1,6,15,15,50,2498,188.227,118.482,148,3300636,False,False,True,Ghost
+Dusclops,dusclops,356,Great,1,0,11,15,45,1499,101.097,199.748,110,2221341,False,False,True,Ghost
+Tropius,tropius,357,Great,1,0,15,15,30,1498,99.511,130.243,174,2255144,False,False,True,Grass/Flying
+Chimecho,chimecho,358,Great,1,0,14,12,25.5,1500,118.052,124.123,130,1904884,False,False,True,Psychic
+Chimecho,chimecho,358,Ultra,1,11,15,15,50,2500,156.296,155.456,164,3984715,False,False,True,Psychic
+Absol,absol,359,Great,1,0,15,15,22,1497,154.136,84.587,111,1447195,False,False,True,Dark
+Absol,absol,359,Ultra,1,0,15,14,44,2496,199.334,109.39,143,3118147,False,False,True,Dark
+Glalie,glalie,362,Great,1,0,13,13,27.5,1498,113.488,122.595,142,1975654,False,False,True,Ice
+Sealeo,sealeo,364,Great,1,0,15,14,38,1498,106.714,114.503,172,2101678,False,False,True,Ice/Water
+Walrein,walrein,365,Great,1,0,12,15,21,1499,111.413,115.086,157,2013052,False,False,True,Ice/Water
+Walrein,walrein,365,Ultra,1,0,15,15,39.5,2500,143.32,150.407,202,4354398,False,False,True,Ice/Water
+Huntail,huntail,367,Great,1,1,15,15,24,1498,129.578,126.961,105,1727389,False,False,True,Water
+Huntail,huntail,367,Ultra,1,3,15,15,50,2495,168.06,163.018,135,3698573,False,False,True,Water
+Gorebyss,gorebyss,368,Great,1,0,15,15,22.5,1497,133.7,122.928,102,1676417,False,False,True,Water
+Gorebyss,gorebyss,368,Ultra,1,0,15,12,46.5,2500,173.612,159.624,130,3602634,False,False,True,Water
+Relicanth,relicanth,369,Great,1,1,15,15,22.5,1496,103.285,138.136,152,2168630,False,False,True,Water/Rock
+Relicanth,relicanth,369,Ultra,1,0,11,15,47,2500,133.699,176.614,198,4675388,False,False,True,Water/Rock
+Shelgon,shelgon,372,Great,1,1,15,14,28,1499,122.291,120.17,125,1836968,False,False,True,Dragon
+Salamence,salamence,373,Great,1,0,10,14,15,1500,143.318,92.096,119,1570686,False,False,True,Dragon/Flying
+Salamence,salamence,373,Ultra,1,1,15,15,24.5,2499,183.819,121.003,152,3380886,False,False,True,Dragon/Flying
+Metang,metang,375,Great,1,0,13,15,38,1500,107.493,147.218,132,2088886,False,False,True,Steel/Psychic
+Metagross,metagross,376,Great,1,2,15,15,14.5,1495,131.754,123.615,104,1693815,False,False,True,Steel/Psychic
+Metagross,metagross,376,Ultra,1,0,15,13,24.5,2495,169.933,160.676,134,3658771,False,False,True,Steel/Psychic
+Regirock,regirock,377,Great,1,0,10,12,18.5,1500,102.848,183.288,116,2186685,False,False,True,Rock
+Regirock,regirock,377,Ultra,1,0,12,15,31,2499,132.061,236.824,151,4722548,False,False,True,Rock
+Regice,regice,378,Great,1,0,10,12,18.5,1500,102.848,183.288,116,2186685,False,False,True,Ice
+Regice,regice,378,Ultra,1,0,12,15,31,2499,132.061,236.824,151,4722548,False,False,True,Ice
+Registeel,registeel,379,Great,1,0,8,15,24,1500,93.584,191.75,134,2404597,False,False,True,Steel
+Registeel,registeel,379,Ultra,1,0,14,15,50,2499,120.163,251.25,172,5192834,False,False,True,Steel
+Latias,latias,380,Great,1,0,14,14,16,1499,121.833,138.932,109,1844987,False,False,True,Dragon/Psychic
+Latias,latias,380,Ultra,1,1,15,14,26.5,2498,157.48,179.486,140,3957155,False,False,True,Dragon/Psychic
+Latios,latios,381,Great,1,0,15,15,14.5,1496,136.332,115.475,104,1637271,False,False,True,Dragon/Psychic
+Latios,latios,381,Ultra,1,2,15,15,24,2494,176.698,148.557,134,3517453,False,False,True,Dragon/Psychic
+Kyogre,kyogre,382,Great,1,0,15,14,13.5,1500,132.531,119.278,107,1691460,False,False,True,Water
+Kyogre,kyogre,382,Ultra,1,0,15,14,22.5,2500,171.085,153.977,138,3635355,False,False,True,Water
+Groudon,groudon,383,Great,1,0,15,14,13.5,1500,132.531,119.278,107,1691460,False,False,True,Ground
+Groudon,groudon,383,Ultra,1,0,15,14,22.5,2500,171.085,153.977,138,3635355,False,False,True,Ground
+Rayquaza,rayquaza,384,Great,1,0,15,12,14.5,1499,144.471,94.11,114,1549963,False,False,True,Dragon/Flying
+Rayquaza,rayquaza,384,Ultra,1,0,15,15,24,2498,185.86,121.071,149,3352820,False,False,True,Dragon/Flying
+Jirachi,jirachi,385,Great,1,0,10,13,17.5,1500,117.354,122.943,133,1918907,False,False,True,Steel/Psychic
+Jirachi,jirachi,385,Ultra,1,0,15,10,29,2499,151.074,161.865,169,4132647,False,False,True,Steel/Psychic
+Deoxys Normal,deoxys,386,Great,1,0,15,12,17.5,1499,192.797,72.648,83,1162521,False,False,True,Psychic
+Deoxys Normal,deoxys,386,Ultra,1,0,14,15,29,2500,248.193,92.802,109,2510586,False,False,True,Psychic
+Deoxys Attack,deoxys-attack,386,Great,1,1,15,15,21,1497,254.045,37.342,93,882240,False,False,True,Psychic
+Deoxys Attack,deoxys-attack,386,Ultra,1,1,15,15,40,2495,327.975,48.208,120,1897331,False,False,True,Psychic
+Deoxys Defense,deoxys-defense,386,Great,1,0,15,15,25.5,1500,97.14,232.731,102,2305957,False,False,True,Psychic
+Deoxys Defense,deoxys-defense,386,Ultra,1,12,13,15,49.5,2500,130.697,287.367,127,4769876,False,False,True,Psychic
+Deoxys Speed,deoxys-speed,386,Great,1,0,14,14,19.5,1497,135.674,136.854,89,1652513,False,False,True,Psychic
+Deoxys Speed,deoxys-speed,386,Ultra,1,1,14,15,34.5,2496,175.244,176.002,115,3546976,False,False,True,Psychic
+Grotle,grotle,388,Great,1,0,15,11,31.5,1500,116.303,117.044,142,1932992,False,False,True,Grass
+Torterra,torterra,389,Great,1,0,11,13,19.5,1500,119.157,117.388,135,1888327,False,False,True,Grass/Ground
+Torterra,torterra,389,Ultra,1,0,15,15,34,2497,152.648,153.404,174,4074542,False,False,True,Grass/Ground
+Monferno,monferno,391,Great,1,0,15,14,43.5,1498,127.633,96.936,142,1756866,False,False,True,Fire/Fighting
+Infernape,infernape,392,Great,1,0,13,15,21,1499,135.899,100.394,121,1650852,False,False,True,Fire/Fighting
+Infernape,infernape,392,Ultra,1,1,15,14,39.5,2500,175.607,130.721,155,3558088,False,False,True,Fire/Fighting
+Prinplup,prinplup,394,Great,1,0,15,14,38,1498,116.84,119.956,137,1920138,False,False,True,Water
+Empoleon,empoleon,395,Great,1,0,13,15,19.5,1500,123.876,117.388,125,1817697,False,False,True,Water/Steel
+Empoleon,empoleon,395,Ultra,1,1,15,14,34.5,2500,160.071,152.485,160,3905341,False,False,True,Water/Steel
+Staravia,staravia,397,Great,1,15,15,15,50,1468,131.927,91.593,135,1631281,False,False,True,Normal/Flying
+Staraptor,staraptor,398,Great,1,0,13,13,20,1500,139.792,91.402,126,1609935,False,False,True,Normal/Flying
+Staraptor,staraptor,398,Ultra,1,2,15,14,35.5,2500,180.419,118.495,162,3463362,False,False,True,Normal/Flying
+Bibarel,bibarel,400,Great,1,0,14,13,33.5,1500,121.942,100.113,151,1843406,False,False,True,Normal/Water
+Kricketune,kricketune,402,Great,1,0,15,15,39.5,1500,125.996,90.559,156,1779977,False,False,True,Bug
+Luxio,luxio,404,Great,1,0,15,15,48,1498,132.018,91.333,141,1700118,False,False,True,Electric
+Luxray,luxray,405,Great,1,0,15,12,19.5,1500,136.854,100.871,119,1642745,False,False,True,Electric
+Luxray,luxray,405,Ultra,1,0,15,15,34.5,2499,176.002,129.726,155,3538965,False,False,True,Electric
+Roserade,roserade,407,Great,1,0,11,14,19,1499,141.494,114.127,98,1582525,False,False,True,Grass/Poison
+Roserade,roserade,407,Ultra,1,0,12,15,33,2499,182.192,147.703,127,3417606,False,False,True,Grass/Poison
+Cranidos,cranidos,408,Great,1,1,15,14,31.5,1499,162.232,63.708,134,1384945,False,False,True,Rock
+Rampardos,rampardos,409,Great,1,1,14,8,17,1500,163.035,67.748,125,1380649,False,False,True,Rock
+Rampardos,rampardos,409,Ultra,1,0,14,15,28,2500,208.531,86.947,165,2991628,False,False,True,Rock
+Bastiodon,bastiodon,411,Great,1,0,15,14,50,1497,78.988,252.93,142,2836948,False,False,True,Rock/Steel
+Wormadam Plant,wormadam-plant,413,Great,1,0,15,15,35.5,1500,107.793,149.075,129,2072920,False,False,True,Bug/Grass
+Wormadam Sandy,wormadam-sandy,413,Great,1,0,15,15,35.5,1500,107.793,149.075,129,2072920,False,False,True,Bug/Ground
+Wormadam Trash,wormadam-trash,413,Great,1,0,13,15,44.5,1499,103.226,152.807,138,2176768,False,False,True,Bug/Steel
+Mothim,mothim,414,Great,1,0,15,15,32.5,1499,138.155,84.386,139,1620510,False,False,True,Bug/Flying
+Vespiquen,vespiquen,416,Great,1,0,14,13,29,1498,107.19,146.757,133,2092222,False,False,True,Bug/Flying
+Floatzel,floatzel,419,Great,1,0,15,14,23,1500,141.584,82.644,135,1579652,False,False,True,Water
+Floatzel,floatzel,419,Ultra,1,0,14,15,47.5,2500,182.945,105.959,176,3411691,False,False,True,Water
+Cherrim Overcast,cherrim-overcast,421,Great,1,0,13,15,28,1496,120.17,117.343,132,1861348,False,False,True,Grass
+Cherrim Sunny,cherrim-sunny,421,Great,1,0,13,15,28,1496,120.17,117.343,132,1861348,False,False,True,Grass
+Gastrodon East Sea,gastrodon-east-sea,423,Great,1,1,15,14,24.5,1500,112.407,104.473,170,1996392,False,False,True,Water/Ground
+Gastrodon East Sea,gastrodon-east-sea,423,Ultra,1,6,15,15,50,2499,147.053,132.767,217,4236660,False,False,True,Water/Ground
+Gastrodon West Sea,gastrodon-west-sea,423,Great,1,1,15,14,24.5,1500,112.407,104.473,170,1996392,False,False,True,Water/Ground
+Gastrodon West Sea,gastrodon-west-sea,423,Ultra,1,6,15,15,50,2499,147.053,132.767,217,4236660,False,False,True,Water/Ground
+Ambipom,ambipom,424,Great,1,0,13,14,23.5,1499,132.754,101.023,126,1689807,False,False,True,Normal
+Ambipom,ambipom,424,Ultra,1,0,15,14,48.5,2495,170.725,131.583,162,3639245,False,False,True,Normal
+Drifblim,drifblim,426,Great,1,0,15,12,24,1500,117.798,76.569,212,1912177,False,False,True,Ghost/Flying
+Drifblim,drifblim,426,Ultra,1,1,15,15,50,2499,152.094,98.315,274,4097168,False,False,True,Ghost/Flying
+Lopunny,lopunny,428,Great,1,0,15,14,28,1499,110.274,147.739,125,2036467,False,False,True,Normal
+Mismagius,mismagius,429,Great,1,0,15,15,21.5,1500,130.694,125.12,105,1717004,False,False,True,Ghost
+Mismagius,mismagius,429,Ultra,1,0,14,15,42,2498,168.863,160.86,136,3694223,False,False,True,Ghost
+Honchkrow,honchkrow,430,Great,1,0,15,15,20.5,1495,146.972,71.369,145,1520946,False,False,True,Dark/Flying
+Honchkrow,honchkrow,430,Ultra,1,0,15,15,38.5,2499,189.975,92.251,187,3277255,False,False,True,Dark/Flying
+Purugly,purugly,432,Great,1,0,12,15,29.5,1499,124.799,105.208,137,1798798,False,False,True,Normal
+Skuntank,skuntank,435,Great,1,0,15,15,24,1495,120.416,96.202,160,1853485,False,False,True,Poison/Dark
+Skuntank,skuntank,435,Ultra,1,3,15,14,50,2500,157.136,123.524,205,3979070,False,False,True,Poison/Dark
+Bronzong,bronzong,437,Great,1,1,15,14,25.5,1497,109.282,153.805,122,2050591,False,False,True,Steel/Psychic
+Bronzong,bronzong,437,Ultra,1,13,15,14,50,2495,146.212,191.588,152,4257910,False,False,True,Steel/Psychic
+Bonsly,bonsly,438,Great,1,15,15,15,50,1472,116.802,124.364,127,1844799,False,False,True,Rock
+Chatot,chatot,441,Great,1,0,15,14,33.5,1498,137.749,79.789,148,1626657,False,False,True,Normal/Flying
+Spiritomb,spiritomb,442,Great,1,0,15,15,27.5,1495,118.392,149.916,106,1881377,False,False,True,Ghost/Dark
+Gabite,gabite,444,Great,1,0,15,14,31,1498,126.896,103.288,135,1769423,False,False,True,Dragon/Ground
+Garchomp,garchomp,445,Great,1,0,15,15,14,1498,130.463,103.971,126,1709104,False,False,True,Dragon/Ground
+Garchomp,garchomp,445,Ultra,1,0,14,13,23.5,2499,169.019,134.049,163,3693062,False,False,True,Dragon/Ground
+Munchlax,munchlax,446,Great,1,0,14,13,32,1500,101.899,97.436,222,2204169,False,False,True,Normal
+Lucario,lucario,448,Great,1,1,15,15,20.5,1494,143.343,96.167,113,1557692,False,False,True,Fighting/Steel
+Lucario,lucario,448,Ultra,1,1,15,15,38.5,2497,185.284,124.305,146,3362626,False,False,True,Fighting/Steel
+Hippopotas,hippopotas,449,Great,1,13,15,14,49.5,1500,114.779,111.428,153,1956808,False,False,True,Ground
+Hippowdon,hippowdon,450,Great,1,0,14,10,18.5,1499,115.488,117.787,143,1945228,False,False,True,Ground
+Hippowdon,hippowdon,450,Ultra,1,0,14,15,31,2496,148.292,151.243,187,4194043,False,False,True,Ground
+Drapion,drapion,452,Great,1,2,15,14,23,1500,116.599,139.022,119,1928962,False,False,True,Poison/Dark
+Drapion,drapion,452,Ultra,1,0,15,15,48,2499,149.454,180.175,155,4173823,False,False,True,Poison/Dark
+Toxicroak,toxicroak,454,Great,1,1,15,15,22.5,1500,134.334,93.78,133,1675510,False,False,True,Poison/Fighting
+Toxicroak,toxicroak,454,Ultra,1,0,15,12,46.5,2500,173.612,121.775,170,3594063,False,False,True,Poison/Fighting
+Carnivine,carnivine,455,Great,1,0,14,13,26.5,1500,128.597,103.153,132,1750999,False,False,True,Grass
+Carnivine,carnivine,455,Ultra,1,15,15,15,50,2441,169.741,126.885,163,3510627,False,False,True,Grass
+Lumineon,lumineon,457,Great,1,0,15,12,34.5,1499,107.726,140.347,138,2086410,False,False,True,Water
+Abomasnow,abomasnow,460,Great,1,0,15,15,24,1494,116.49,113.217,145,1912353,False,False,True,Grass/Ice
+Abomasnow,abomasnow,460,Ultra,1,3,15,14,50,2499,152.094,145.372,185,4090394,False,False,True,Grass/Ice
+Weavile,weavile,461,Great,1,0,15,15,18.5,1496,139.62,106.87,107,1596569,False,False,True,Dark/Ice
+Weavile,weavile,461,Ultra,1,0,14,15,32,2500,180.741,137.601,139,3456948,False,False,True,Dark/Ice
+Magnezone,magnezone,462,Great,1,0,13,15,17.5,1500,133.002,121.825,104,1685106,False,False,True,Electric/Steel
+Magnezone,magnezone,462,Ultra,1,0,15,15,29,2498,171.217,158.268,134,3631150,False,False,True,Electric/Steel
+Lickilicky,lickilicky,463,Great,1,0,15,10,23.5,1500,104.261,126.926,163,2157038,False,False,True,Normal
+Lickilicky,lickilicky,463,Ultra,1,0,14,15,48.5,2499,134.081,162.397,214,4659718,False,False,True,Normal
+Rhyperior,rhyperior,464,Great,1,0,14,14,15,1500,124.692,105.548,137,1803061,False,False,True,Ground/Rock
+Rhyperior,rhyperior,464,Ultra,1,0,14,14,25,2499,160.972,136.259,177,3882286,False,False,True,Ground/Rock
+Tangrowth,tangrowth,465,Great,1,1,15,15,18.5,1500,119.51,114.339,137,1872068,False,False,True,Grass
+Tangrowth,tangrowth,465,Ultra,1,0,14,15,32,2496,153.964,147.27,178,4036041,False,False,True,Grass
+Electivire,electivire,466,Great,1,1,15,15,18,1499,141.689,100.882,111,1586620,False,False,True,Electric
+Electivire,electivire,466,Ultra,1,1,15,15,30,2500,182.925,130.243,143,3406922,False,False,True,Electric
+Magmortar,magmortar,467,Great,1,0,10,15,18,1498,139.988,103.149,111,1602807,False,False,True,Fire
+Magmortar,magmortar,467,Ultra,1,1,15,15,29.5,2499,179.943,135.683,142,3466945,False,False,True,Fire
+Togekiss,togekiss,468,Great,1,0,14,11,17,1499,123.928,127.233,115,1813296,False,False,True,Fairy/Flying
+Togekiss,togekiss,468,Ultra,1,0,15,15,28,2499,159.049,163.997,150,3912536,False,False,True,Fairy/Flying
+Yanmega,yanmega,469,Great,1,0,14,15,19,1497,134.506,98.987,125,1664305,False,False,True,Bug/Flying
+Yanmega,yanmega,469,Ultra,1,1,15,15,33,2500,173.945,128.209,161,3590506,False,False,True,Bug/Flying
+Leafeon,leafeon,470,Great,1,1,15,14,19,1497,126.355,136.253,103,1773270,False,False,True,Grass
+Leafeon,leafeon,470,Ultra,1,0,14,13,34,2497,163.228,176.075,133,3822465,False,False,True,Grass
+Glaceon,glaceon,471,Great,1,0,15,12,18,1500,134.888,124.686,99,1665041,False,False,True,Ice
+Glaceon,glaceon,471,Ultra,1,0,15,12,30,2500,174.145,160.974,128,3588192,False,False,True,Ice
+Gliscor,gliscor,472,Great,1,1,15,14,21,1498,113.861,145.081,119,1965777,False,False,True,Ground/Flying
+Gliscor,gliscor,472,Ultra,1,0,14,15,40.5,2500,146.669,187.102,155,4253506,False,False,True,Ground/Flying
+Mamoswine,mamoswine,473,Great,1,0,15,7,17,1500,136.046,88.678,137,1652798,False,False,True,Ice/Ground
+Mamoswine,mamoswine,473,Ultra,1,0,15,13,28,2500,174.6,113.808,180,3576777,False,False,True,Ice/Ground
+Porygon-Z,porygon-z,474,Great,1,1,15,13,17,1500,145.96,90.881,116,1538736,False,False,True,Normal
+Porygon-Z,porygon-z,474,Ultra,1,0,13,14,28.5,2496,188.277,116.247,151,3304863,False,False,True,Normal
+Gallade,gallade,475,Great,1,0,15,15,18,1496,134.321,119.018,104,1662612,False,False,True,Psychic/Fighting
+Gallade,gallade,475,Ultra,1,0,12,15,30.5,2496,174.134,152.091,135,3575370,False,False,True,Psychic/Fighting
+Probopass,probopass,476,Great,1,0,15,15,28,1497,95.429,204.996,120,2347521,False,False,True,Rock/Steel
+Dusknoir,dusknoir,477,Great,1,0,14,13,24,1498,117.798,175.389,92,1900768,False,False,True,Ghost
+Dusknoir,dusknoir,477,Ultra,1,0,15,15,50,2492,151.254,226.041,120,4102747,False,False,True,Ghost
+Froslass,froslass,478,Great,1,0,15,15,28,1500,120.877,116.636,132,1861018,False,False,True,Ice/Ghost
+Rotom,rotom,479,Great,1,0,14,15,28,1499,130.774,122.291,107,1711190,False,False,True,Electric/Ghost
+Rotom Fan,rotom-fan,479,Great,1,0,12,15,22,1500,127.82,144.737,95,1757523,False,False,True,Electric/Flying
+Rotom Fan,rotom-fan,479,Ultra,1,0,15,15,43,2495,164.281,188.44,122,3776776,False,False,True,Electric/Flying
+Rotom Frost,rotom-frost,479,Great,1,0,12,15,22,1500,127.82,144.737,95,1757523,False,False,True,Electric/Ice
+Rotom Frost,rotom-frost,479,Ultra,1,0,15,15,43,2495,164.281,188.44,122,3776776,False,False,True,Electric/Ice
+Rotom Heat,rotom-heat,479,Great,1,0,12,15,22,1500,127.82,144.737,95,1757523,False,False,True,Electric/Fire
+Rotom Heat,rotom-heat,479,Ultra,1,0,15,15,43,2495,164.281,188.44,122,3776776,False,False,True,Electric/Fire
+Rotom Mow,rotom-mow,479,Great,1,0,12,15,22,1500,127.82,144.737,95,1757523,False,False,True,Electric/Grass
+Rotom Mow,rotom-mow,479,Ultra,1,0,15,15,43,2495,164.281,188.44,122,3776776,False,False,True,Electric/Grass
+Rotom Wash,rotom-wash,479,Great,1,0,12,15,22,1500,127.82,144.737,95,1757523,False,False,True,Electric/Water
+Rotom Wash,rotom-wash,479,Ultra,1,0,15,15,43,2495,164.281,188.44,122,3776776,False,False,True,Electric/Water
+Uxie,uxie,480,Great,1,0,13,13,23,1500,99.942,181.305,124,2246872,False,False,True,Psychic
+Uxie,uxie,480,Ultra,1,0,15,15,46.5,2496,128.357,234.499,161,4846050,False,False,True,Psychic
+Mesprit,mesprit,481,Great,1,0,15,12,18.5,1498,121.809,130.427,116,1842911,False,False,True,Psychic
+Mesprit,mesprit,481,Ultra,1,1,15,15,31,2500,157.145,167.474,151,3973963,False,False,True,Psychic
+Azelf,azelf,482,Great,1,0,14,11,17.5,1500,150.884,92.207,107,1488647,False,False,True,Psychic
+Azelf,azelf,482,Ultra,1,0,12,15,29,2497,194.238,117.262,141,3211517,False,False,True,Psychic
+Dialga,dialga,483,Great,1,0,13,8,14,1500,137.461,111.968,106,1631476,False,False,True,Steel/Dragon
+Dialga,dialga,483,Ultra,1,0,15,12,23,2499,176.18,144.788,139,3545697,False,False,True,Steel/Dragon
+Dialga Origin,dialga-origin,483,Great,1,2,15,13,13.5,1499,133.513,117.805,107,1682952,False,False,True,Steel/Dragon
+Dialga Origin,dialga-origin,483,Ultra,1,1,15,15,22.5,2500,171.719,152.076,139,3629887,False,False,True,Steel/Dragon
+Palkia,palkia,484,Great,1,0,14,12,14,1500,139.96,114.468,100,1602092,False,False,True,Water/Dragon
+Palkia,palkia,484,Ultra,1,2,15,14,23,2500,180.664,147.35,130,3460716,False,False,True,Water/Dragon
+Palkia Origin,palkia-origin,484,Great,1,0,14,11,13.5,1500,140.385,116.333,98,1600473,False,False,True,Water/Dragon
+Palkia Origin,palkia-origin,484,Ultra,1,0,15,10,22.5,2499,181.224,150.809,126,3443589,False,False,True,Water/Dragon
+Heatran,heatran,485,Great,1,0,14,10,15,1498,129.866,117.448,113,1723537,False,False,True,Fire/Steel
+Heatran,heatran,485,Ultra,1,2,15,15,24.5,2499,167.288,150.758,148,3732571,False,False,True,Fire/Steel
+Regigigas,regigigas,486,Great,1,0,8,12,13,1500,138.244,105.007,112,1625858,False,False,True,Normal
+Regigigas,regigigas,486,Ultra,1,0,13,10,21.5,2499,177.769,138.127,143,3511324,False,False,True,Normal
+Giratina Altered,giratina-altered,487,Great,1,0,11,12,17,1499,102.998,129.987,163,2182316,False,False,True,Ghost/Dragon
+Giratina Altered,giratina-altered,487,Ultra,1,0,14,15,28,2497,132.187,168.945,211,4712144,False,False,True,Ghost/Dragon
+Giratina Origin,giratina-origin,487,Great,1,0,10,11,15.5,1500,118.337,103.611,155,1900452,False,False,True,Ghost/Dragon
+Giratina Origin,giratina-origin,487,Ultra,1,0,13,14,25.5,2499,151.781,134.916,201,4116024,False,False,True,Ghost/Dragon
+Cresselia,cresselia,488,Great,1,2,15,13,20,1500,92.0,163.09,163,2445690,False,False,True,Psychic
+Cresselia,cresselia,488,Ultra,1,0,13,15,37.5,2499,117.962,210.314,213,5284314,False,False,True,Psychic
+Phione,phione,489,Great,1,0,13,13,27.5,1498,113.488,122.595,142,1975654,False,False,False,Water
+Manaphy,manaphy,490,Great,1,0,10,13,17.5,1500,117.354,122.943,133,1918907,False,False,False,Water
+Manaphy,manaphy,490,Ultra,1,0,15,10,29,2499,151.074,161.865,169,4132647,False,False,False,Water
+Darkrai,darkrai,491,Great,1,0,10,14,15,1500,147.457,107.618,96,1523429,False,False,True,Dark
+Darkrai,darkrai,491,Ultra,1,0,10,14,25,2500,190.361,138.93,124,3279420,False,False,True,Dark
+Shaymin,shaymin,492,Great,1,0,10,13,17.5,1500,117.354,122.943,133,1918907,False,False,True,Grass
+Shaymin,shaymin,492,Ultra,1,0,15,10,29,2499,151.074,161.865,169,4132647,False,False,True,Grass
+Shaymin Sky,shaymin-sky,492,Great,1,0,14,15,15.5,1500,137.271,94.67,126,1637420,False,False,True,Grass/Flying
+Shaymin Sky,shaymin-sky,492,Ultra,1,0,13,13,26,2499,177.784,121.929,162,3511665,False,False,True,Grass/Flying
+Arceus,arceus,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Normal
+Arceus,arceus,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Normal
+Arceus Bug,arceus-bug,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Bug
+Arceus Bug,arceus-bug,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Bug
+Arceus Dark,arceus-dark,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Dark
+Arceus Dark,arceus-dark,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Dark
+Arceus Dragon,arceus-dragon,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Dragon
+Arceus Dragon,arceus-dragon,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Dragon
+Arceus Electric,arceus-electric,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Electric
+Arceus Electric,arceus-electric,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Electric
+Arceus Fairy,arceus-fairy,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Fairy
+Arceus Fairy,arceus-fairy,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Fairy
+Arceus Fighting,arceus-fighting,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Fighting
+Arceus Fighting,arceus-fighting,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Fighting
+Arceus Fire,arceus-fire,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Fire
+Arceus Fire,arceus-fire,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Fire
+Arceus Flying,arceus-flying,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Flying
+Arceus Flying,arceus-flying,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Flying
+Arceus Ghost,arceus-ghost,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Ghost
+Arceus Ghost,arceus-ghost,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Ghost
+Arceus Grass,arceus-grass,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Grass
+Arceus Grass,arceus-grass,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Grass
+Arceus Ground,arceus-ground,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Ground
+Arceus Ground,arceus-ground,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Ground
+Arceus Ice,arceus-ice,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Ice
+Arceus Ice,arceus-ice,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Ice
+Arceus Poison,arceus-poison,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Poison
+Arceus Poison,arceus-poison,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Poison
+Arceus Psychic,arceus-psychic,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Psychic
+Arceus Psychic,arceus-psychic,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Psychic
+Arceus Rock,arceus-rock,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Rock
+Arceus Rock,arceus-rock,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Rock
+Arceus Steel,arceus-steel,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Steel
+Arceus Steel,arceus-steel,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Steel
+Arceus Water,arceus-water,493,Great,1,0,15,14,14,1498,118.966,126.464,125,1880622,False,False,False,Water
+Arceus Water,arceus-water,493,Ultra,1,0,11,15,23.5,2500,154.124,161.248,163,4050905,False,False,False,Water
+Victini,victini,494,Great,1,0,10,13,17.5,1500,117.354,122.943,133,1918907,False,False,True,Psychic/Fire
+Victini,victini,494,Ultra,1,0,15,10,29,2499,151.074,161.865,169,4132647,False,False,True,Psychic/Fire
+Servine,servine,496,Great,1,4,15,15,50,1499,105.878,140.33,142,2109814,False,False,True,Grass
+Serperior,serperior,497,Great,1,0,10,15,25.5,1500,108.608,144.361,132,2069583,False,False,True,Grass
+Serperior,serperior,497,Ultra,1,10,14,15,50,2495,143.691,183.185,164,4316833,False,False,True,Grass
+Pignite,pignite,499,Great,1,0,15,15,29.5,1492,125.525,87.795,161,1774282,False,False,True,Fire/Fighting
+Emboar,emboar,500,Great,1,0,14,9,19,1498,136.836,82.101,146,1640219,False,False,True,Fire/Fighting
+Emboar,emboar,500,Ultra,1,0,15,14,32.5,2498,175.494,106.043,191,3554482,False,False,True,Fire/Fighting
+Dewott,dewott,502,Great,1,0,15,15,36,1500,122.016,100.529,150,1839925,False,False,True,Water
+Samurott,samurott,503,Great,1,0,14,14,20,1500,126.649,102.155,137,1772487,False,False,True,Water
+Samurott,samurott,503,Ultra,1,1,15,15,36,2500,163.456,131.992,177,3818754,False,False,True,Water
+Hisuian Samurott,samurott-hisuian,503,Great,1,0,15,15,20,1498,130.233,99.766,132,1715052,False,False,True,Water/Dark
+Hisuian Samurott,samurott-hisuian,503,Ultra,1,0,15,13,37,2498,168.555,129.122,170,3699904,False,False,True,Water/Dark
+Watchog,watchog,505,Great,1,0,15,15,33,1500,123.711,115.463,127,1814070,False,False,True,Normal
+Herdier,herdier,507,Great,1,1,15,15,43,1499,117.574,113.547,143,1909077,False,False,True,Normal
+Stoutland,stoutland,508,Great,1,0,15,13,20,1498,123.064,117.688,126,1824881,False,False,True,Normal
+Stoutland,stoutland,508,Ultra,1,0,14,15,36.5,2497,158.681,150.978,164,3929017,False,False,True,Normal
+Liepard,liepard,510,Great,1,0,15,14,31.5,1497,138.527,89.635,130,1614193,False,False,True,Dark
+Simisage,simisage,512,Great,1,0,14,15,24,1497,134.814,96.202,128,1660078,False,False,True,Grass
+Simisage,simisage,512,Ultra,1,3,15,15,49.5,2498,175.101,123.995,164,3560709,False,False,True,Grass
+Simisear,simisear,514,Great,1,0,14,15,24,1497,134.814,96.202,128,1660078,False,False,True,Fire
+Simisear,simisear,514,Ultra,1,3,15,15,49.5,2498,175.101,123.995,164,3560709,False,False,True,Fire
+Simipour,simipour,516,Great,1,0,14,15,24,1497,134.814,96.202,128,1660078,False,False,True,Water
+Simipour,simipour,516,Ultra,1,3,15,15,49.5,2498,175.101,123.995,164,3560709,False,False,True,Water
+Musharna,musharna,518,Great,1,0,12,15,21,1497,112.025,108.964,164,2001894,False,False,True,Psychic
+Musharna,musharna,518,Ultra,1,0,15,15,39.5,2499,144.108,142.533,211,4333952,False,False,True,Psychic
+Tranquill,tranquill,520,Great,1,2,15,15,50,1497,122.684,102.517,145,1823683,False,False,True,Normal/Flying
+Unfezant,unfezant,521,Great,1,0,15,14,20.5,1498,136.69,97.377,123,1637182,False,False,True,Normal/Flying
+Unfezant,unfezant,521,Ultra,1,2,15,13,38,2500,177.597,125.408,158,3518988,False,False,True,Normal/Flying
+Zebstrika,zebstrika,523,Great,1,0,15,9,23.5,1498,136.64,97.785,123,1643435,False,False,True,Electric
+Zebstrika,zebstrika,523,Ultra,1,0,13,15,48.5,2500,175.722,124.088,163,3554198,False,False,True,Electric
+Boldore,boldore,525,Great,1,0,15,15,28,1494,122.998,111.688,132,1813330,False,False,True,Rock
+Gigalith,gigalith,526,Great,1,0,11,15,17.5,1499,126.296,118.472,119,1780540,False,False,True,Rock
+Gigalith,gigalith,526,Ultra,1,0,13,15,29,2497,162.584,153.951,153,3829600,False,False,True,Rock
+Swoobat,swoobat,528,Great,1,0,15,9,38,1500,125.408,104.377,137,1793293,False,False,True,Psychic/Flying
+Drilbur,drilbur,529,Great,1,10,15,15,49.5,1500,137.4,83.78,142,1634620,False,False,True,Ground
+Excadrill,excadrill,530,Great,1,2,15,15,17,1499,141.554,79.314,141,1583037,False,False,True,Ground/Steel
+Excadrill,excadrill,530,Ultra,1,0,15,15,28.5,2495,181.858,102.696,183,3417738,False,False,True,Ground/Steel
+Audino,audino,531,Great,1,0,15,13,41,1499,90.664,141.563,193,2477103,False,False,True,Normal
+Timburr,timburr,532,Great,1,15,15,15,50,1487,125.205,85.711,164,1759945,False,False,True,Fighting
+Gurdurr,gurdurr,533,Great,1,1,15,15,26,1496,123.291,101.494,145,1814418,False,False,True,Fighting
+Gurdurr,gurdurr,533,Ultra,1,15,15,15,50,2452,163.859,125.205,178,3651822,False,False,True,Fighting
+Conkeldurr,conkeldurr,534,Great,1,3,15,15,16.5,1500,133.488,93.876,134,1679202,False,False,True,Fighting
+Conkeldurr,conkeldurr,534,Ultra,1,0,15,12,28,2499,171.773,122.291,173,3634085,False,False,True,Fighting
+Palpitoad,palpitoad,536,Great,1,9,15,15,49.5,1499,114.779,103.888,164,1955558,False,False,True,Water/Ground
+Seismitoad,seismitoad,537,Great,1,1,15,15,22,1500,118.421,103.384,155,1897635,False,False,True,Water/Ground
+Seismitoad,seismitoad,537,Ultra,1,0,15,12,44.5,2497,152.807,134.113,199,4078180,False,False,True,Water/Ground
+Throh,throh,538,Great,1,2,15,15,22,1498,109.023,109.649,172,2056132,False,False,True,Fighting
+Throh,throh,538,Ultra,1,0,14,15,45,2500,140.232,141.862,224,4456158,False,False,True,Fighting
+Sawk,sawk,539,Great,1,0,15,15,20,1495,137.999,100.363,117,1620457,False,False,True,Fighting
+Sawk,sawk,539,Ultra,1,0,15,11,37.5,2498,179.271,130.379,149,3482601,False,False,True,Fighting
+Swadloon,swadloon,541,Great,1,12,15,14,49.5,1500,106.401,148.291,134,2114299,False,False,True,Bug/Grass
+Leavanny,leavanny,542,Great,1,0,13,14,22,1499,128.446,111.529,122,1747708,False,False,True,Bug/Grass
+Leavanny,leavanny,542,Ultra,1,0,12,14,44,2500,166.111,143.423,158,3764228,False,False,True,Bug/Grass
+Scolipede,scolipede,545,Great,1,1,15,14,23,1500,130.693,121.724,108,1718119,False,False,True,Bug/Poison
+Scolipede,scolipede,545,Ultra,1,0,15,15,47.5,2500,168.044,157.283,140,3700262,False,False,True,Bug/Poison
+Whimsicott,whimsicott,547,Great,1,0,14,15,28.5,1499,116.96,135.502,121,1917643,False,False,True,Grass/Fairy
+Lilligant,lilligant,549,Great,1,0,15,15,22,1497,134.085,106.516,117,1671028,False,False,True,Grass
+Lilligant,lilligant,549,Ultra,1,0,13,14,44.5,2499,173.94,136.551,151,3586505,False,False,True,Grass
+Hisuian Lilligant,lilligant-hisuian,549,Great,1,0,15,13,22.5,1498,131.799,110.255,117,1700185,False,False,True,Grass/Fighting
+Hisuian Lilligant,lilligant-hisuian,549,Ultra,1,0,14,14,45.5,2495,170.103,141.48,152,3658064,False,False,True,Grass/Fighting
+Basculin Blue Striped,basculin-blue-striped,550,Great,1,0,11,15,27.5,1500,132.403,98.076,131,1701103,False,False,True,Water
+Basculin Red Striped,basculin-red-striped,550,Great,1,0,11,15,27.5,1500,132.403,98.076,131,1701103,False,False,True,Water
+Basculin White Striped,basculin-white-striped,550,Great,1,0,11,15,27.5,1500,132.403,98.076,131,1701103,False,False,True,Water
+Krokorok,krokorok,552,Great,1,6,15,15,49,1500,134.483,87.707,142,1674899,False,False,True,Ground/Dark
+Krookodile,krookodile,553,Great,1,0,13,14,18.5,1499,131.576,98.251,132,1706436,False,False,True,Ground/Dark
+Krookodile,krookodile,553,Ultra,1,0,13,15,31.5,2497,169.64,126.674,171,3674623,False,False,True,Ground/Dark
+Darumaka,darumaka,554,Great,1,2,15,14,50,1500,130.247,84.87,156,1724433,False,False,True,Fire
+Galarian Darumaka,darumaka-galarian,554,Great,1,2,15,14,50,1500,130.247,84.87,156,1724433,False,False,True,Ice
+Galarian Darmanitan Standard,darmanitan-galarian-standard,555,Great,1,0,15,11,18,1498,149.056,73.111,138,1503885,False,False,True,Ice
+Galarian Darmanitan Standard,darmanitan-galarian-standard,555,Ultra,1,0,13,15,30,2498,192.437,92.926,181,3236713,False,False,True,Ice
+Galarian Darmanitan Zen,darmanitan-galarian-zen,555,Great,1,2,15,14,14,1499,162.454,68.98,123,1378357,False,False,False,Ice/Fire
+Galarian Darmanitan Zen,darmanitan-galarian-zen,555,Ultra,1,0,15,14,23.5,2500,209.169,89.366,159,2972124,False,False,False,Ice/Fire
+Darmanitan Standard,darmanitan-standard,555,Great,1,0,15,11,18,1498,149.056,73.111,138,1503885,False,False,True,Fire
+Darmanitan Standard,darmanitan-standard,555,Ultra,1,0,13,15,30,2498,192.437,92.926,181,3236713,False,False,True,Fire
+Darmanitan Zen,darmanitan-zen,555,Great,1,0,14,13,15,1499,125.727,111.757,127,1784458,False,False,False,Fire/Psychic
+Darmanitan Zen,darmanitan-zen,555,Ultra,1,0,14,13,25,2499,162.308,144.274,164,3840351,False,False,False,Fire/Psychic
+Maractus,maractus,556,Great,1,0,13,14,25,1497,134.255,95.515,130,1667027,False,False,True,Grass
+Maractus,maractus,556,Ultra,1,9,15,15,50,2499,176.463,121.844,164,3526143,False,False,True,Grass
+Crustle,crustle,558,Great,1,0,13,13,22.5,1498,119.126,134.967,117,1881140,False,False,True,Bug/Rock
+Crustle,crustle,558,Ultra,1,0,14,15,45,2499,153.276,174.474,152,4064902,False,False,True,Bug/Rock
+Scraggy,scraggy,559,Great,1,11,15,15,49.5,1500,119.806,123.157,127,1873880,False,False,True,Dark/Fighting
+Scrafty,scrafty,560,Great,1,0,8,15,25.5,1500,109.957,155.154,120,2047227,False,False,True,Dark/Fighting
+Scrafty,scrafty,560,Ultra,1,9,15,15,50,2494,144.532,199.151,149,4288761,False,False,True,Dark/Fighting
+Sigilyph,sigilyph,561,Great,1,1,15,15,22,1500,128.446,114.035,119,1743040,False,False,True,Psychic/Flying
+Sigilyph,sigilyph,561,Ultra,1,0,13,15,44.5,2498,165.812,146.305,155,3760156,False,False,True,Psychic/Flying
+Cofagrigus,cofagrigus,563,Great,1,0,11,14,25.5,1500,109.957,167.296,111,2041887,False,False,True,Ghost
+Cofagrigus,cofagrigus,563,Ultra,1,10,15,15,50,2498,145.372,211.756,139,4278881,False,False,True,Ghost
+Tirtouga,tirtouga,564,Great,1,0,14,15,49.5,1500,112.266,134.049,133,2001525,False,False,True,Water/Rock
+Carracosta,carracosta,565,Great,1,1,14,15,21.5,1498,119.545,130.694,120,1874861,False,False,True,Water/Rock
+Carracosta,carracosta,565,Ultra,1,1,14,15,42,2500,154.458,168.863,155,4042752,False,False,True,Water/Rock
+Archen,archen,566,Great,1,0,15,15,31,1500,157.145,76.728,118,1422775,False,False,True,Rock/Flying
+Archeops,archeops,567,Great,1,1,15,15,16.5,1498,158.992,83.566,106,1408351,False,False,True,Rock/Flying
+Archeops,archeops,567,Ultra,1,1,15,15,27.5,2498,205.259,107.884,137,3033740,False,False,True,Rock/Flying
+Garbodor,garbodor,569,Great,1,0,13,13,24.5,1500,119.681,117.036,134,1876928,False,False,True,Poison
+Garbodor,garbodor,569,Ultra,1,3,15,15,50,2488,154.615,150.414,172,4000074,False,False,True,Poison
+Zoroark,zoroark,571,Great,1,1,15,15,21.5,1496,155.47,87.955,105,1435818,False,False,True,Dark
+Zoroark,zoroark,571,Ultra,1,1,15,15,42,2497,200.875,113.643,136,3104607,False,False,True,Dark
+Hisuian Zoroark,zoroark-hisuian,571,Great,1,0,15,11,21.5,1500,161.664,88.575,97,1388981,False,False,True,Normal/Ghost
+Hisuian Zoroark,zoroark-hisuian,571,Ultra,1,0,14,15,41,2496,207.573,112.933,128,3000549,False,False,True,Normal/Ghost
+Cinccino,cinccino,573,Great,1,2,15,14,25,1500,133.587,96.85,130,1681932,False,False,True,Normal
+Cinccino,cinccino,573,Ultra,1,12,15,15,50,2499,176.463,121.844,164,3526143,False,False,True,Normal
+Gothorita,gothorita,575,Great,1,0,15,14,43,1497,110.326,135.29,136,2029944,False,False,True,Psychic
+Gothitelle,gothitelle,576,Great,1,0,15,15,23.5,1497,113.974,142.468,121,1964757,False,False,True,Psychic
+Gothitelle,gothitelle,576,Ultra,1,0,14,15,49.5,2500,147.453,183.479,156,4220520,False,False,True,Psychic
+Solosis,solosis,577,Great,1,9,15,15,50,1496,150.414,82.349,120,1486377,False,False,True,Psychic
+Duosion,duosion,578,Great,1,0,15,13,28,1497,147.032,83.412,124,1520770,False,False,True,Psychic
+Reuniclus,reuniclus,579,Great,1,2,15,15,19,1498,125.772,94.911,149,1778647,False,False,True,Psychic
+Reuniclus,reuniclus,579,Ultra,1,0,13,14,34.5,2500,162.347,122.139,194,3846820,False,False,True,Psychic
+Swanna,swanna,581,Great,1,1,15,15,27,1496,127.028,102.039,136,1762812,False,False,True,Water/Flying
+Vanillish,vanillish,583,Great,1,0,14,15,43,1498,121.6,122.406,124,1845685,False,False,True,Ice
+Vanilluxe,vanilluxe,584,Great,1,0,15,13,20,1500,130.233,118.883,111,1718553,False,False,True,Ice
+Vanilluxe,vanilluxe,584,Ultra,1,0,15,11,37,2500,168.555,153.864,143,3708635,False,False,True,Ice
+Sawsbuck Autumn,sawsbuck-autumn,586,Great,1,0,14,14,23.5,1500,128.221,103.613,132,1753667,False,False,True,Normal/Grass
+Sawsbuck Autumn,sawsbuck-autumn,586,Ultra,1,0,15,11,49.5,2500,165.885,134.886,168,3759109,False,False,True,Normal/Grass
+Sawsbuck Spring,sawsbuck-spring,586,Great,1,0,14,14,23.5,1500,128.221,103.613,132,1753667,False,False,True,Normal/Grass
+Sawsbuck Spring,sawsbuck-spring,586,Ultra,1,0,15,11,49.5,2500,165.885,134.886,168,3759109,False,False,True,Normal/Grass
+Sawsbuck Summer,sawsbuck-summer,586,Great,1,0,14,14,23.5,1500,128.221,103.613,132,1753667,False,False,True,Normal/Grass
+Sawsbuck Summer,sawsbuck-summer,586,Ultra,1,0,15,11,49.5,2500,165.885,134.886,168,3759109,False,False,True,Normal/Grass
+Sawsbuck Winter,sawsbuck-winter,586,Great,1,0,14,14,23.5,1500,128.221,103.613,132,1753667,False,False,True,Normal/Grass
+Sawsbuck Winter,sawsbuck-winter,586,Ultra,1,0,15,11,49.5,2500,165.885,134.886,168,3759109,False,False,True,Normal/Grass
+Emolga,emolga,587,Great,1,0,13,15,41,1500,125.657,111.342,128,1790841,False,False,True,Electric/Flying
+Escavalier,escavalier,589,Great,1,0,15,13,19.5,1500,131.545,119.157,109,1708527,False,False,True,Bug/Steel
+Escavalier,escavalier,589,Ultra,1,1,15,14,34.5,2498,169.933,153.243,141,3671799,False,False,True,Bug/Steel
+Amoonguss,amoonguss,591,Great,1,0,14,15,27,1500,107.592,106.204,183,2091091,False,False,True,Grass/Poison
+Jellicent,jellicent,593,Great,1,1,14,14,24.5,1498,105.795,126.954,158,2122117,False,False,True,Water/Ghost
+Jellicent,jellicent,593,Ultra,1,6,14,15,50,2500,138.65,161.338,201,4496245,False,False,True,Water/Ghost
+Alomomola,alomomola,594,Great,1,0,15,11,27,1500,95.792,101.345,242,2349341,False,False,True,Water
+Alomomola,alomomola,594,Ultra,1,15,15,15,50,2452,128.566,122.684,296,4668794,False,False,True,Water
+Galvantula,galvantula,596,Great,1,0,15,15,25.5,1495,135.591,96.465,126,1648056,False,False,True,Bug/Electric
+Galvantula,galvantula,596,Ultra,1,15,15,15,50,2494,181.505,120.163,157,3424193,False,False,True,Bug/Electric
+Ferrothorn,ferrothorn,598,Great,1,0,13,13,25,1500,105.534,157.632,128,2129346,False,False,True,Grass/Steel
+Ferrothorn,ferrothorn,598,Ultra,1,7,14,15,50,2498,138.65,199.151,163,4500789,False,False,True,Grass/Steel
+Klang,klang,600,Great,1,0,15,15,32.5,1499,112.017,141.142,126,1992096,False,False,True,Steel
+Klinklang,klinklang,601,Great,1,0,13,15,21.5,1499,123.261,140.605,105,1819770,False,False,True,Steel
+Klinklang,klinklang,601,Ultra,1,0,12,15,42,2498,159.26,180.868,136,3917473,False,False,True,Steel
+Eelektrik,eelektrik,603,Great,1,0,13,15,37.5,1498,121.066,110.977,138,1854112,False,False,True,Electric
+Eelektross,eelektross,604,Great,1,1,15,14,20.5,1500,131.852,101.006,128,1704671,False,False,True,Electric
+Eelektross,eelektross,604,Ultra,1,2,15,14,38,2500,170.586,130.082,165,3661377,False,False,True,Electric
+Elgyem,elgyem,605,Great,1,8,15,15,50,1498,131.087,96.635,135,1710114,False,False,True,Psychic
+Beheeyem,beheeyem,606,Great,1,0,14,13,20.5,1498,133.666,107.054,117,1674206,False,False,True,Psychic
+Beheeyem,beheeyem,606,Ultra,1,1,15,15,37.5,2497,172.286,138.14,152,3617535,False,False,True,Psychic
+Lampent,lampent,608,Great,1,0,15,14,37,1497,130.669,100.514,130,1707426,False,False,True,Ghost/Fire
+Chandelure,chandelure,609,Great,1,0,15,14,17,1500,149.265,108.506,93,1506242,False,False,True,Ghost/Fire
+Chandelure,chandelure,609,Ultra,1,0,15,12,28.5,2500,193.269,140.494,119,3231227,False,False,True,Ghost/Fire
+Axew,axew,610,Great,1,10,15,14,50,1496,137.809,97.475,121,1625384,False,False,True,Dragon
+Fraxure,fraxure,611,Great,1,1,15,15,25,1497,142.27,92.175,120,1573646,False,False,True,Dragon
+Fraxure,fraxure,611,Ultra,1,12,15,15,50,2492,188.227,115.961,151,3295891,False,False,True,Dragon
+Haxorus,haxorus,612,Great,1,0,14,13,15.5,1499,149.368,97.825,103,1505030,False,False,True,Dragon
+Haxorus,haxorus,612,Ultra,1,1,15,15,25.5,2495,192.256,126.147,133,3225577,False,False,True,Dragon
+Beartic,beartic,614,Great,1,0,15,12,18.5,1500,133.875,95.953,131,1682784,False,False,True,Ice
+Beartic,beartic,614,Ultra,1,0,15,13,31.5,2500,172.603,123.711,169,3608645,False,False,True,Ice
+Cryogonal,cryogonal,615,Great,1,0,14,11,20.5,1500,114.916,140.319,121,1951122,False,False,True,Ice
+Cryogonal,cryogonal,615,Ultra,1,0,15,15,37.5,2500,147.452,180.823,159,4239384,False,False,True,Ice
+Accelgor,accelgor,617,Great,1,0,14,15,23,1496,140.944,85.847,131,1585055,False,False,True,Bug
+Accelgor,accelgor,617,Ultra,1,0,15,13,47.5,2495,182.117,111.754,168,3419169,False,False,True,Bug
+Stunfisk,stunfisk,618,Great,1,0,12,15,27,1498,99.957,127.028,177,2247427,False,False,True,Ground/Electric
+Stunfisk,stunfisk,618,Ultra,1,15,15,15,50,2445,133.608,156.296,214,4468817,False,False,True,Ground/Electric
+Galarian Stunfisk,stunfisk-galarian,618,Great,1,0,12,15,27,1498,99.957,127.028,177,2247427,False,False,True,Ground/Steel
+Galarian Stunfisk,stunfisk-galarian,618,Ultra,1,15,15,15,50,2445,133.608,156.296,214,4468817,False,False,True,Ground/Steel
+Mienfoo,mienfoo,619,Great,1,7,15,15,50,1498,140.33,94.954,120,1598987,False,False,True,Fighting
+Mienshao,mienshao,620,Great,1,0,15,15,20.5,1500,156.045,85.885,107,1434001,False,False,True,Fighting
+Mienshao,mienshao,620,Ultra,1,0,14,15,38.5,2498,201.702,110.232,139,3090537,False,False,True,Fighting
+Druddigon,druddigon,621,Great,1,0,15,15,20.5,1495,128.827,111.892,120,1729777,False,False,True,Dragon
+Druddigon,druddigon,621,Ultra,1,0,15,15,38.5,2497,166.521,144.631,155,3733046,False,False,True,Dragon
+Golurk,golurk,623,Great,1,2,15,14,19.5,1499,132.135,99.691,129,1699274,False,False,True,Ground/Ghost
+Golurk,golurk,623,Ultra,1,0,13,14,36,2500,170.362,128.155,168,3667914,False,False,True,Ground/Ghost
+Pawniard,pawniard,624,Great,1,2,15,15,50,1496,131.087,108.399,120,1705157,False,False,True,Dark/Steel
+Bisharp,bisharp,625,Great,1,1,15,15,19.5,1494,137.444,112.669,105,1625989,False,False,True,Dark/Steel
+Bisharp,bisharp,625,Ultra,1,0,15,15,35.5,2500,177.361,146.017,136,3522082,False,False,True,Dark/Steel
+Bouffalant,bouffalant,626,Great,1,0,13,11,20.5,1500,117.941,117.941,137,1905668,False,False,True,Normal
+Bouffalant,bouffalant,626,Ultra,1,0,14,15,37.5,2498,151.333,152.109,179,4120404,False,False,True,Normal
+Rufflet,rufflet,627,Great,1,0,15,15,48,1496,124.545,92.994,155,1795193,False,False,True,Normal/Flying
+Braviary,braviary,628,Great,1,1,15,15,18,1498,132.054,94.648,136,1699814,False,False,True,Normal/Flying
+Braviary,braviary,628,Ultra,1,0,14,15,30.5,2499,170.46,121.967,176,3659125,False,False,True,Normal/Flying
+Hisuian Braviary,braviary-hisuian,628,Great,1,0,15,14,20,1499,127.246,90.805,152,1756294,False,False,True,Psychic/Flying
+Hisuian Braviary,braviary-hisuian,628,Ultra,1,0,14,13,37,2498,164.689,116.751,197,3787837,False,False,True,Psychic/Flying
+Mandibuzz,mandibuzz,630,Great,1,0,13,15,27.5,1498,90.37,152.718,180,2484209,False,False,True,Dark/Flying
+Heatmor,heatmor,631,Great,1,0,15,15,23.5,1498,132.107,93.252,137,1687724,False,False,True,Fire
+Heatmor,heatmor,631,Ultra,1,1,15,14,49,2499,171.237,120.283,177,3645647,False,False,True,Fire
+Durant,durant,632,Great,1,1,15,15,21,1499,133.45,124.268,101,1674943,False,False,True,Bug/Steel
+Durant,durant,632,Ultra,1,0,12,15,41,2500,172.58,159.06,132,3623478,False,False,True,Bug/Steel
+Zweilous,zweilous,634,Great,1,0,15,15,32.5,1500,118.738,112.017,142,1888702,False,False,True,Dark/Dragon
+Hydreigon,hydreigon,635,Great,1,0,15,10,15.5,1499,134.641,106.766,116,1667518,False,False,True,Dark/Dragon
+Hydreigon,hydreigon,635,Ultra,1,0,15,15,25.5,2495,172.693,136.94,152,3594587,False,False,True,Dark/Dragon
+Larvesta,larvesta,636,Great,1,0,15,15,47.5,1498,129.137,100.992,133,1734566,False,False,True,Bug/Fire
+Volcarona,volcarona,637,Great,1,0,9,15,15.5,1499,138.849,104.137,112,1619436,False,False,True,Bug/Fire
+Volcarona,volcarona,637,Ultra,1,0,15,14,25.5,2498,178.09,137.615,143,3504608,False,False,True,Bug/Fire
+Cobalion,cobalion,638,Great,1,0,12,11,19,1498,111.798,140.329,128,2008123,False,False,True,Steel/Fighting
+Cobalion,cobalion,638,Ultra,1,0,14,15,32.5,2498,143.382,181.468,167,4345210,False,False,True,Steel/Fighting
+Terrakion,terrakion,639,Great,1,0,15,15,15,1498,134.522,107.101,115,1656854,False,False,True,Rock/Fighting
+Terrakion,terrakion,639,Ultra,1,0,15,15,25,2497,173.663,138.262,149,3577644,False,False,True,Rock/Fighting
+Virizion,virizion,640,Great,1,0,12,11,19,1498,111.798,140.329,128,2008123,False,False,True,Grass/Fighting
+Virizion,virizion,640,Ultra,1,0,14,15,32.5,2498,143.382,181.468,167,4345210,False,False,True,Grass/Fighting
+Tornadus Incarnate,tornadus-incarnate,641,Great,1,1,15,15,16.5,1498,144.884,97.132,110,1548010,False,False,True,Flying
+Tornadus Incarnate,tornadus-incarnate,641,Ultra,1,1,15,15,27.5,2497,187.045,125.397,142,3330597,False,False,True,Flying
+Tornadus Therian,tornadus-therian,641,Great,1,0,15,11,17.5,1497,133.002,114.001,111,1683025,False,False,True,Flying
+Tornadus Therian,tornadus-therian,641,Ultra,1,0,14,15,29,2500,171.217,146.038,146,3650612,False,False,True,Flying
+Thundurus Incarnate,thundurus-incarnate,642,Great,1,1,15,15,16.5,1498,144.884,97.132,110,1548010,False,False,True,Electric/Flying
+Thundurus Incarnate,thundurus-incarnate,642,Ultra,1,1,15,15,27.5,2497,187.045,125.397,142,3330597,False,False,True,Electric/Flying
+Thundurus Therian,thundurus-therian,642,Great,1,1,15,15,15,1497,153.149,91.061,105,1464321,False,False,True,Electric/Flying
+Thundurus Therian,thundurus-therian,642,Ultra,1,1,15,15,25,2496,197.708,117.556,135,3137655,False,False,True,Electric/Flying
+Reshiram,reshiram,643,Great,1,0,13,8,14,1500,137.461,111.968,106,1631476,False,False,True,Dragon/Fire
+Reshiram,reshiram,643,Ultra,1,0,15,12,23,2499,176.18,144.788,139,3545697,False,False,True,Dragon/Fire
+Zekrom,zekrom,644,Great,1,0,13,8,14,1500,137.461,111.968,106,1631476,False,False,True,Dragon/Electric
+Zekrom,zekrom,644,Ultra,1,0,15,12,23,2499,176.18,144.788,139,3545697,False,False,True,Dragon/Electric
+Landorus Incarnate,landorus-incarnate,645,Great,1,0,15,14,15.5,1499,137.271,103.611,115,1635615,False,False,True,Ground/Flying
+Landorus Incarnate,landorus-incarnate,645,Ultra,1,0,15,11,26,2498,177.784,134.189,147,3506942,False,False,True,Ground/Flying
+Landorus Therian,landorus-therian,645,Great,1,2,15,14,14,1498,145.459,96.973,109,1537501,False,False,True,Ground/Flying
+Landorus Therian,landorus-therian,645,Ultra,1,0,14,15,23.5,2497,187.151,124.983,142,3321480,False,False,True,Ground/Flying
+Kyurem,kyurem,646,Great,1,1,15,15,15.5,1498,129.908,97.299,136,1719033,False,False,True,Dragon/Ice
+Kyurem,kyurem,646,Ultra,1,0,14,15,26,2496,167.567,125.334,177,3717327,False,False,True,Dragon/Ice
+Kyurem Black,kyurem-black,646,Great,1,0,15,13,12,1500,143.467,91.634,119,1564435,False,False,True,Dragon/Ice
+Kyurem Black,kyurem-black,646,Ultra,1,0,15,13,20,2500,185.194,118.285,154,3373479,False,False,True,Dragon/Ice
+Kyurem White,kyurem-white,646,Great,1,0,15,13,12,1500,143.467,91.634,119,1564435,False,False,True,Dragon/Ice
+Kyurem White,kyurem-white,646,Ultra,1,0,15,13,20,2500,185.194,118.285,154,3373479,False,False,True,Dragon/Ice
+Keldeo Ordinary,keldeo-ordinary,647,Great,1,0,15,15,15,1498,134.522,107.101,115,1656854,False,False,True,Water/Fighting
+Keldeo Ordinary,keldeo-ordinary,647,Ultra,1,0,15,15,25,2497,173.663,138.262,149,3577644,False,False,True,Water/Fighting
+Keldeo Resolute,keldeo-resolute,647,Great,1,0,15,15,15,1498,134.522,107.101,115,1656854,False,False,True,Water/Fighting
+Keldeo Resolute,keldeo-resolute,647,Ultra,1,0,15,15,25,2497,173.663,138.262,149,3577644,False,False,True,Water/Fighting
+Meloetta,meloetta,648,Great,1,0,15,15,14,1499,124.965,119.966,119,1783989,False,False,True,Normal/Psychic
+Meloetta,meloetta,648,Ultra,1,0,14,13,23.5,2500,161.895,154.772,154,3858751,False,False,True,Normal/Psychic
+Meloetta Pirouette,meloetta-pirouette,648,Great,1,0,9,11,14.5,1500,136.841,100.214,120,1645607,False,False,False,Normal/Fighting
+Meloetta Pirouette,meloetta-pirouette,648,Ultra,1,1,15,15,23.5,2499,174.847,131.459,155,3562703,False,False,False,Normal/Fighting
+Genesect Burn,genesect-burn,649,Great,1,2,15,14,16.5,1500,137.829,116.124,102,1632542,False,False,True,Bug/Steel
+Genesect Burn,genesect-burn,649,Ultra,1,1,15,15,27.5,2497,177.237,149.916,132,3507339,False,False,True,Bug/Steel
+Genesect Chill,genesect-chill,649,Great,1,2,15,14,16.5,1500,137.829,116.124,102,1632542,False,False,True,Bug/Steel
+Genesect Chill,genesect-chill,649,Ultra,1,1,15,15,27.5,2497,177.237,149.916,132,3507339,False,False,True,Bug/Steel
+Genesect Douse,genesect-douse,649,Great,1,2,15,14,16.5,1500,137.829,116.124,102,1632542,False,False,True,Bug/Steel
+Genesect Douse,genesect-douse,649,Ultra,1,1,15,15,27.5,2497,177.237,149.916,132,3507339,False,False,True,Bug/Steel
+Genesect Normal,genesect-normal,649,Great,1,2,15,14,16.5,1500,137.829,116.124,102,1632542,False,False,True,Bug/Steel
+Genesect Normal,genesect-normal,649,Ultra,1,1,15,15,27.5,2497,177.237,149.916,132,3507339,False,False,True,Bug/Steel
+Genesect Shock,genesect-shock,649,Great,1,2,15,14,16.5,1500,137.829,116.124,102,1632542,False,False,True,Bug/Steel
+Genesect Shock,genesect-shock,649,Ultra,1,1,15,15,27.5,2497,177.237,149.916,132,3507339,False,False,True,Bug/Steel
+Quilladin,quilladin,651,Great,1,0,14,15,37.5,1499,113.305,131.931,132,1973203,False,False,True,Grass
+Chesnaught,chesnaught,652,Great,1,1,15,15,19,1499,117.62,127.519,127,1904852,False,False,True,Grass/Fighting
+Chesnaught,chesnaught,652,Ultra,1,1,15,14,33.5,2500,152.051,164.848,164,4110709,False,False,True,Grass/Fighting
+Braixen,braixen,654,Great,1,0,15,15,33,1500,128.209,108.715,125,1742288,False,False,True,Fire
+Delphox,delphox,655,Great,1,0,11,14,18.5,1499,132.151,114.914,112,1700828,False,False,True,Fire/Psychic
+Delphox,delphox,655,Ultra,1,1,15,15,30.5,2493,169.725,149.887,144,3663306,False,False,True,Fire/Psychic
+Frogadier,frogadier,657,Great,1,1,15,15,39.5,1500,133.083,101.584,125,1689890,False,False,True,Water
+Greninja,greninja,658,Great,1,3,15,12,21,1500,138.348,102.23,115,1626480,False,False,True,Water/Dark
+Greninja,greninja,658,Ultra,1,0,13,14,41,2497,177.352,131.225,151,3514210,False,False,True,Water/Dark
+Diggersby,diggersby,660,Great,1,0,15,13,50,1497,94.114,142.851,177,2379627,False,False,True,Normal/Ground
+Fletchinder,fletchinder,662,Great,1,0,14,15,50,1499,121.844,104.197,145,1840884,False,False,True,Fire/Flying
+Talonflame,talonflame,663,Great,1,0,13,15,26,1500,119.885,114.436,136,1865801,False,False,True,Fire/Flying
+Talonflame,talonflame,663,Ultra,1,15,15,15,50,2493,160.497,142.851,168,3851770,False,False,True,Fire/Flying
+Vivillon Archipelago,vivillon-archipelago,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Continental,vivillon-continental,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Elegant,vivillon-elegant,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Fancy,vivillon-fancy,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,False,Bug/Flying
+Vivillon Garden,vivillon-garden,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon High Plains,vivillon-high-plains,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Icy Snow,vivillon-icy-snow,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Jungle,vivillon-jungle,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Marine,vivillon-marine,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Meadow,vivillon-meadow,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Modern,vivillon-modern,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Monsoon,vivillon-monsoon,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Ocean,vivillon-ocean,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Poké Ball,vivillon-pokeball,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,False,Bug/Flying
+Vivillon Polar,vivillon-polar,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon River,vivillon-river,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Sandstorm,vivillon-sandstorm,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Savanna,vivillon-savanna,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Sun,vivillon-sun,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Vivillon Tundra,vivillon-tundra,666,Great,1,0,15,14,31.5,1498,130.378,87.413,151,1720904,False,False,True,Bug/Flying
+Litleo,litleo,667,Great,1,4,15,15,50,1496,120.163,106.718,145,1859416,False,False,True,Fire/Normal
+Pyroar,pyroar,668,Great,1,0,15,10,20.5,1500,133.666,99.191,127,1683827,False,False,True,Fire/Normal
+Pyroar,pyroar,668,Ultra,1,0,15,12,38,2500,172.144,127.745,165,3628440,False,False,True,Fire/Normal
+Floette Blue,floette-blue,670,Great,1,0,14,15,47,1500,112.241,136.174,131,2002248,False,False,True,Fairy
+Floette Orange,floette-orange,670,Great,1,0,14,15,47,1500,112.241,136.174,131,2002248,False,False,True,Fairy
+Floette Red,floette-red,670,Great,1,0,14,15,47,1500,112.241,136.174,131,2002248,False,False,True,Fairy
+Floette White,floette-white,670,Great,1,0,14,15,47,1500,112.241,136.174,131,2002248,False,False,True,Fairy
+Floette Yellow,floette-yellow,670,Great,1,0,14,15,47,1500,112.241,136.174,131,2002248,False,False,True,Fairy
+Florges Blue,florges-blue,671,Great,1,0,14,13,17.5,1500,118.472,144.178,111,1896002,False,False,True,Fairy
+Florges Blue,florges-blue,671,Ultra,1,0,14,15,29,2498,152.513,185.605,144,4076222,False,False,True,Fairy
+Florges Orange,florges-orange,671,Great,1,0,14,13,17.5,1500,118.472,144.178,111,1896002,False,False,True,Fairy
+Florges Orange,florges-orange,671,Ultra,1,0,14,15,29,2498,152.513,185.605,144,4076222,False,False,True,Fairy
+Florges Red,florges-red,671,Great,1,0,14,13,17.5,1500,118.472,144.178,111,1896002,False,False,True,Fairy
+Florges Red,florges-red,671,Ultra,1,0,14,15,29,2498,152.513,185.605,144,4076222,False,False,True,Fairy
+Florges White,florges-white,671,Great,1,0,14,13,17.5,1500,118.472,144.178,111,1896002,False,False,True,Fairy
+Florges White,florges-white,671,Ultra,1,0,14,15,29,2498,152.513,185.605,144,4076222,False,False,True,Fairy
+Florges Yellow,florges-yellow,671,Great,1,0,14,13,17.5,1500,118.472,144.178,111,1896002,False,False,True,Fairy
+Florges Yellow,florges-yellow,671,Ultra,1,0,14,15,29,2498,152.513,185.605,144,4076222,False,False,True,Fairy
+Gogoat,gogoat,673,Great,1,2,15,15,20,1500,118.285,96.181,167,1899932,False,False,True,Grass
+Gogoat,gogoat,673,Ultra,1,0,14,15,37.5,2498,152.109,124.17,217,4098566,False,False,True,Grass
+Pancham,pancham,674,Great,1,1,15,15,48,1499,121.224,101.297,151,1854213,False,False,True,Fighting
+Pangoro,pangoro,675,Great,1,0,13,13,19.5,1500,133.315,93.792,135,1688023,False,False,True,Fighting/Dark
+Pangoro,pangoro,675,Ultra,1,0,14,15,34.5,2500,171.45,121.381,175,3641891,False,False,True,Fighting/Dark
+Furfrou Dandy,furfrou-dandy,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Debutante,furfrou-debutante,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Diamond,furfrou-diamond,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Heart,furfrou-heart,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Kabuki,furfrou-kabuki,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou La Reine,furfrou-la-reine,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Matron,furfrou-matron,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Natural,furfrou-natural,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Pharaoh,furfrou-pharaoh,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Furfrou Star,furfrou-star,676,Great,1,1,14,15,27,1497,114.534,125.64,136,1957042,False,False,True,Normal
+Meowstic,meowstic,678,Great,1,0,14,15,27,1498,115.228,125.64,134,1939948,False,False,True,Psychic
+Meowstic Female,meowstic-female,678,Great,1,0,14,15,27,1498,115.228,125.64,134,1939948,False,False,True,Psychic
+Honedge,honedge,679,Great,1,8,15,15,50,1498,120.163,129.406,120,1865979,False,False,True,Steel/Ghost
+Doublade,doublade,680,Great,1,0,11,14,23.5,1500,121.745,140.525,108,1847692,False,False,True,Steel/Ghost
+Doublade,doublade,680,Ultra,1,0,14,14,48.5,2499,156.567,183.217,139,3987316,False,False,True,Steel/Ghost
+Aegislash Blade,aegislash-blade,681,Great,1,0,14,15,22.5,1500,172.353,70.335,107,1297100,False,False,True,Steel/Ghost
+Aegislash Blade,aegislash-blade,681,Ultra,1,0,14,15,45.5,2498,222.443,90.776,139,2806758,False,False,True,Steel/Ghost
+Aegislash Shield,aegislash-shield,681,Great,1,0,12,14,50,1500,81.509,238.645,142,2762149,False,False,True,Steel/Ghost
+Aromatisse,aromatisse,683,Great,1,0,13,15,24.5,1499,114.391,107.779,159,1960297,False,False,True,Fairy
+Aromatisse,aromatisse,683,Ultra,1,6,15,14,49.5,2500,149.967,138.238,201,4166944,False,False,True,Fairy
+Slurpuff,slurpuff,685,Great,1,1,14,14,26,1500,115.117,120.566,141,1956968,False,False,True,Fairy
+Slurpuff,slurpuff,685,Ultra,1,15,15,15,50,2486,153.775,149.573,174,4002111,False,False,True,Fairy
+Malamar,malamar,687,Great,1,0,15,9,24.5,1500,117.036,119.019,138,1922276,False,False,True,Dark/Psychic
+Malamar,malamar,687,Ultra,1,3,15,15,50,2500,151.254,151.254,180,4117999,False,False,True,Dark/Psychic
+Barbaracle,barbaracle,689,Great,1,0,10,13,21.5,1500,120.164,133.172,117,1872295,False,False,True,Rock/Water
+Barbaracle,barbaracle,689,Ultra,1,0,15,15,40.5,2499,153.804,174.417,151,4050727,False,False,True,Rock/Water
+Dragalge,dragalge,691,Great,1,0,15,13,24,1498,115.835,145.285,115,1935343,False,False,True,Poison/Dragon
+Dragalge,dragalge,691,Ultra,1,1,15,15,50,2498,149.573,186.547,149,4157459,False,False,True,Poison/Dragon
+Clawitzer,clawitzer,693,Great,1,0,13,13,20.5,1499,133.666,111.288,113,1680916,False,False,True,Water
+Clawitzer,clawitzer,693,Ultra,1,0,13,15,38,2500,172.144,143.324,147,3626831,False,False,True,Water
+Heliolisk,heliolisk,695,Great,1,0,15,15,21.5,1494,135.65,113.351,107,1645232,False,False,True,Electric/Normal
+Heliolisk,heliolisk,695,Ultra,1,0,14,14,42.5,2497,175.814,146.11,138,3544978,False,False,True,Electric/Normal
+Tyrunt,tyrunt,696,Great,1,0,15,15,40,1493,124.867,109.061,131,1783986,False,False,True,Rock/Dragon
+Tyrantrum,tyrantrum,697,Great,1,0,15,12,18,1498,128.653,116.751,116,1742373,False,False,True,Rock/Dragon
+Tyrantrum,tyrantrum,697,Ultra,1,0,12,15,30,2497,166.096,148.535,152,3750003,False,False,True,Rock/Dragon
+Amaura,amaura,698,Great,1,11,15,15,50,1497,113.441,104.197,167,1973971,False,False,True,Rock/Ice
+Aurorus,aurorus,699,Great,1,0,12,13,20.5,1500,112.497,105.844,168,2000404,False,False,True,Rock/Ice
+Aurorus,aurorus,699,Ultra,1,0,15,15,37.5,2500,144.348,138.14,217,4327019,False,False,True,Rock/Ice
+Sylveon,sylveon,700,Great,1,0,15,12,18.5,1500,116.638,126.405,131,1931411,False,False,True,Fairy
+Sylveon,sylveon,700,Ultra,1,0,13,15,31.5,2499,150.379,161.491,171,4152730,False,False,True,Fairy
+Hawlucha,hawlucha,701,Great,1,0,14,15,23.5,1498,126.278,108.146,130,1775344,False,False,True,Fighting/Flying
+Hawlucha,hawlucha,701,Ultra,1,0,15,15,49,2500,162.884,140.33,167,3817204,False,False,True,Fighting/Flying
+Dedenne,dedenne,702,Great,1,0,14,12,33,1500,122.961,110.965,134,1828336,False,False,True,Electric/Fairy
+Carbink,carbink,703,Great,1,5,15,15,49.5,1498,83.78,251.341,127,2674297,False,False,True,Rock/Fairy
+Sliggoo,sliggoo,705,Great,1,1,15,15,28,1498,113.101,135.015,130,1985150,False,False,True,Dragon
+Hisuian Sliggoo,sliggoo-hisuian,705,Great,1,1,15,15,28,1498,113.101,135.015,130,1985150,False,False,False,Dragon
+Goodra,goodra,706,Great,1,1,14,14,16,1500,118.092,136.795,118,1906220,False,False,True,Dragon
+Goodra,goodra,706,Ultra,1,0,12,12,27,2500,152.712,176.312,152,4092594,False,False,True,Dragon
+Hisuian Goodra,goodra-hisuian,706,Great,1,1,14,14,16,1500,118.092,136.795,118,1906220,False,False,False,Dragon
+Hisuian Goodra,goodra-hisuian,706,Ultra,1,0,12,12,27,2500,152.712,176.312,152,4092594,False,False,False,Dragon
+Klefki,klefki,707,Great,1,0,15,14,29.5,1497,116.092,140.762,118,1928275,False,False,True,Steel/Fairy
+Trevenant,trevenant,709,Great,1,0,15,15,22,1497,125.94,105.89,133,1773657,False,False,True,Ghost/Grass
+Trevenant,trevenant,709,Ultra,1,1,15,15,43.5,2500,163.176,136.519,172,3831584,False,False,True,Ghost/Grass
+Gourgeist,gourgeist,711,Great,1,0,15,13,25.5,1500,115.354,157.852,107,1948342,False,False,True,Ghost/Grass
+Gourgeist,gourgeist,711,Ultra,1,11,15,15,50,2494,152.935,196.63,135,4059661,False,False,True,Ghost/Grass
+Gourgeist Average Size,gourgeist-average,711,Great,1,0,14,13,24,1498,114.526,148.557,115,1956571,False,False,True,Ghost/Grass
+Gourgeist Average Size,gourgeist-average,711,Ultra,1,1,14,15,50,2498,147.893,190.748,149,4203331,False,False,True,Ghost/Grass
+Gourgeist Large Size,gourgeist-large,711,Great,1,1,14,15,22.5,1500,114.057,139.403,124,1971581,False,False,True,Ghost/Grass
+Gourgeist Large Size,gourgeist-large,711,Ultra,1,1,14,15,45.5,2499,147.205,179.917,160,4237536,False,False,True,Ghost/Grass
+Gourgeist Small Size,gourgeist-small,711,Great,1,0,15,13,25.5,1500,115.354,157.852,107,1948342,False,False,True,Ghost/Grass
+Gourgeist Small Size,gourgeist-small,711,Ultra,1,11,15,15,50,2494,152.935,196.63,135,4059661,False,False,True,Ghost/Grass
+Gourgeist Super Size,gourgeist-super,711,Great,1,1,15,14,21.5,1498,113.351,133.172,131,1977466,False,False,True,Ghost/Grass
+Gourgeist Super Size,gourgeist-super,711,Ultra,1,0,14,14,42.5,2498,146.11,171.8,170,4267298,False,False,True,Ghost/Grass
+Avalugg,avalugg,713,Great,1,2,15,15,17.5,1500,110.648,142.502,129,2034021,False,False,True,Ice
+Avalugg,avalugg,713,Ultra,1,0,14,15,29.5,2499,142.213,184.296,167,4376950,False,False,True,Ice
+Hisuian Avalugg,avalugg-hisuian,713,Great,1,0,14,9,16.5,1500,116.124,136.744,122,1937274,False,False,True,Ice/Rock
+Hisuian Avalugg,avalugg-hisuian,713,Ultra,1,1,14,15,27,2499,149.241,174.924,160,4176935,False,False,True,Ice/Rock
+Noivern,noivern,715,Great,1,0,15,12,20.5,1497,123.989,114.916,127,1809542,False,False,True,Flying/Dragon
+Noivern,noivern,715,Ultra,1,0,15,14,38,2496,159.681,147.997,165,3899342,False,False,True,Flying/Dragon
+Xerneas,xerneas,716,Great,1,0,9,13,15,1500,129.348,100.374,134,1739760,False,False,True,Fairy
+Xerneas,xerneas,716,Ultra,1,0,15,15,24.5,2497,165.305,132.244,172,3760014,False,False,True,Fairy
+Yveltal,yveltal,717,Great,1,0,9,13,15,1500,129.348,100.374,134,1739760,False,False,True,Dark/Flying
+Yveltal,yveltal,717,Ultra,1,0,15,15,24.5,2497,165.305,132.244,172,3760014,False,False,True,Dark/Flying
+Zygarde Complete,zygarde-complete,718,Great,1,3,15,15,15,1499,96.753,114.861,209,2322649,False,False,True,Dragon/Ground
+Zygarde Complete,zygarde-complete,718,Ultra,1,0,15,12,25.5,2498,124.123,149.757,270,5018847,False,False,True,Dragon/Ground
+Zygarde Fifty Percent,zygarde-fifty-percent,718,Great,1,1,14,14,16.5,1498,110.698,133.488,137,2024430,False,False,True,Dragon/Ground
+Zygarde Fifty Percent,zygarde-fifty-percent,718,Ultra,1,1,14,14,27.5,2497,142.911,172.334,177,4359212,False,False,True,Dragon/Ground
+Zygarde Ten Percent,zygarde-ten-percent,718,Great,1,0,14,12,24,1499,134.159,122.379,102,1674671,False,False,True,Dragon/Ground
+Zygarde Ten Percent,zygarde-ten-percent,718,Ultra,1,1,15,15,49.5,2499,172.588,157.507,133,3615441,False,False,True,Dragon/Ground
+Diancie,diancie,719,Great,1,0,7,15,21,1500,116.31,178.75,93,1933506,False,False,True,Rock/Fairy
+Diancie,diancie,719,Ultra,1,0,15,15,39,2497,149.081,235.391,119,4175989,False,False,True,Rock/Fairy
+Hoopa Confined,hoopa-confined,720,Great,1,0,15,15,16.5,1497,141.628,109.612,102,1583466,False,False,True,Psychic/Ghost
+Hoopa Confined,hoopa-confined,720,Ultra,1,1,15,14,27.5,2499,183.542,141.51,131,3402463,False,False,True,Psychic/Ghost
+Hoopa Unbound,hoopa-unbound,720,Great,1,5,15,15,13.5,1498,155.11,101.116,92,1442946,False,False,True,Psychic/Dark
+Hoopa Unbound,hoopa-unbound,720,Ultra,1,0,15,13,23,2498,199.243,131.975,119,3129106,False,False,True,Psychic/Dark
+Volcanion,volcanion,721,Great,1,0,11,14,15.5,1500,132.538,119.389,107,1693116,False,False,True,Fire/Water
+Volcanion,volcanion,721,Ultra,1,0,15,15,25.5,2495,169.995,155.828,138,3655619,False,False,True,Fire/Water
+Dartrix,dartrix,723,Great,1,0,15,14,37.5,1500,110.201,119.514,155,2041441,False,False,True,Grass/Flying
+Decidueye,decidueye,724,Great,1,0,14,11,20.5,1497,127.013,116.731,119,1764335,False,False,True,Grass/Ghost
+Decidueye,decidueye,724,Ultra,1,0,14,13,38,2497,163.576,150.334,155,3811608,False,False,True,Grass/Ghost
+Hisuian Decidueye,decidueye-hisuian,724,Great,1,0,15,13,19.5,1500,125.646,111.489,128,1793042,False,False,True,Grass/Fighting
+Hisuian Decidueye,decidueye-hisuian,724,Ultra,1,0,14,14,35,2500,162.213,143.174,166,3855300,False,False,True,Grass/Fighting
+Torracat,torracat,726,Great,1,0,15,13,37,1499,134.534,91.236,136,1669317,False,False,True,Fire
+Incineroar,incineroar,727,Great,1,0,15,9,19,1500,124.608,110.633,131,1805929,False,False,True,Fire/Dark
+Incineroar,incineroar,727,Ultra,1,0,15,15,32.5,2500,159.811,141.888,172,3900161,False,False,True,Fire/Dark
+Brionne,brionne,729,Great,1,1,15,14,30.5,1500,124.171,117.559,124,1810077,False,False,True,Water
+Primarina,primarina,730,Great,1,0,15,14,17.5,1499,129.649,117.354,114,1734493,False,False,True,Water/Fairy
+Primarina,primarina,730,Ultra,1,2,15,13,29,2500,168.339,151.074,146,3713024,False,False,True,Water/Fairy
+Trumbeak,trumbeak,732,Great,1,0,15,15,48.5,1500,132.416,95.772,134,1699359,False,False,True,Normal/Flying
+Toucannon,toucannon,733,Great,1,0,14,13,21,1499,135.899,97.945,124,1650520,False,False,True,Normal/Flying
+Toucannon,toucannon,733,Ultra,1,2,15,14,39,2499,175.759,126.327,160,3552478,False,False,True,Normal/Flying
+Gumshoos,gumshoos,735,Great,1,0,15,13,26,1500,132.146,87.189,147,1693689,False,False,True,Normal
+Gumshoos,gumshoos,735,Ultra,1,15,15,15,50,2470,175.623,107.558,184,3475704,False,False,True,Normal
+Charjabug,charjabug,737,Great,1,0,13,15,38.5,1497,113.36,136.031,128,1973820,False,False,True,Bug/Electric
+Vikavolt,vikavolt,738,Great,1,0,14,12,18,1498,143.956,97.482,111,1557669,False,False,True,Bug/Electric
+Vikavolt,vikavolt,738,Ultra,1,2,15,15,29.5,2500,185.747,125.525,144,3357484,False,False,True,Bug/Electric
+Crabrawler,crabrawler,739,Great,1,11,15,15,49.5,1494,134.886,99.699,123,1654103,False,False,True,Fighting
+Crabominable,crabominable,740,Great,1,0,11,15,19.5,1500,136.264,87.893,138,1652785,False,False,True,Fighting/Ice
+Crabominable,crabominable,740,Ultra,1,0,15,12,34.5,2499,175.244,116.07,175,3559606,False,False,True,Fighting/Ice
+Oricorio Baile,oricorio-baile,741,Great,1,0,13,13,24.5,1500,129.599,104.473,128,1733062,False,False,True,Fire/Flying
+Oricorio Baile,oricorio-baile,741,Ultra,1,4,15,15,50,2500,168.06,134.448,164,3705634,False,False,True,Fire/Flying
+Oricorio Pau,oricorio-pau,741,Great,1,0,13,13,24.5,1500,129.599,104.473,128,1733062,False,False,True,Psychic/Flying
+Oricorio Pau,oricorio-pau,741,Ultra,1,4,15,15,50,2500,168.06,134.448,164,3705634,False,False,True,Psychic/Flying
+Oricorio Pompom,oricorio-pompom,741,Great,1,0,13,13,24.5,1500,129.599,104.473,128,1733062,False,False,True,Electric/Flying
+Oricorio Pompom,oricorio-pompom,741,Ultra,1,4,15,15,50,2500,168.06,134.448,164,3705634,False,False,True,Electric/Flying
+Oricorio Sensu,oricorio-sensu,741,Great,1,0,13,13,24.5,1500,129.599,104.473,128,1733062,False,False,True,Ghost/Flying
+Oricorio Sensu,oricorio-sensu,741,Ultra,1,4,15,15,50,2500,168.06,134.448,164,3705634,False,False,True,Ghost/Flying
+Ribombee,ribombee,743,Great,1,1,15,15,25.5,1498,134.242,108.608,114,1662085,False,False,True,Bug/Fairy
+Ribombee,ribombee,743,Ultra,1,15,15,15,50,2488,178.984,135.288,142,3438449,False,False,True,Bug/Fairy
+Lycanroc Dusk,lycanroc-dusk,745,Great,1,2,15,15,20.5,1499,142.738,93.143,118,1568817,False,False,True,Rock
+Lycanroc Dusk,lycanroc-dusk,745,Ultra,1,0,15,14,39,2496,183.605,120.834,153,3394420,False,False,True,Rock
+Lycanroc Midday,lycanroc-midday,745,Great,1,0,14,14,21,1500,141.408,94.272,119,1586374,False,False,True,Rock
+Lycanroc Midday,lycanroc-midday,745,Ultra,1,0,14,14,40,2500,182.559,121.706,154,3421664,False,False,True,Rock
+Lycanroc Midnight,lycanroc-midnight,745,Great,1,0,15,14,20.5,1500,131.852,101.006,128,1704671,False,False,True,Rock
+Lycanroc Midnight,lycanroc-midnight,745,Ultra,1,1,15,14,38,2500,170.586,130.082,165,3661377,False,False,True,Rock
+Wishiwashi School,wishiwashi-school,746,Great,1,0,15,10,17.5,1499,142.502,143.619,77,1575885,False,False,False,Water
+Wishiwashi School,wishiwashi-school,746,Ultra,1,2,15,14,28.5,2497,183.284,183.284,101,3392912,False,False,False,Water
+Toxapex,toxapex,748,Great,1,0,15,15,40.5,1499,90.38,228.328,120,2476340,False,False,True,Poison/Water
+Mudbray,mudbray,749,Great,1,1,15,14,30,1498,128.779,99.511,136,1742836,False,False,True,Ground
+Mudsdale,mudsdale,750,Great,1,0,14,15,18.5,1500,122.958,108.019,137,1819604,False,False,True,Ground
+Mudsdale,mudsdale,750,Ultra,1,0,15,14,31.5,2495,158.528,140.008,177,3928564,False,False,True,Ground
+Araquanid,araquanid,752,Great,1,0,10,15,35,1500,95.957,174.398,140,2342862,False,False,True,Water/Bug
+Lurantis,lurantis,754,Great,1,0,15,15,23.5,1493,124.336,119.155,121,1792638,False,False,True,Grass
+Lurantis,lurantis,754,Ultra,1,0,15,15,49.5,2499,160.858,154.156,156,3868372,False,False,True,Grass
+Shiinotic,shiinotic,756,Great,1,0,14,15,32,1498,114.544,135.37,126,1953722,False,False,True,Grass/Fairy
+Salazzle,salazzle,758,Great,1,2,15,13,22.5,1500,145.739,91.879,115,1539896,False,False,True,Poison/Fire
+Salazzle,salazzle,758,Ultra,1,0,15,14,46,2499,187.028,118.943,150,3336872,False,False,True,Poison/Fire
+Stufful,stufful,759,Great,1,12,15,15,50,1498,124.364,92.433,157,1804774,False,False,True,Normal/Fighting
+Bewear,bewear,760,Great,1,0,15,14,18,1500,128.087,88.414,155,1755314,False,False,True,Normal/Fighting
+Bewear,bewear,760,Ultra,1,0,14,15,30,2498,165.364,113.414,201,3769661,False,False,True,Normal/Fighting
+Tsareena,tsareena,763,Great,1,0,15,13,19,1499,129.266,122.279,110,1738710,False,False,True,Grass
+Tsareena,tsareena,763,Ultra,1,0,15,15,33,2499,166.447,157.45,143,3747607,False,False,True,Grass
+Comfey,comfey,764,Great,1,1,15,14,27,1500,115.228,159.653,106,1950026,False,False,True,Fairy
+Oranguru,oranguru,765,Great,1,0,13,14,23.5,1499,108.794,132.754,143,2065320,False,False,True,Normal/Psychic
+Oranguru,oranguru,765,Ultra,1,0,13,15,49,2500,140.33,171.237,185,4445492,False,False,True,Normal/Psychic
+Passimian,passimian,766,Great,1,0,15,14,18.5,1498,127.554,100.55,137,1757099,False,False,True,Fighting
+Passimian,passimian,766,Ultra,1,0,14,13,32,2499,165.121,129.419,177,3782470,False,False,True,Fighting
+Golisopod,golisopod,768,Great,1,0,8,15,18,1499,123.552,132.621,111,1818802,False,False,True,Bug/Water
+Golisopod,golisopod,768,Ultra,1,1,14,15,29.5,2500,158.901,174.138,142,3929245,False,False,True,Bug/Water
+Palossand,palossand,770,Great,1,0,15,11,23.5,1499,115.269,124.983,135,1944909,False,False,True,Ghost/Ground
+Palossand,palossand,770,Ultra,1,0,13,14,49,2499,148.683,159.542,177,4198669,False,False,True,Ghost/Ground
+Pyukumuku,pyukumuku,771,Great,1,11,15,15,50,1495,90.752,200.832,135,2460505,False,False,False,Water
+Type: Null,type-null,772,Great,1,0,14,12,21.5,1499,113.97,122.642,141,1970835,False,False,False,Normal
+Type: Null,type-null,772,Ultra,1,0,13,15,41.5,2498,146.796,157.167,184,4245161,False,False,False,Normal
+Silvally,silvally,773,Great,1,2,14,15,19,1500,116.456,123.443,134,1926339,False,False,False,Normal
+Silvally,silvally,773,Ultra,1,0,15,13,34,2497,149.626,160.961,173,4166516,False,False,False,Normal
+Minior,minior,774,Great,1,0,13,15,48,1500,96.315,171.872,141,2334089,False,False,False,Rock/Flying
+Minior Blue,minior-blue,774,Great,1,1,15,13,24.5,1499,144.807,96.538,111,1551711,False,False,False,Rock/Flying
+Minior Blue,minior-blue,774,Ultra,1,7,15,14,50,2495,189.068,122.684,142,3293764,False,False,False,Rock/Flying
+Minior Green,minior-green,774,Great,1,1,15,13,24.5,1499,144.807,96.538,111,1551711,False,False,False,Rock/Flying
+Minior Green,minior-green,774,Ultra,1,7,15,14,50,2495,189.068,122.684,142,3293764,False,False,False,Rock/Flying
+Minior Indigo,minior-indigo,774,Great,1,1,15,13,24.5,1499,144.807,96.538,111,1551711,False,False,False,Rock/Flying
+Minior Indigo,minior-indigo,774,Ultra,1,7,15,14,50,2495,189.068,122.684,142,3293764,False,False,False,Rock/Flying
+Minior Orange,minior-orange,774,Great,1,1,15,13,24.5,1499,144.807,96.538,111,1551711,False,False,False,Rock/Flying
+Minior Orange,minior-orange,774,Ultra,1,7,15,14,50,2495,189.068,122.684,142,3293764,False,False,False,Rock/Flying
+Minior Red,minior-red,774,Great,1,1,15,13,24.5,1499,144.807,96.538,111,1551711,False,False,False,Rock/Flying
+Minior Red,minior-red,774,Ultra,1,7,15,14,50,2495,189.068,122.684,142,3293764,False,False,False,Rock/Flying
+Minior Violet,minior-violet,774,Great,1,1,15,13,24.5,1499,144.807,96.538,111,1551711,False,False,False,Rock/Flying
+Minior Violet,minior-violet,774,Ultra,1,7,15,14,50,2495,189.068,122.684,142,3293764,False,False,False,Rock/Flying
+Minior Yellow,minior-yellow,774,Great,1,1,15,13,24.5,1499,144.807,96.538,111,1551711,False,False,False,Rock/Flying
+Minior Yellow,minior-yellow,774,Ultra,1,7,15,14,50,2495,189.068,122.684,142,3293764,False,False,False,Rock/Flying
+Komala,komala,775,Great,1,0,15,11,22,1500,135.338,112.782,109,1663750,False,False,True,Normal
+Komala,komala,775,Ultra,1,0,14,15,43,2500,173.945,144.149,143,3585570,False,False,True,Normal
+Turtonator,turtonator,776,Great,1,0,12,14,26,1499,112.392,154.624,115,1998537,False,False,True,Fire/Dragon
+Turtonator,turtonator,776,Ultra,1,15,14,14,50,2500,151.254,192.429,142,4132997,False,False,True,Fire/Dragon
+Togedemaru,togedemaru,777,Great,1,0,13,13,26.5,1498,130.66,108.654,121,1717810,False,False,True,Electric/Steel
+Togedemaru,togedemaru,777,Ultra,1,15,15,15,50,2442,172.262,134.448,149,3450872,False,False,True,Electric/Steel
+Mimikyu,mimikyu,778,Great,1,1,14,15,25.5,1500,120.076,143.686,108,1863343,False,False,True,Ghost/Fairy
+Mimikyu,mimikyu,778,Ultra,1,14,14,15,50,2497,160.497,178.984,135,3878069,False,False,True,Ghost/Fairy
+Mimikyu Busted,mimikyu-busted,778,Great,1,1,14,15,25.5,1500,120.076,143.686,108,1863343,False,False,False,Ghost/Fairy
+Mimikyu Busted,mimikyu-busted,778,Ultra,1,14,14,15,50,2497,160.497,178.984,135,3878069,False,False,False,Ghost/Fairy
+Bruxish,bruxish,779,Great,1,0,15,15,23.5,1496,134.697,103.613,119,1660804,False,False,True,Water/Psychic
+Bruxish,bruxish,779,Ultra,1,0,14,15,49.5,2497,174.263,133.211,154,3574916,False,False,True,Water/Psychic
+Drampa,drampa,780,Great,1,2,15,15,19,1498,135.671,104.228,117,1654463,False,False,True,Normal/Dragon
+Drampa,drampa,780,Ultra,1,0,15,14,34,2495,174.563,135.268,151,3565530,False,False,True,Normal/Dragon
+Dhelmise,dhelmise,781,Great,1,0,15,14,19,1500,135.671,112.962,108,1655173,False,False,True,Ghost/Grass
+Dhelmise,dhelmise,781,Ultra,1,0,15,15,33,2494,174.694,145.454,140,3557390,False,False,True,Ghost/Grass
+Hakamo-o,hakamo-o,783,Great,1,0,13,15,39,1498,113.772,137.311,126,1968404,False,False,True,Dragon/Fighting
+Kommo-o,kommo-o,784,Great,1,0,14,14,17,1498,122.276,139.901,107,1830403,False,False,True,Dragon/Fighting
+Kommo-o,kommo-o,784,Ultra,1,0,11,14,28.5,2497,158.324,179.005,139,3939368,False,False,True,Dragon/Fighting
+Tapu Koko,tapu-koko,785,Great,1,1,15,15,17.5,1500,140.266,109.531,104,1597804,False,False,True,Electric/Fairy
+Tapu Koko,tapu-koko,785,Ultra,1,0,14,13,29.5,2499,181.394,141.487,134,3439100,False,False,True,Electric/Fairy
+Tapu Lele,tapu-lele,786,Great,1,0,13,14,16,1499,138.398,118.092,99,1618027,False,False,True,Psychic/Fairy
+Tapu Lele,tapu-lele,786,Ultra,1,1,15,13,26.5,2497,178.798,153.354,127,3482258,False,False,True,Psychic/Fairy
+Tapu Bulu,tapu-bulu,787,Great,1,0,14,11,16.5,1500,135.116,124.264,99,1662214,False,False,True,Grass/Fairy
+Tapu Bulu,tapu-bulu,787,Ultra,1,0,9,15,27.5,2500,174.435,156.922,131,3585817,False,False,True,Grass/Fairy
+Tapu Fini,tapu-fini,788,Great,1,0,12,14,20,1500,112.909,158.908,111,1991576,False,False,True,Water/Fairy
+Tapu Fini,tapu-fini,788,Ultra,1,0,13,14,36.5,2499,145.586,205.669,143,4281795,False,False,True,Water/Fairy
+Solgaleo,solgaleo,791,Great,1,0,12,9,14,1499,127.464,101.471,136,1759014,False,False,True,Psychic/Steel
+Solgaleo,solgaleo,791,Ultra,1,0,14,14,23,2498,163.367,131.334,178,3819088,False,False,True,Psychic/Steel
+Lunala,lunala,792,Great,1,0,12,9,14,1499,127.464,101.471,136,1759014,False,False,True,Psychic/Ghost
+Lunala,lunala,792,Ultra,1,0,14,14,23,2498,163.367,131.334,178,3819088,False,False,True,Psychic/Ghost
+Nihilego,nihilego,793,Great,1,1,15,15,14,1496,124.965,112.468,127,1784926,False,False,True,Rock/Poison
+Nihilego,nihilego,793,Ultra,1,0,14,15,23.5,2495,161.248,145.058,165,3859397,False,False,True,Rock/Poison
+Buzzwole,buzzwole,794,Great,1,2,15,15,16,1500,127.176,112.749,123,1763694,False,False,True,Bug/Fighting
+Buzzwole,buzzwole,794,Ultra,1,0,13,15,27,2498,163.818,145.076,160,3802568,False,False,True,Bug/Fighting
+Pheromosa,pheromosa,795,Great,1,1,15,11,19.5,1500,186.994,58.989,109,1202333,False,False,True,Bug/Fighting
+Pheromosa,pheromosa,795,Ultra,1,0,15,15,34.5,2500,239.727,75.863,143,2600660,False,False,True,Bug/Fighting
+Xurkitree,xurkitree,796,Great,1,0,14,14,14,1498,164.953,78.978,104,1354872,False,False,True,Electric
+Xurkitree,xurkitree,796,Ultra,1,0,12,14,23.5,2498,213.702,101.023,135,2914476,False,False,True,Electric
+Celesteela,celesteela,797,Great,1,2,15,14,18,1499,118.452,121.285,132,1896374,False,False,True,Steel/Flying
+Celesteela,celesteela,797,Ultra,1,0,15,15,30.5,2500,152.091,157.235,171,4089298,False,False,True,Steel/Flying
+Kartana,kartana,798,Great,1,0,14,14,15,1497,167.118,101.409,79,1338839,False,False,True,Grass/Steel
+Kartana,kartana,798,Ultra,1,0,14,14,25,2495,215.743,130.915,102,2880885,False,False,True,Grass/Steel
+Guzzlord,guzzlord,799,Great,1,1,15,15,19.5,1497,111.489,67.247,268,2009280,False,False,True,Dark/Dragon
+Guzzlord,guzzlord,799,Ultra,1,0,15,14,35.5,2499,143.723,87.151,347,4346416,False,False,True,Dark/Dragon
+Necrozma,necrozma,800,Great,1,1,15,15,15,1495,130.383,108.653,121,1714146,False,False,True,Psychic
+Necrozma,necrozma,800,Ultra,1,1,15,15,25,2492,168.319,140.266,156,3683083,False,False,True,Psychic
+Necrozma Dawn Wings,necrozma-dawn-wings,800,Great,1,0,15,15,13.5,1500,135.967,115.351,105,1646815,False,False,True,Psychic/Ghost
+Necrozma Dawn Wings,necrozma-dawn-wings,800,Ultra,1,0,15,15,22.5,2499,175.521,148.908,136,3554547,False,False,True,Psychic/Ghost
+Necrozma Dusk Mane,necrozma-dusk-mane,800,Great,1,0,15,15,13.5,1500,135.967,115.351,105,1646815,False,False,True,Psychic/Steel
+Necrozma Dusk Mane,necrozma-dusk-mane,800,Ultra,1,0,15,15,22.5,2499,175.521,148.908,136,3554547,False,False,True,Psychic/Steel
+Magearna,magearna,801,Great,1,0,13,14,15.5,1499,129.382,125.174,107,1732896,False,False,False,Steel/Fairy
+Magearna,magearna,801,Ultra,1,0,15,10,26,2500,167.567,163.48,136,3725545,False,False,False,Steel/Fairy
+Magearna Original Color,magearna-original-color,801,Great,1,0,13,14,15.5,1499,129.382,125.174,107,1732896,False,False,False,Steel/Fairy
+Magearna Original Color,magearna-original-color,801,Ultra,1,0,15,10,26,2500,167.567,163.48,136,3725545,False,False,False,Steel/Fairy
+Marshadow,marshadow,802,Great,1,0,14,12,15,1499,137.109,105.548,113,1635299,False,False,True,Fighting/Ghost
+Marshadow,marshadow,802,Ultra,1,0,14,12,25,2498,177.003,136.259,146,3521243,False,False,True,Fighting/Ghost
+Poipole,poipole,803,Great,1,1,14,15,40.5,1500,115.749,116.542,144,1942515,False,False,True,Poison
+Naganadel,naganadel,804,Great,1,1,15,13,17.5,1499,147.531,97.237,106,1520615,False,False,True,Poison/Dragon
+Naganadel,naganadel,804,Ultra,1,1,15,15,29,2497,189.921,125.175,138,3280742,False,False,True,Poison/Dragon
+Stakataka,stakataka,805,Great,1,1,14,15,17,1499,117.87,171.847,94,1904025,False,False,True,Rock/Steel
+Stakataka,stakataka,805,Ultra,1,0,15,14,28.5,2498,151.905,223.222,121,4102932,False,False,True,Rock/Steel
+Blacephalon,blacephalon,806,Great,1,3,15,15,16.5,1497,172.558,88.45,85,1297330,False,False,True,Fire/Ghost
+Blacephalon,blacephalon,806,Ultra,1,0,13,14,28,2494,222.669,113.808,110,2787569,False,False,True,Fire/Ghost
+Zeraora,zeraora,807,Great,1,0,14,10,16.5,1500,136.744,103.643,116,1644026,False,False,True,Electric
+Zeraora,zeraora,807,Ultra,1,1,15,15,27,2499,175.618,133.276,152,3557657,False,False,True,Electric
+Melmetal,melmetal,809,Great,1,1,15,14,15.5,1499,119.389,107.818,146,1879356,False,False,True,Steel
+Melmetal,melmetal,809,Ultra,1,0,13,15,26,2495,153.943,138.276,190,4044479,False,False,True,Steel
+Thwackey,thwackey,811,Great,1,0,14,13,31.5,1498,122.23,109.636,137,1835909,False,False,True,Grass
+Rillaboom,rillaboom,812,Great,1,0,12,13,17,1500,131.639,99.143,131,1709693,False,False,True,Grass
+Rillaboom,rillaboom,812,Ultra,1,0,14,15,28,2495,168.945,128.653,169,3673267,False,False,True,Grass
+Raboot,raboot,814,Great,1,0,12,14,33.5,1499,127.964,103.124,133,1755087,False,False,True,Fire
+Cinderace,cinderace,815,Great,1,0,15,15,18.5,1500,136.747,102.273,117,1636317,False,False,True,Fire
+Cinderace,cinderace,815,Ultra,1,1,15,14,31.5,2499,177.048,131.86,151,3525169,False,False,True,Fire
+Drizzile,drizzile,817,Great,1,0,13,14,30.5,1499,136.662,92.577,130,1644733,False,False,True,Water
+Inteleon,inteleon,818,Great,1,0,13,12,19,1500,152.557,90.253,107,1473258,False,False,True,Water
+Inteleon,inteleon,818,Ultra,1,1,15,13,32.5,2499,196.403,117.245,138,3177761,False,False,True,Water
+Greedent,greedent,820,Great,1,0,12,14,24.5,1500,105.795,111.085,181,2127154,False,False,True,Normal
+Greedent,greedent,820,Ultra,1,3,15,15,50,2495,136.969,143.691,231,4546367,False,False,True,Normal
+Corvisquire,corvisquire,822,Great,1,12,15,15,49.5,1500,118.13,104.725,154,1905173,False,False,True,Flying
+Corviknight,corviknight,823,Great,1,0,13,14,23.5,1500,105.556,132.754,152,2129969,False,False,True,Flying/Steel
+Corviknight,corviknight,823,Ultra,1,0,15,15,48.5,2498,135.747,172.39,196,4586690,False,False,True,Flying/Steel
+Orbeetle,orbeetle,826,Great,1,0,14,14,26,1499,106.262,173.016,115,2114271,False,False,True,Bug/Psychic
+Orbeetle,orbeetle,826,Ultra,1,14,15,15,50,2499,142.851,214.277,142,4346565,False,False,True,Bug/Psychic
+Thievul,thievul,828,Great,1,0,15,11,27,1499,119.393,124.252,127,1884013,False,False,True,Dark
+Eldegoss,eldegoss,830,Great,1,0,14,15,29,1498,106.471,161.865,122,2102538,False,False,True,Grass
+Dubwool,dubwool,832,Great,1,1,15,15,26,1497,108.986,145.088,130,2055642,False,False,True,Normal
+Dubwool,dubwool,832,Ultra,1,15,15,15,50,2478,146.212,178.984,160,4187141,False,False,True,Normal
+Drednaw,drednaw,834,Great,1,0,12,14,20,1499,127.246,105.142,132,1766024,False,False,False,Water/Rock
+Drednaw,drednaw,834,Ultra,1,0,15,15,36,2500,163.456,137.364,170,3816998,False,False,False,Water/Rock
+Boltund,boltund,836,Great,1,0,14,15,26,1497,134.189,98.769,126,1669973,False,False,True,Electric
+Boltund,boltund,836,Ultra,1,15,15,15,50,2460,178.144,122.684,155,3387577,False,False,True,Electric
+Carkol,carkol,838,Great,1,0,13,14,50,1499,95.794,142.851,171,2340015,False,False,True,Rock/Fire
+Coalossal,coalossal,839,Great,1,1,15,14,24.5,1500,97.199,140.84,169,2313527,False,False,True,Rock/Fire
+Coalossal,coalossal,839,Ultra,1,6,14,14,50,2500,127.726,178.144,215,4892002,False,False,True,Rock/Fire
+Flapple,flapple,841,Great,1,0,13,14,23,1500,137.1,100.583,119,1640990,False,False,True,Grass/Dragon
+Flapple,flapple,841,Ultra,1,0,15,15,46.5,2498,176.08,130.826,153,3524479,False,False,True,Grass/Dragon
+Appletun,appletun,842,Great,1,2,15,14,23,1499,115.318,103.145,164,1950688,False,False,True,Grass/Dragon
+Appletun,appletun,842,Ultra,1,0,15,15,48,2496,147.793,133.678,213,4208192,False,False,True,Grass/Dragon
+Sandaconda,sandaconda,844,Great,1,2,15,15,20,1499,121.87,132.623,114,1842546,False,False,True,Ground
+Sandaconda,sandaconda,844,Ultra,1,0,14,15,37.5,2499,156.765,171.51,148,3979252,False,False,True,Ground
+Cramorant,cramorant,845,Great,1,0,14,11,27,1500,120.087,122.863,127,1873794,False,False,True,Flying/Water
+Cramorant,cramorant,845,Ultra,1,15,15,15,50,2421,157.976,149.573,157,3709764,False,False,True,Flying/Water
+Barraskewda,barraskewda,847,Great,1,0,14,14,21,1496,157.937,86.314,104,1417745,False,False,True,Water
+Barraskewda,barraskewda,847,Ultra,1,2,15,15,39,2494,204.006,111.418,134,3045819,False,False,True,Water
+Toxtricity Amped,toxtricity-amped,849,Great,1,0,15,15,21.5,1497,138.747,96.008,121,1611808,False,False,True,Electric/Poison
+Toxtricity Amped,toxtricity-amped,849,Ultra,1,0,15,15,42,2500,179.267,124.047,156,3469045,False,False,True,Electric/Poison
+Toxtricity Low Key,toxtricity-low-key,849,Great,1,0,15,15,21.5,1497,138.747,96.008,121,1611808,False,False,True,Electric/Poison
+Toxtricity Low Key,toxtricity-low-key,849,Ultra,1,0,15,15,42,2500,179.267,124.047,156,3469045,False,False,True,Electric/Poison
+Centiskorch,centiskorch,851,Great,1,0,15,9,19,1500,128.101,100.734,136,1754970,False,False,True,Fire/Bug
+Centiskorch,centiskorch,851,Ultra,1,0,15,15,32.5,2499,164.292,129.193,179,3799344,False,False,True,Fire/Bug
+Grapploct,grapploct,853,Great,1,1,15,15,21,1499,128.553,108.352,125,1741120,False,False,True,Fighting
+Grapploct,grapploct,853,Ultra,1,1,15,15,40,2498,165.963,139.883,162,3760898,False,False,True,Fighting
+Polteageist Antique,polteageist-antique,855,Great,1,2,15,15,18,1495,141.689,115.618,96,1572648,False,False,True,Ghost
+Polteageist Antique,polteageist-antique,855,Ultra,1,1,15,14,30.5,2495,182.951,149.887,124,3400320,False,False,True,Ghost
+Polteageist Phony,polteageist-phony,855,Great,1,2,15,15,18,1495,141.689,115.618,96,1572648,False,False,True,Ghost
+Polteageist Phony,polteageist-phony,855,Ultra,1,1,15,14,30.5,2495,182.951,149.887,124,3400320,False,False,True,Ghost
+Hattrem,hattrem,857,Great,1,0,15,15,40.5,1498,121.299,117.335,130,1850240,False,False,True,Psychic
+Hatterene,hatterene,858,Great,1,0,11,14,20,1500,141.584,115.298,97,1583463,False,False,True,Psychic/Fairy
+Hatterene,hatterene,858,Ultra,1,1,15,15,35.5,2500,181.948,150.604,125,3425251,False,False,True,Psychic/Fairy
+Morgrem,morgrem,860,Great,1,3,15,15,49.5,1499,123.995,98.023,149,1811000,False,False,True,Dark/Fairy
+Grimmsnarl,grimmsnarl,861,Great,1,1,15,15,19.5,1496,134.494,90.843,136,1661627,False,False,True,Dark/Fairy
+Grimmsnarl,grimmsnarl,861,Ultra,1,0,15,11,36,2499,174.199,118.179,174,3582088,False,False,True,Dark/Fairy
+Obstagoon,obstagoon,862,Great,1,0,14,15,21.5,1500,111.493,128.836,140,2011000,False,False,True,Dark/Normal
+Obstagoon,obstagoon,862,Ultra,1,0,15,13,42,2500,144.054,167.263,180,4337075,False,False,True,Dark/Normal
+Perrserker,perrserker,863,Great,1,1,15,15,23.5,1495,126.926,114.622,121,1760366,False,False,True,Steel
+Perrserker,perrserker,863,Ultra,1,0,14,15,50,2497,163.859,147.893,157,3804659,False,False,True,Steel
+Cursola,cursola,864,Great,1,2,15,15,18,1498,144.522,111.651,96,1549058,False,False,True,Ghost
+Cursola,cursola,864,Ultra,1,0,12,15,31,2500,186.656,143.127,125,3339440,False,False,True,Ghost
+Sirfetch’d,sirfetchd,865,Great,1,2,15,15,18.5,1500,143.642,109.743,99,1560606,False,False,True,Fighting
+Sirfetch’d,sirfetchd,865,Ultra,1,0,13,15,32.5,2500,185.202,141.142,129,3372019,False,False,True,Fighting
+Mr. Rime,mr-rime,866,Great,1,0,14,13,20,1497,126.649,115.298,121,1766888,False,False,True,Ice/Psychic
+Mr. Rime,mr-rime,866,Ultra,1,0,14,14,36.5,2496,163.303,148.667,157,3811620,False,False,True,Ice/Psychic
+Runerigus,runerigus,867,Great,1,0,11,14,25.5,1500,109.957,167.296,111,2041887,False,False,True,Ground/Ghost
+Runerigus,runerigus,867,Ultra,1,10,15,15,50,2498,145.372,211.756,139,4278881,False,False,True,Ground/Ghost
+Alcremie,alcremie,869,Great,1,2,15,12,21,1500,125.492,133.45,107,1791926,False,False,False,Fairy
+Alcremie,alcremie,869,Ultra,1,0,14,14,40.5,2500,160.939,172.038,140,3876282,False,False,False,Fairy
+Falinks,falinks,870,Great,1,0,15,15,24,1499,126.306,121.071,116,1773866,False,False,True,Fighting
+Falinks,falinks,870,Ultra,1,2,15,15,50,2498,163.859,155.456,149,3795433,False,False,True,Fighting
+Pincurchin,pincurchin,871,Great,1,0,15,15,29.5,1500,127.701,127.701,108,1761223,False,False,False,Electric
+Frosmoth,frosmoth,873,Great,1,0,15,15,20.5,1500,139.109,102.82,113,1616266,False,False,True,Ice/Bug
+Frosmoth,frosmoth,873,Ultra,1,0,14,15,38.5,2499,179.812,132.123,146,3468548,False,False,True,Ice/Bug
+Stonjourner,stonjourner,874,Great,1,0,13,15,17.5,1499,124.06,108.972,134,1811560,False,False,True,Rock
+Stonjourner,stonjourner,874,Ultra,1,0,15,15,29,2498,159.707,141.722,172,3893027,False,False,True,Rock
+Eiscue,eiscue,875,Great,1,0,15,15,28,1500,104.619,148.446,138,2143170,False,False,False,Ice
+Eiscue Noice,eiscue-noice,875,Great,1,0,14,15,28,1496,122.291,108.153,138,1825211,False,False,False,Ice
+Indeedee,indeedee,876,Great,1,1,15,14,23,1500,133.896,115.958,108,1676850,False,False,True,Psychic/Normal
+Indeedee,indeedee,876,Ultra,1,0,14,14,48,2500,172.702,149.454,140,3613549,False,False,True,Psychic/Normal
+Indeedee Female,indeedee-female,876,Great,1,0,12,13,24,1500,120.416,128.269,121,1868930,False,False,True,Psychic/Normal
+Indeedee Female,indeedee-female,876,Ultra,1,0,14,15,50,2499,154.615,166.379,157,4038791,False,False,True,Psychic/Normal
+Morpeko,morpeko,877,Great,1,1,15,15,29,1500,138.844,97.838,119,1616527,False,False,True,Electric/Dark
+Morpeko Hangry,morpeko-hangry,877,Great,1,1,15,15,29,1500,138.844,97.838,119,1616527,False,False,True,Electric/Dark
+Cufant,cufant,878,Great,1,10,15,15,49.5,1498,125.671,88.807,160,1785672,False,False,False,Steel
+Copperajah,copperajah,879,Great,1,0,15,9,19,1500,131.595,82.101,158,1707052,False,False,False,Steel
+Copperajah,copperajah,879,Ultra,1,0,15,15,32.5,2495,168.773,105.296,207,3678618,False,False,False,Steel
+Dracozolt,dracozolt,880,Great,1,0,15,15,21.5,1495,120.784,111.493,137,1844913,False,False,False,Electric/Dragon
+Dracozolt,dracozolt,880,Ultra,1,0,13,15,42.5,2498,156.547,142.899,178,3981929,False,False,False,Electric/Dragon
+Arctozolt,arctozolt,881,Great,1,0,15,15,22,1495,119.048,113.409,139,1876645,False,False,False,Electric/Ice
+Arctozolt,arctozolt,881,Ultra,1,0,15,12,44.5,2499,154.433,147.117,178,4044117,False,False,False,Electric/Ice
+Dracovish,dracovish,882,Great,1,0,14,12,23,1499,112.114,127.49,140,2001082,False,False,False,Water/Dragon
+Dracovish,dracovish,882,Ultra,1,0,13,15,47,2499,144.427,163.409,183,4318948,False,False,False,Water/Dragon
+Arctovish,arctovish,883,Great,1,0,13,14,23.5,1500,110.736,128.221,143,2030418,False,False,False,Water/Ice
+Arctovish,arctovish,883,Ultra,1,0,15,15,48.5,2499,142.409,166.561,184,4364448,False,False,False,Water/Ice
+Duraludon,duraludon,884,Great,1,3,15,14,18,1499,137.155,113.351,105,1632393,False,False,True,Steel/Dragon
+Duraludon,duraludon,884,Ultra,1,0,15,15,30.5,2495,175.603,146.948,137,3535225,False,False,True,Steel/Dragon
+Drakloak,drakloak,886,Great,1,0,15,12,40,1500,128.819,94.836,143,1746984,False,False,True,Dragon/Ghost
+Dragapult,dragapult,887,Great,1,3,15,15,15.5,1497,141.479,97.299,115,1583064,False,False,True,Dragon/Ghost
+Dragapult,dragapult,887,Ultra,1,1,15,15,26,2493,181.871,126.016,149,3414867,False,False,True,Dragon/Ghost
+Zacian (Hero of Many Battles),zacian,888,Great,1,0,15,15,14.5,1498,129.21,127.684,105,1732300,False,False,True,Fairy
+Zacian (Hero of Many Battles),zacian,888,Ultra,1,0,10,14,24.5,2499,167.95,162.66,136,3715341,False,False,True,Fairy
+Zacian Crowned Sword,zacian-crowned-sword,888,Great,1,1,15,14,11,1498,147.555,112.992,91,1517204,False,False,True,Fairy/Steel
+Zacian Crowned Sword,zacian-crowned-sword,888,Ultra,1,0,15,12,18.5,2499,190.757,146.515,117,3270007,False,False,True,Fairy/Steel
+Zamazenta (Hero of Many Battles),zamazenta,889,Great,1,0,15,15,14.5,1498,129.21,127.684,105,1732300,False,False,True,Fighting
+Zamazenta (Hero of Many Battles),zamazenta,889,Ultra,1,0,10,14,24.5,2499,167.95,162.66,136,3715341,False,False,True,Fighting
+Zamazenta Crowned Shield,zamazenta-crowned-shield,889,Great,1,0,9,14,13.5,1499,122.714,147.748,101,1831200,False,False,True,Fighting/Steel
+Zamazenta Crowned Shield,zamazenta-crowned-shield,889,Ultra,1,0,12,12,22.5,2499,158.412,192.629,129,3936417,False,False,True,Fighting/Steel
+Eternatus,eternatus,890,Great,1,0,15,14,12.5,1498,131.309,97.774,133,1707533,False,False,True,Poison/Dragon
+Eternatus,eternatus,890,Ultra,1,0,13,13,21,2500,170.18,125.492,172,3673273,False,False,True,Poison/Dragon
+Kubfu,kubfu,891,Great,1,0,15,14,37.5,1499,131.931,98.56,131,1703413,False,False,True,Fighting
+Urshifu Rapid Strike,urshifu-rapid-strike,892,Great,1,0,13,15,15.5,1500,133.589,99.929,126,1682033,False,False,True,Fighting/Water
+Urshifu Rapid Strike,urshifu-rapid-strike,892,Ultra,1,0,12,13,26,2499,173.016,128.74,162,3608403,False,False,True,Fighting/Water
+Urshifu Single Strike,urshifu-single-strike,892,Great,1,0,13,15,15.5,1500,133.589,99.929,126,1682033,False,False,True,Fighting/Dark
+Urshifu Single Strike,urshifu-single-strike,892,Ultra,1,0,12,13,26,2499,173.016,128.74,162,3608403,False,False,True,Fighting/Dark
+Zarude,zarude,893,Great,1,0,15,15,14.5,1495,123.106,117.001,126,1814848,False,False,True,Dark/Grass
+Zarude,zarude,893,Ultra,1,0,11,14,24.5,2499,160.015,149.436,163,3897646,False,False,True,Dark/Grass
+Regieleki,regieleki,894,Great,1,0,13,15,20,1500,149.35,82.441,122,1502136,False,False,True,Electric
+Regieleki,regieleki,894,Ultra,1,0,15,13,36.5,2500,192.574,107.842,156,3239734,False,False,True,Electric
+Regidrago,regidrago,895,Great,1,0,15,14,19,1500,117.62,67.544,241,1914646,False,False,True,Dragon
+Regidrago,regidrago,895,Ultra,1,0,14,15,33.5,2500,152.051,86.564,312,4106589,False,False,True,Dragon
+Glastrier,glastrier,896,Great,1,0,14,9,14.5,1499,125.141,120.562,119,1795382,False,False,False,Ice
+Glastrier,glastrier,896,Ultra,1,0,11,15,24,2496,160.991,153.138,157,3870655,False,False,False,Ice
+Spectrier,spectrier,897,Great,1,0,15,11,16.5,1499,148.14,87.364,117,1514228,False,False,False,Ghost
+Spectrier,spectrier,897,Ultra,1,0,12,15,27.5,2497,191.248,110.686,154,3259942,False,False,False,Ghost
+Calyrex,calyrex,898,Great,1,1,15,15,25,1498,108.873,118.224,160,2059434,False,False,False,Psychic/Grass
+Calyrex,calyrex,898,Ultra,1,10,15,14,50,2497,144.532,148.733,200,4299327,False,False,False,Psychic/Grass
+Calyrex Ice Rider,calyrex-ice-rider,898,Great,1,3,15,13,13,1499,130.537,125.72,105,1723159,False,False,False,Psychic/Ice
+Calyrex Ice Rider,calyrex-ice-rider,898,Ultra,1,0,12,14,22,2500,167.92,161.654,137,3718864,False,False,False,Psychic/Ice
+Calyrex Shadow Rider,calyrex-shadow-rider,898,Great,1,3,15,14,12,1498,151.335,96.725,101,1478424,False,False,False,Psychic/Ghost
+Calyrex Shadow Rider,calyrex-shadow-rider,898,Ultra,1,0,13,10,20.5,2500,195.963,125.198,130,3189453,False,False,False,Psychic/Ghost
+Wyrdeer,wyrdeer,899,Great,1,1,15,15,20.5,1499,125.198,96.772,148,1793121,False,False,True,Normal/Psychic
+Wyrdeer,wyrdeer,899,Ultra,1,0,15,13,39,2500,161.635,125.542,190,3855479,False,False,True,Normal/Psychic
+Kleavor,kleavor,900,Great,1,0,15,8,18,1498,143.389,107.117,102,1566652,False,False,True,Bug/Rock
+Kleavor,kleavor,900,Ultra,1,1,15,13,29.5,2500,184.296,137.134,134,3386614,False,False,True,Bug/Rock
+Ursaluna,ursaluna,901,Great,1,0,14,15,14.5,1500,123.615,99.197,148,1814801,False,False,True,Ground/Normal
+Ursaluna,ursaluna,901,Ultra,1,1,15,15,24,2500,159.682,128.269,191,3912129,False,False,True,Ground/Normal
+Basculegion,basculegion,902,Great,1,0,15,15,18.5,1497,124.682,91.356,158,1799694,False,False,False,Water/Ghost
+Basculegion,basculegion,902,Ultra,1,0,13,12,32.5,2500,162.052,117.245,203,3856934,False,False,False,Water/Ghost
+Basculegion Female,basculegion-female,902,Great,1,2,15,15,20,1500,120.077,94.987,164,1870542,False,False,False,Water/Ghost
+Basculegion Female,basculegion-female,902,Ultra,1,0,14,15,37.5,2498,154.437,122.618,213,4033536,False,False,False,Water/Ghost
+Sneasler,sneasler,903,Great,1,0,15,9,17.5,1500,144.737,96.678,111,1553207,False,False,True,Fighting/Poison
+Sneasler,sneasler,903,Ultra,1,2,15,15,28.5,2499,186.137,123.378,146,3352930,False,False,True,Fighting/Poison
+Overqwil,overqwil,904,Great,1,0,15,15,19,1498,129.266,108.304,124,1736000,False,False,True,Dark/Poison
+Overqwil,overqwil,904,Ultra,1,0,14,15,33.5,2496,167.106,139.255,160,3723249,False,False,True,Dark/Poison
+Enamorus Incarnate,enamorus-incarnate,905,Great,1,3,15,14,16,1498,151.757,94.581,103,1478385,False,False,True,Fairy/Flying
+Enamorus Incarnate,enamorus-incarnate,905,Ultra,1,0,15,13,27,2495,195.054,122.863,133,3187351,False,False,True,Fairy/Flying
+Enamorus Therian,enamorus-therian,905,Great,1,0,13,15,16.5,1499,135.659,116.124,105,1654093,False,False,True,Fairy/Flying
+Enamorus Therian,enamorus-therian,905,Ultra,1,0,14,14,27.5,2499,175.136,150.617,135,3561080,False,False,True,Fairy/Flying
+Floragato,floragato,907,Great,1,0,13,15,39,1500,123.188,110.634,134,1826254,False,False,True,Grass
+Meowscarada,meowscarada,908,Great,1,0,13,13,20,1499,139.194,99.168,117,1615029,False,False,True,Grass/Dark
+Meowscarada,meowscarada,908,Ultra,1,0,15,14,36,2496,178.804,128.923,151,3480828,False,False,True,Grass/Dark
+Crocalor,crocalor,910,Great,1,0,15,10,30,1500,118.535,109.023,147,1899699,False,False,True,Fire
+Skeledirge,skeledirge,911,Great,1,1,15,15,18.5,1499,119.51,110.892,141,1868634,False,False,True,Fire/Ghost
+Skeledirge,skeledirge,911,Ultra,1,0,15,15,32,2500,153.964,143.551,183,4044630,False,False,True,Fire/Ghost
+Quaxwell,quaxwell,913,Great,1,0,15,10,35.5,1500,123.847,105.499,139,1816135,False,False,True,Water
+Quaquaval,quaquaval,914,Great,1,0,15,15,18.5,1499,135.598,99.975,122,1653886,False,False,True,Water/Fighting
+Quaquaval,quaquaval,914,Ultra,1,1,15,14,31.5,2497,175.566,128.897,157,3552894,False,False,True,Water/Fighting
+Oinkologne,oinkologne,916,Great,1,0,11,15,22,1499,116.541,102.757,161,1928048,False,False,True,Normal
+Oinkologne,oinkologne,916,Ultra,1,0,14,12,43.5,2499,150.252,134.903,205,4155231,False,False,True,Normal
+Oinkologne Female,oinkologne-female,916,Great,1,0,14,15,23,1500,108.27,112.755,170,2075362,False,False,True,Normal
+Oinkologne Female,oinkologne-female,916,Ultra,1,0,15,15,47,2497,139.476,146.078,219,4461981,False,False,True,Normal
+Spidops,spidops,918,Great,1,0,13,14,39.5,1499,109.459,140.958,133,2052067,False,False,True,Bug
+Lokix,lokix,920,Great,1,0,14,14,24.5,1499,131.583,104.473,124,1704601,False,False,True,Bug/Dark
+Lokix,lokix,920,Ultra,1,5,15,15,50,2497,171.421,133.608,158,3618705,False,False,True,Bug/Dark
+Pawmo,pawmo,922,Great,1,15,15,15,50,1468,136.129,81.509,142,1575592,False,False,True,Electric/Fighting
+Pawmot,pawmot,923,Great,1,2,15,15,21,1497,143.245,95.497,114,1559450,False,False,True,Electric/Fighting
+Pawmot,pawmot,923,Ultra,1,0,15,15,40.5,2490,183.931,123.677,148,3366712,False,False,True,Electric/Fighting
+Maushold Family Of Four,maushold-family-of-four,925,Great,1,0,14,15,29,1498,114.384,123.017,139,1955905,False,False,True,Normal
+Maushold Family Of Three,maushold-family-of-three,925,Great,1,0,14,15,29,1498,114.384,123.017,139,1955905,False,False,True,Normal
+Dachsbun,dachsbun,927,Great,1,0,15,14,27.5,1500,111.386,159.023,114,2019283,False,False,True,Fairy
+Dolliv,dolliv,929,Great,1,4,14,15,50,1497,118.482,121.844,131,1891155,False,False,True,Grass/Normal
+Arboliva,arboliva,930,Great,1,0,14,15,19,1499,127.519,118.203,117,1763551,False,False,True,Grass/Normal
+Arboliva,arboliva,930,Ultra,1,0,13,15,33.5,2500,164.848,152.051,151,3784860,False,False,True,Grass/Normal
+Squawkabilly,squawkabilly,931,Great,1,0,14,13,29,1499,133.089,85.608,148,1686243,False,False,True,Normal/Flying
+Squawkabilly Blue Plumage,squawkabilly-blue-plumage,931,Great,1,0,14,13,29,1499,133.089,85.608,148,1686243,False,False,True,Normal/Flying
+Squawkabilly White Plumage,squawkabilly-white-plumage,931,Great,1,0,14,13,29,1499,133.089,85.608,148,1686243,False,False,True,Normal/Flying
+Squawkabilly Yellow Plumage,squawkabilly-yellow-plumage,931,Great,1,0,14,13,29,1499,133.089,85.608,148,1686243,False,False,True,Normal/Flying
+Garganacl,garganacl,934,Great,1,1,14,14,21,1497,105.291,138.348,146,2126747,False,False,True,Rock
+Garganacl,garganacl,934,Ultra,1,0,13,15,40.5,2497,135.569,178.381,190,4594771,False,False,True,Rock
+Armarouge,armarouge,936,Great,1,0,13,15,17.5,1500,130.766,110.648,119,1721822,False,False,True,Fire/Psychic
+Armarouge,armarouge,936,Ultra,1,0,15,15,29,2499,168.339,143.88,153,3705758,False,False,True,Fire/Psychic
+Ceruledge,ceruledge,937,Great,1,1,15,15,17.5,1498,134.119,114.001,109,1666588,False,False,True,Fire/Ghost
+Ceruledge,ceruledge,937,Ultra,1,0,15,12,29.5,2496,173.413,148.017,140,3593532,False,False,True,Fire/Ghost
+Bellibolt,bellibolt,939,Great,1,0,14,12,21.5,1499,113.97,110.873,156,1971259,False,False,True,Electric
+Bellibolt,bellibolt,939,Ultra,1,0,15,10,42,2499,147.255,144.054,200,4242540,False,False,True,Electric
+Kilowattrel,kilowattrel,941,Great,1,0,15,14,23,1499,141.584,94.176,119,1586727,False,False,True,Electric/Flying
+Kilowattrel,kilowattrel,941,Ultra,1,0,15,15,47,2495,182.391,121.319,154,3407642,False,False,True,Electric/Flying
+Maschiff,maschiff,942,Great,1,7,15,15,50,1500,123.524,103.357,142,1812924,False,False,True,Dark
+Mabosstiff,mabosstiff,943,Great,1,0,14,13,19,1498,133.924,105.975,118,1674724,False,False,True,Dark
+Mabosstiff,mabosstiff,943,Ultra,1,1,15,15,32.5,2495,172.506,136.661,153,3606959,False,False,True,Dark
+Grafaiai,grafaiai,945,Great,1,0,15,14,25,1499,132.919,109.541,116,1688970,False,False,True,Poison/Normal
+Grafaiai,grafaiai,945,Ultra,1,10,15,15,50,2500,175.623,137.809,147,3557756,False,False,True,Poison/Normal
+Brambleghast,brambleghast,947,Great,1,0,15,15,23,1497,146.069,101.864,103,1532551,False,False,False,Grass/Ghost
+Brambleghast,brambleghast,947,Ultra,1,0,15,15,47.5,2499,188.739,131.621,133,3303987,False,False,False,Grass/Ghost
+Toedscruel,toedscruel,949,Great,1,1,15,15,23.5,1500,108.146,145.058,132,2070745,False,False,True,Ground/Grass
+Toedscruel,toedscruel,949,Ultra,1,0,13,15,50,2500,139.49,186.547,172,4475672,False,False,True,Ground/Grass
+Klawf,klawf,950,Great,1,1,15,15,23.5,1500,119.802,129.516,121,1877480,False,False,True,Rock
+Klawf,klawf,950,Ultra,1,0,13,15,50,2499,154.615,166.379,157,4038791,False,False,True,Rock
+Scovillain,scovillain,952,Great,1,0,15,11,24.5,1500,142.823,95.877,115,1574746,False,False,False,Grass/Fire
+Scovillain,scovillain,952,Ultra,1,4,15,15,50,2495,184.866,121.844,149,3356184,False,False,False,Grass/Fire
+Rabsca,rabsca,954,Great,1,0,15,15,21.5,1499,124.5,119.545,121,1800889,False,False,False,Bug/Psychic
+Rabsca,rabsca,954,Ultra,1,0,15,14,42,2497,160.86,154.458,156,3875999,False,False,False,Bug/Psychic
+Espathra,espathra,956,Great,1,2,15,15,22.5,1498,130.532,89.978,146,1714771,False,False,True,Psychic
+Espathra,espathra,956,Ultra,1,0,15,12,47,2500,168.361,117.193,188,3709369,False,False,True,Psychic
+Tinkatuff,tinkatuff,958,Great,1,15,15,15,50,1477,104.197,134.448,149,2087357,False,False,True,Fairy/Steel
+Tinkaton,tinkaton,959,Great,1,1,14,14,25.5,1497,105.235,141.662,143,2131814,False,False,True,Fairy/Steel
+Tinkaton,tinkaton,959,Ultra,1,13,15,15,49.5,2499,140.751,176.777,178,4428905,False,False,True,Fairy/Steel
+Wugtrio,wugtrio,961,Great,1,0,12,15,30,1498,149.999,108.292,92,1494409,False,False,True,Water
+Bombirdier,bombirdier,962,Great,1,0,11,14,23,1499,126.849,117.239,119,1769738,False,False,True,Flying/Dark
+Bombirdier,bombirdier,962,Ultra,1,0,15,14,46.5,2499,162.915,153.864,153,3835224,False,False,True,Flying/Dark
+Palafin,palafin,964,Great,1,0,15,12,30.5,1498,105.068,116.824,174,2135753,False,False,False,Water
+Palafin Hero,palafin-hero,964,Great,1,3,15,14,11.5,1498,147.244,95.596,108,1520201,False,False,False,Water
+Palafin Hero,palafin-hero,964,Ultra,1,0,15,11,19.5,2500,189.944,124.466,139,3286186,False,False,False,Water
+Revavroom,revavroom,966,Great,1,0,14,15,19,1499,133.342,105.975,119,1681574,False,False,True,Steel/Poison
+Revavroom,revavroom,966,Ultra,1,0,13,15,33.5,2499,172.375,136.244,154,3616698,False,False,True,Steel/Poison
+Cyclizar,cyclizar,967,Great,1,0,14,15,24,1499,134.159,102.092,122,1670984,False,False,False,Dragon/Normal
+Cyclizar,cyclizar,967,Ultra,1,1,15,15,50,2492,173.102,131.927,157,3585381,False,False,False,Dragon/Normal
+Orthworm,orthworm,968,Great,1,0,15,14,25,1498,107.537,156.297,124,2084157,False,False,True,Steel
+Orthworm,orthworm,968,Ultra,1,8,15,15,50,2496,142.011,196.63,157,4384004,False,False,True,Steel
+Glimmet,glimmet,969,Great,1,0,15,15,37.5,1499,145.124,92.352,115,1541284,False,False,True,Rock/Poison
+Glimmora,glimmora,970,Great,1,0,15,15,17,1498,135.495,105.752,115,1647823,False,False,True,Rock/Poison
+Glimmora,glimmora,970,Ultra,1,0,14,14,28.5,2499,175.44,136.215,149,3560736,False,False,True,Rock/Poison
+Houndstone,houndstone,972,Great,1,1,14,15,22.5,1500,118.492,132.433,121,1898764,False,False,True,Ghost
+Houndstone,houndstone,972,Ultra,1,0,14,15,46,2500,152.576,171.443,156,4080649,False,False,True,Ghost
+Flamigo,flamigo,973,Great,1,0,15,11,20.5,1500,137.295,96.772,123,1634212,False,False,True,Flying/Fighting
+Flamigo,flamigo,973,Ultra,1,0,15,13,38,2500,176.818,124.629,160,3525866,False,False,True,Flying/Fighting
+Cetoddle,cetoddle,974,Great,1,15,15,15,50,1469,112.6,79.829,213,1914594,False,False,True,Ice
+Cetitan,cetitan,975,Great,1,1,15,15,18,1500,118.452,78.212,205,1899194,False,False,True,Ice
+Cetitan,cetitan,975,Ultra,1,0,14,15,30.5,2500,152.826,100.66,265,4076602,False,False,True,Ice
+Veluza,veluza,976,Great,1,1,15,15,23,1495,126.209,98.661,142,1768158,False,False,False,Water/Psychic
+Veluza,veluza,976,Ultra,1,0,15,15,48,2498,162.739,127.866,184,3828817,False,False,False,Water/Psychic
+Dondozo,dondozo,977,Great,1,0,15,15,19,1499,102.481,112.38,190,2188193,False,False,True,Water
+Dondozo,dondozo,977,Ultra,1,0,14,15,33.5,2498,132.48,144.524,246,4710060,False,False,True,Water
+Tatsugiri Curly,tatsugiri-curly,978,Great,1,0,15,13,20.5,1500,136.69,109.473,110,1646028,False,False,True,Dragon/Water
+Tatsugiri Curly,tatsugiri-curly,978,Ultra,1,0,13,14,38.5,2500,176.685,139.94,143,3535719,False,False,True,Dragon/Water
+Tatsugiri Droopy,tatsugiri-droopy,978,Great,1,0,15,13,20.5,1500,136.69,109.473,110,1646028,False,False,True,Dragon/Water
+Tatsugiri Droopy,tatsugiri-droopy,978,Ultra,1,0,13,14,38.5,2500,176.685,139.94,143,3535719,False,False,True,Dragon/Water
+Tatsugiri Stretchy,tatsugiri-stretchy,978,Great,1,0,15,13,20.5,1500,136.69,109.473,110,1646028,False,False,True,Dragon/Water
+Tatsugiri Stretchy,tatsugiri-stretchy,978,Ultra,1,0,13,14,38.5,2500,176.685,139.94,143,3535719,False,False,True,Dragon/Water
+Annihilape,annihilape,979,Great,1,2,15,15,17,1499,122.276,106.303,141,1832761,False,False,True,Fighting/Ghost
+Annihilape,annihilape,979,Ultra,1,0,15,15,28.5,2492,156.897,137.642,183,3951993,False,False,True,Fighting/Ghost
+Clodsire,clodsire,980,Great,1,0,14,13,30.5,1499,93.312,121.232,213,2409549,False,False,True,Poison/Ground
+Farigiraf,farigiraf,981,Great,1,0,15,8,20,1500,124.857,90.207,160,1802078,False,False,False,Normal/Psychic
+Farigiraf,farigiraf,981,Ultra,1,0,14,15,36,2499,160.386,115.11,211,3895475,False,False,False,Normal/Psychic
+Dudunsparce,dudunsparce,982,Great,1,0,15,7,21,1500,115.086,101.006,168,1952887,False,False,True,Normal
+Dudunsparce,dudunsparce,982,Ultra,1,0,15,14,39,2496,147.512,129.465,221,4220575,False,False,True,Normal
+Dudunsparce Three Segment,dudunsparce-three-segment,982,Great,1,0,15,7,21,1500,115.086,101.006,168,1952887,False,False,True,Normal
+Dudunsparce Three Segment,dudunsparce-three-segment,982,Ultra,1,0,15,14,39,2496,147.512,129.465,221,4220575,False,False,True,Normal
+Kingambit,kingambit,983,Great,1,0,15,13,15.5,1499,125.174,114.655,125,1793990,False,False,True,Dark/Steel
+Kingambit,kingambit,983,Ultra,1,0,15,10,26,2499,162.117,148.494,160,3851749,False,False,True,Dark/Steel
+Great Tusk,great-tusk,984,Great,1,0,14,10,14,1500,124.465,111.468,130,1803606,False,False,False,Ground/Fighting
+Great Tusk,great-tusk,984,Ultra,1,0,15,15,23,2494,159.523,143.506,170,3891723,False,False,False,Ground/Fighting
+Scream Tail,scream-tail,985,Great,1,0,15,15,23.5,1500,90.014,161.248,172,2496495,False,False,False,Fairy/Psychic
+Scream Tail,scream-tail,985,Ultra,1,0,15,15,49,2495,116.107,207.99,222,5361078,False,False,False,Fairy/Psychic
+Brute Bonnet,brute-bonnet,986,Great,1,3,15,15,15.5,1497,123.596,107.818,136,1812330,False,False,False,Grass/Dark
+Brute Bonnet,brute-bonnet,986,Ultra,1,0,10,15,26.5,2497,159.543,137.537,178,3905863,False,False,False,Grass/Dark
+Flutter Mane,flutter-mane,987,Great,1,0,14,15,15,1500,144.87,128.831,83,1549095,False,False,False,Ghost/Fairy
+Flutter Mane,flutter-mane,987,Ultra,1,1,15,13,25,2499,187.689,166.984,106,3322150,False,False,False,Ghost/Fairy
+Slither Wing,slither-wing,988,Great,1,0,9,15,15.5,1497,137.271,106.24,112,1633377,False,False,False,Bug/Fighting
+Slither Wing,slither-wing,988,Ultra,1,0,15,15,25.5,2499,176.066,140.313,143,3532720,False,False,False,Bug/Fighting
+Sandy Shocks,sandy-shocks,989,Great,1,0,10,14,16.5,1497,132.403,111.24,115,1693785,False,False,False,Electric/Ground
+Sandy Shocks,sandy-shocks,989,Ultra,1,2,15,14,27,2500,170.759,145.77,147,3659068,False,False,False,Electric/Ground
+Iron Treads,iron-treads,990,Great,1,0,15,11,16.5,1499,123.178,125.349,118,1821951,False,False,False,Ground/Steel
+Iron Treads,iron-treads,990,Ultra,1,0,13,13,27.5,2500,159.023,160.424,154,3928724,False,False,False,Ground/Steel
+Iron Bundle,iron-bundle,991,Great,1,0,14,15,16.5,1499,144.341,122.093,88,1550828,False,False,False,Ice/Water
+Iron Bundle,iron-bundle,991,Ultra,1,0,14,15,27.5,2499,186.344,157.622,114,3348409,False,False,False,Ice/Water
+Iron Hands,iron-hands,992,Great,1,1,15,15,13.5,1500,120.751,94.244,163,1854948,False,False,False,Fighting/Electric
+Iron Hands,iron-hands,992,Ultra,1,1,15,14,22.5,2497,155.878,121.661,211,4001442,False,False,False,Fighting/Electric
+Iron Jugulis,iron-jugulis,993,Great,1,0,15,15,16,1498,133.054,103.665,122,1682750,False,False,False,Dark/Flying
+Iron Jugulis,iron-jugulis,993,Ultra,1,0,14,11,27,2500,172.842,133.97,156,3612268,False,False,False,Dark/Flying
+Iron Moth,iron-moth,994,Great,1,0,11,15,14.5,1497,142.945,105.301,104,1565440,False,False,False,Fire/Poison
+Iron Moth,iron-moth,994,Ultra,1,0,14,15,24,2497,183.896,137.431,134,3386603,False,False,False,Fire/Poison
+Iron Thorns,iron-thorns,995,Great,1,0,13,11,15,1500,129.348,110.205,122,1739090,False,False,False,Rock/Electric
+Iron Thorns,iron-thorns,995,Ultra,1,2,15,14,24.5,2497,166.627,142.162,158,3742718,False,False,False,Rock/Electric
+Arctibax,arctibax,997,Great,1,0,14,13,27.5,1500,121.194,99.477,154,1856627,False,False,True,Dragon/Ice
+Baxcalibur,baxcalibur,998,Great,1,0,15,5,16,1500,135.726,97.787,125,1659027,False,False,True,Dragon/Ice
+Baxcalibur,baxcalibur,998,Ultra,1,1,15,15,26,2500,173.697,124.653,166,3594214,False,False,True,Dragon/Ice
+Gholdengo,gholdengo,1000,Great,1,0,15,10,16,1500,134.657,109.543,113,1666831,False,False,True,Steel/Ghost
+Gholdengo,gholdengo,1000,Ultra,1,0,15,12,26.5,2496,173.297,140.975,147,3591292,False,False,True,Steel/Ghost
+Wo-Chien,wo-chien,1001,Great,1,0,11,14,19.5,1498,109.719,149.242,125,2046833,False,False,False,Dark/Grass
+Wo-Chien,wo-chien,1001,Ultra,1,0,14,15,34.5,2499,141.105,194.209,161,4412038,False,False,False,Dark/Grass
+Chien-Pao,chien-pao,1002,Great,1,2,15,15,16.5,1495,142.713,98.76,111,1564469,False,False,False,Dark/Ice
+Chien-Pao,chien-pao,1002,Ultra,1,0,13,14,28,2499,184.497,127.239,144,3380431,False,False,False,Dark/Ice
+Ting-Lu,ting-lu,1003,Great,1,0,15,15,16,1499,103.665,116.489,179,2161573,False,False,False,Dark/Ground
+Ting-Lu,ting-lu,1003,Ultra,1,1,15,15,26.5,2495,134.099,149.915,231,4643892,False,False,False,Dark/Ground
+Chi-Yu,chi-yu,1004,Great,1,0,15,15,16,1497,143.741,126.108,86,1558911,False,False,False,Dark/Fire
+Chi-Yu,chi-yu,1004,Ultra,1,3,15,14,26.5,2499,187.05,162.294,110,3339278,False,False,False,Dark/Fire
+Roaring Moon,roaring-moon,1005,Great,1,2,15,15,13,1496,135.835,101.636,119,1642876,False,False,False,Dragon/Dark
+Roaring Moon,roaring-moon,1005,Ultra,1,0,14,13,22,2498,175.439,131.579,154,3554948,False,False,False,Dragon/Dark
+Iron Valiant,iron-valiant,1006,Great,1,0,14,12,16,1497,149.085,98.856,102,1503262,False,False,False,Fairy/Fighting
+Iron Valiant,iron-valiant,1006,Ultra,1,0,14,15,26.5,2499,191.864,127.222,133,3246434,False,False,False,Fairy/Fighting
+Koraidon,koraidon,1007,Great,1,0,15,14,14,1500,131.463,118.966,109,1704721,False,False,False,Fighting/Dragon
+Koraidon,koraidon,1007,Ultra,1,0,12,13,23.5,2496,170.314,152.182,141,3654524,False,False,False,Fighting/Dragon
+Miraidon,miraidon,1008,Great,1,0,15,14,14,1500,131.463,118.966,109,1704721,False,False,False,Electric/Dragon
+Miraidon,miraidon,1008,Ultra,1,0,12,13,23.5,2496,170.314,152.182,141,3654524,False,False,False,Electric/Dragon
+Walking Wake,walking-wake,1009,Great,1,0,15,13,18,1500,132.054,105.416,122,1698317,False,False,False,Water/Dragon
+Walking Wake,walking-wake,1009,Ultra,1,0,15,13,30,2500,170.486,136.096,158,3665997,False,False,False,Water/Dragon
+Iron Leaves,iron-leaves,1010,Great,1,0,9,15,17.5,1499,131.884,113.443,114,1705585,False,False,False,Grass/Psychic
+Iron Leaves,iron-leaves,1010,Ultra,1,0,12,14,29,2497,169.778,148.196,146,3673431,False,False,False,Grass/Psychic
+Dipplin,dipplin,1011,Great,1,0,15,15,24,1496,113.217,130.233,134,1975777,False,False,True,Grass/Dragon
+Dipplin,dipplin,1011,Ultra,1,2,15,15,50,2495,147.053,167.22,172,4229493,False,False,True,Grass/Dragon
+Sinistcha,sinistcha,1013,Great,1,0,13,15,19,1497,131.013,118.785,110,1711857,False,False,True,Grass/Ghost
+Sinistcha,sinistcha,1013,Ultra,1,2,15,15,32.5,2497,169.519,153.837,141,3677045,False,False,True,Grass/Ghost
+Sinistcha Masterpiece,sinistcha-masterpiece,1013,Great,1,0,13,15,19,1497,131.013,118.785,110,1711857,False,False,True,Grass/Ghost
+Sinistcha Masterpiece,sinistcha-masterpiece,1013,Ultra,1,2,15,15,32.5,2497,169.519,153.837,141,3677045,False,False,True,Grass/Ghost
+Okidogi,okidogi,1014,Great,1,0,10,15,19,1499,128.101,117.038,117,1754150,False,False,False,Poison/Fighting
+Okidogi,okidogi,1014,Ultra,1,0,15,15,32.5,2496,164.292,153.837,150,3791123,False,False,False,Poison/Fighting
+Munkidori,munkidori,1015,Great,1,0,15,15,19,1500,138.582,100.152,117,1623878,False,False,False,Poison/Psychic
+Munkidori,munkidori,1015,Ultra,1,0,14,15,33.5,2500,179.15,128.717,151,3481989,False,False,False,Poison/Psychic
+Fezandipiti,fezandipiti,1016,Great,1,0,15,15,23.5,1500,109.441,144.411,130,2054580,False,False,False,Poison/Fairy
+Fezandipiti,fezandipiti,1016,Ultra,1,0,13,15,49.5,2500,141.589,185.155,168,4404259,False,False,False,Poison/Fairy
+Ogerpon,ogerpon,1017,Great,1,1,15,15,20,1495,131.428,115.298,112,1697182,False,False,False,Grass
+Ogerpon,ogerpon,1017,Ultra,1,0,14,14,37.5,2499,169.958,149.004,145,3672058,False,False,False,Grass
+Ogerpon Cornerstone Mask,ogerpon-cornerstone-mask,1017,Great,1,1,15,15,20,1495,131.428,115.298,112,1697182,False,False,False,Grass/Rock
+Ogerpon Cornerstone Mask,ogerpon-cornerstone-mask,1017,Ultra,1,0,14,14,37.5,2499,169.958,149.004,145,3672058,False,False,False,Grass/Rock
+Ogerpon Hearthflame Mask,ogerpon-hearthflame-mask,1017,Great,1,1,15,15,20,1495,131.428,115.298,112,1697182,False,False,False,Grass/Fire
+Ogerpon Hearthflame Mask,ogerpon-hearthflame-mask,1017,Ultra,1,0,14,14,37.5,2499,169.958,149.004,145,3672058,False,False,False,Grass/Fire
+Ogerpon Wellspring Mask,ogerpon-wellspring-mask,1017,Great,1,1,15,15,20,1495,131.428,115.298,112,1697182,False,False,False,Grass/Water
+Ogerpon Wellspring Mask,ogerpon-wellspring-mask,1017,Ultra,1,0,14,14,37.5,2499,169.958,149.004,145,3672058,False,False,False,Grass/Water
+Archaludon,archaludon,1018,Great,1,0,12,14,15,1498,129.348,117.448,114,1731862,False,False,False,Steel/Dragon
+Archaludon,archaludon,1018,Ultra,1,0,11,15,25,2498,166.984,150.953,148,3730588,False,False,False,Steel/Dragon
+Hydrapple,hydrapple,1019,Great,1,0,14,12,17.5,1499,120.707,111.766,138,1861758,False,False,True,Grass/Dragon
+Hydrapple,hydrapple,1019,Ultra,1,0,15,14,29,2500,155.39,144.599,179,4022005,False,False,True,Grass/Dragon
+Gouging Fire,gouging-fire,1020,Great,1,2,15,15,18,1499,117.318,126.386,129,1912735,False,False,False,Fire/Dragon
+Gouging Fire,gouging-fire,1020,Ultra,1,0,12,15,31,2499,151.243,162.309,168,4124081,False,False,False,Fire/Dragon
+Raging Bolt,raging-bolt,1021,Great,1,0,15,15,16.5,1496,127.519,97.674,141,1756209,False,False,False,Electric/Dragon
+Raging Bolt,raging-bolt,1021,Ultra,1,0,15,15,27.5,2494,164.628,126.098,182,3778168,False,False,False,Electric/Dragon
+Iron Boulder,iron-boulder,1022,Great,1,0,13,14,18,1498,128.653,117.885,115,1744123,False,False,False,Rock/Psychic
+Iron Boulder,iron-boulder,1022,Ultra,1,0,15,12,30,2496,166.096,153.657,147,3751704,False,False,False,Rock/Psychic
+Iron Crown,iron-crown,1023,Great,1,2,15,15,18,1500,126.386,121.852,115,1771051,False,False,False,Steel/Psychic
+Iron Crown,iron-crown,1023,Ultra,1,0,15,12,31,2500,163.047,158.62,148,3827664,False,False,False,Steel/Psychic
+Terapagos,terapagos,1024,Great,1,0,15,13,37,1498,97.421,139.174,170,2304945,False,False,False,Normal
+Terapagos Stellar,terapagos-stellar,1024,Great,1,0,15,13,37,1498,97.421,139.174,170,2304945,False,False,False,Normal
+Terapagos Terastal,terapagos-terastal,1024,Great,1,0,15,13,37,1498,97.421,139.174,170,2304945,False,False,False,Normal
+Pecharunt,pecharunt,1025,Great,1,0,13,13,22.5,1500,103.918,165.382,126,2165472,False,False,False,Poison/Ghost
+Pecharunt,pecharunt,1025,Ultra,1,0,15,14,45,2500,133.709,214.424,163,4673283,False,False,False,Poison/Ghost
