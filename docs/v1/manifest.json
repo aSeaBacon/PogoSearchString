@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "pipelineVersion": 2,
  "dataFile": "data.json",
- "dataSha256": "cf90532b01f29cff517491ca01b82370c2a9b58374ffe6b4ceb0cb3570286236",
- "dataBytes": 207022,
+ "dataSha256": "6504e2c7c72c02ceeca8aa42ef9de58282d9a8db4ee3b8970cb5f871c2153f87",
+ "dataBytes": 207499,
  "statsHash": "6028b7e5fead974c2717e299d6116eeeb63afa7fcb8902de9a585ac0401627d6",
  "sources": {
   "pvpoke": {
-   "sha": "38f4d7d8e10980d729e99b577905795b65ac4691",
-   "date": "2026-09-28T00:12:18Z"
+   "sha": "e7d8f9ae1990b97d0acd14e65991b41575c124b5",
+   "date": "2026-10-02T02:54:58Z"
   },
   "pokeminers": {
    "sha": "8e227be44f288d34463e23bf04e9b564d3c16f79",
@@ -19,9 +19,9 @@
   "species": 1204,
   "released": 1070,
   "ranked_little": 168,
-  "ranked_great": 1146,
-  "ranked_ultra": 844,
-  "ranked_master": 406
+  "ranked_great": 1152,
+  "ranked_ultra": 849,
+  "ranked_master": 409
  },
  "warnings": [
   "evolution scyther -> kleavor is not in the Game Master (dropped)",
@@ -37,5 +37,5 @@
   "evolution duraludon -> archaludon is not in the Game Master (dropped)",
   "evolution sinistcha -> poltchageist is not in the Game Master (dropped)"
  ],
- "generatedAt": "2026-09-27T04:14:02Z"
+ "generatedAt": "2026-10-02T12:38:31Z"
 }
