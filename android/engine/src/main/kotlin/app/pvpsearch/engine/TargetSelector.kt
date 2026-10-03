@@ -2,12 +2,18 @@ package app.pvpsearch.engine
 
 import java.util.concurrent.ConcurrentHashMap
 
-/** How far down the IV ranking to go. */
-sealed interface Cutoff {
-    /** Every bar group containing a spread ranked ≤ n (ties share a rank, so `TopRank(1)` includes ties). */
-    data class TopRank(val n: Int) : Cutoff
-    /** Every bar group containing a spread with stat product ≥ percent of the rank-1 spread. */
-    data class MinPercent(val percent: Double) : Cutoff
+/**
+ * How far down the IV ranking to go. A bar group qualifies if its best spread has rank ≤ [maxRank]
+ * **and** a stat product ≥ [minPercent] % of rank 1's. Ties share a rank, so `maxRank = 1` includes
+ * ties. (The best spread of a group is best by both measures, so the two limits combine per group.)
+ */
+data class Cutoff(val maxRank: Int = 1, val minPercent: Double = 0.0) {
+    fun groups(sum: GroupSummary): Set<Int> = sum.groupsWithRankAtMost(maxRank) intersect sum.groupsWithPercentAtLeast(minPercent)
+
+    companion object {
+        /** 16 × 16 × 16 IV spreads. */
+        const val MAX_RANK = 4096
+    }
 }
 
 data class LeagueOptions(
@@ -17,11 +23,15 @@ data class LeagueOptions(
     val minMaxCp: Int? = null,
     /** Drop species not in PvPoke's top N for this league (unranked species are dropped too). */
     val maxPvpokeRank: Int? = null,
+    /** Overrides [SearchOptions.cutoff] for this league. */
+    val cutoff: Cutoff? = null,
+    /** Little Cup rule: only species that can evolve and aren't an evolution themselves (babies count). */
+    val unevolvedOnly: Boolean = false,
 )
 
 data class SearchOptions(
     val leagues: List<LeagueOptions>,
-    val cutoff: Cutoff = Cutoff.TopRank(1),
+    val cutoff: Cutoff = Cutoff(),
     /** Level caps whose rankings are combined, e.g. [50.0] or [50.0, 51.0] (best buddy). */
     val levelCaps: List<Double> = listOf(50.0),
     /** Level used for the [LeagueOptions.minMaxCp] check; defaults to the highest of [levelCaps]. */
@@ -85,6 +95,9 @@ class TargetSelector(private val cache: RankingCache) {
         s.id to seen
     }
 
+    /** Species that some other species evolves into. */
+    private val evolved: Set<String> = data.species.flatMapTo(HashSet()) { it.evolvesTo }
+
     private fun usable(s: Species, o: SearchOptions) =
         "battleform" !in s.tags && (s.released || o.includeUnreleased) &&
             s.id !in o.excludeSpecies && s.tags.none { it in o.excludeTags }
@@ -104,6 +117,7 @@ class TargetSelector(private val cache: RankingCache) {
             require(lo.league in data.leagues) { "unknown league ${lo.league}" }
             for (s in data.species) {
                 if (!usable(s, o)) continue
+                if (lo.unevolvedOnly && (s.id in evolved || s.evolvesTo.isEmpty())) continue
                 if (s.id !in o.includeSpecies) {
                     if (lo.minMaxCp != null && cache.ranker.maxCp(s.stats, cpLevel) < lo.minMaxCp) continue
                     if (lo.maxPvpokeRank != null) {
@@ -114,10 +128,7 @@ class TargetSelector(private val cache: RankingCache) {
                 val groups = HashSet<Int>()
                 for (level in o.levelCaps) {
                     val sum = cache.summary(s, lo.league, level)
-                    groups += when (val c = o.cutoff) {
-                        is Cutoff.TopRank -> sum.groupsWithRankAtMost(c.n)
-                        is Cutoff.MinPercent -> sum.groupsWithPercentAtLeast(c.percent)
-                    }
+                    groups += (lo.cutoff ?: o.cutoff).groups(sum)
                 }
                 if (groups.isNotEmpty()) contributions += Contribution(s, lo.league, groups)
             }

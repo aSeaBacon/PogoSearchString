@@ -7,6 +7,7 @@ import android.os.Build
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -50,6 +51,8 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
+import app.pvpsearch.engine.SearchStringItem
+import app.pvpsearch.engine.StringGenerator
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -81,6 +84,20 @@ fun AppTheme(content: @Composable () -> Unit) {
 @Composable
 fun MainScreen(vm: MainViewModel = viewModel()) {
     val state by vm.state.collectAsStateWithLifecycle()
+    val form by vm.form.collectAsStateWithLifecycle()
+    val context = LocalContext.current
+
+    form?.let { f ->
+        val close: () -> Unit = {
+            if (!vm.closeSettings()) {
+                Toast.makeText(context, "Invalid values weren't saved", Toast.LENGTH_SHORT).show()
+            }
+        }
+        BackHandler(onBack = close)
+        SettingsScreen(f, onChange = vm::editSettings, onClose = close, onReset = vm::resetSettings)
+        return
+    }
+
     Scaffold(
         topBar = {
             TopAppBar(
@@ -88,6 +105,9 @@ fun MainScreen(vm: MainViewModel = viewModel()) {
                 actions = {
                     IconButton(onClick = vm::refresh, enabled = state !is UiState.Working) {
                         Icon(painterResource(R.drawable.ic_refresh), contentDescription = "Check for new data")
+                    }
+                    IconButton(onClick = vm::openSettings) {
+                        Icon(painterResource(R.drawable.ic_settings), contentDescription = "Settings")
                     }
                 },
             )
@@ -135,12 +155,23 @@ private fun StringList(state: UiState.Ready, padding: PaddingValues) {
     ) {
         item {
             Column {
-                Text(
-                    "Rank 1 PvP IVs (ties included), level 50." +
-                        (state.dataDate?.let { " Data from $it." } ?: ""),
-                    style = MaterialTheme.typography.bodySmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                )
+                for (league in StringGenerator.LEAGUES) {
+                    val ls = state.settings.league(league.key)
+                    if (!ls.enabled) continue
+                    Text(
+                        "${league.title}: ${ls.describeCutoff()}, level ${league.levelCaps.joinToString(" + ") { formatLevel(it) }}" +
+                            (if (ls.minMaxCp > 0) ", max CP ≥ ${ls.minMaxCp}" else ""),
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    )
+                }
+                state.dataDate?.let {
+                    Text(
+                        "Data from $it.",
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    )
+                }
                 state.offlineReason?.let {
                     Text(
                         "Couldn't check for new data, showing saved data. ($it)",
@@ -148,6 +179,15 @@ private fun StringList(state: UiState.Ready, padding: PaddingValues) {
                         color = MaterialTheme.colorScheme.error,
                     )
                 }
+            }
+        }
+        if (state.items.isEmpty()) {
+            item {
+                Text(
+                    "No leagues are turned on. Turn one on in Settings.",
+                    modifier = Modifier.padding(top = 24.dp).fillMaxWidth(),
+                    textAlign = TextAlign.Center,
+                )
             }
         }
         items(state.items, key = { it.title }) { StringCard(it) }
@@ -201,3 +241,6 @@ private fun copyToClipboard(context: Context, item: SearchStringItem) {
         Toast.makeText(context, "${item.title} copied", Toast.LENGTH_SHORT).show()
     }
 }
+
+/** 50.0 -> "50", 40.5 -> "40.5". */
+private fun formatLevel(level: Double) = if (level % 1.0 == 0.0) level.toInt().toString() else level.toString()

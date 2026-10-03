@@ -1,12 +1,13 @@
 package app.pvpsearch
 
+import app.pvpsearch.engine.SearchStringItem
 import org.json.JSONArray
 import org.json.JSONObject
 import java.io.File
 
 /**
  * Saves the finished strings so later launches show them instantly. They're reused only while the
- * key (data hash + generator version) is unchanged.
+ * key (data hash + generator version + settings) is unchanged.
  */
 class StringCache(dir: File) {
     private val file = File(dir, "strings.json")

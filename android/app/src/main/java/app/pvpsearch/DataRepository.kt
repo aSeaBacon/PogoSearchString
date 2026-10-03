@@ -16,6 +16,8 @@ class DataRepository(private val dir: File) {
     private val dataFile = File(dir, "data.json")
     private val manifestFile = File(dir, "manifest.json")
 
+    fun hasData(): Boolean = dataFile.exists()
+
     /** The saved data file, or null before the first successful download. */
     fun cachedData(): String? = dataFile.takeIf { it.exists() }?.readText()
 
