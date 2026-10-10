@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "pipelineVersion": 2,
  "dataFile": "data.json",
- "dataSha256": "c54fd7d4b44938ef6f11d104f8794a969cea7de9a3e53cc85d287e3cc4e3fe5d",
+ "dataSha256": "120ffcdc4592f35e027e07a19e6c496747d341632828f3fabd15307d078fcf3d",
  "dataBytes": 207824,
  "statsHash": "374bff406d8d4722403f90af09f4126691b03b235af5d093b58f8f3c894f8bea",
  "sources": {
   "pvpoke": {
-   "sha": "f627e89e53c0c7b903fff097df7a0ad0ac95decc",
-   "date": "2026-10-05T02:21:26Z"
+   "sha": "c15fb6f7e8613169740d904d6f96baa1824de480",
+   "date": "2026-10-09T22:46:42Z"
   },
   "pokeminers": {
    "sha": "8e227be44f288d34463e23bf04e9b564d3c16f79",
@@ -37,5 +37,5 @@
   "evolution duraludon -> archaludon is not in the Game Master (dropped)",
   "evolution sinistcha -> poltchageist is not in the Game Master (dropped)"
  ],
- "generatedAt": "2026-10-03T11:41:49Z"
+ "generatedAt": "2026-10-10T12:35:03Z"
 }
