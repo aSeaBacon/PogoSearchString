@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "pipelineVersion": 2,
  "dataFile": "data.json",
- "dataSha256": "f02984c5c1f79ed538c0b6bbf130d354c80ddb27af82ed3c97a8521d2f533919",
- "dataBytes": 207861,
+ "dataSha256": "67db90b45d5457cd6007f406c004a489c60da1e63070849a675366a1f3ba9d3f",
+ "dataBytes": 207897,
  "statsHash": "374bff406d8d4722403f90af09f4126691b03b235af5d093b58f8f3c894f8bea",
  "sources": {
   "pvpoke": {
-   "sha": "bdbb22c6888d0999f9bee1712a0296309dcab3fb",
-   "date": "2026-10-17T01:47:51Z"
+   "sha": "4db6473487de922a61b566f0f4ec02f1d5121bcc",
+   "date": "2026-10-21T01:58:29Z"
   },
   "pokeminers": {
    "sha": "8e227be44f288d34463e23bf04e9b564d3c16f79",
@@ -17,10 +17,10 @@
  },
  "counts": {
   "species": 1206,
-  "released": 1072,
+  "released": 1073,
   "ranked_little": 168,
-  "ranked_great": 1153,
-  "ranked_ultra": 850,
+  "ranked_great": 1154,
+  "ranked_ultra": 851,
   "ranked_master": 409
  },
  "warnings": [
@@ -37,5 +37,5 @@
   "evolution duraludon -> archaludon is not in the Game Master (dropped)",
   "evolution sinistcha -> poltchageist is not in the Game Master (dropped)"
  ],
- "generatedAt": "2026-10-13T14:14:41Z"
+ "generatedAt": "2026-10-21T11:52:20Z"
 }
