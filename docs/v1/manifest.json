@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "pipelineVersion": 2,
  "dataFile": "data.json",
- "dataSha256": "13580e8358a6d73d6e3b315870809b100832418c5e085da0bbdec32d3b130fbb",
- "dataBytes": 207897,
+ "dataSha256": "a0a29162a72fd7ac4d3916d01207662bb25ac3bb32ef5919241219031c3c3dd3",
+ "dataBytes": 208004,
  "statsHash": "374bff406d8d4722403f90af09f4126691b03b235af5d093b58f8f3c894f8bea",
  "sources": {
   "pvpoke": {
-   "sha": "426e5e9f39d3a027849698fb2f5edd9df6056cbf",
-   "date": "2026-11-12T02:20:34Z"
+   "sha": "d02018eb6bfc4a041cca69d7bc9de0d5179a8365",
+   "date": "2026-11-17T13:57:45Z"
   },
   "pokeminers": {
    "sha": "8e227be44f288d34463e23bf04e9b564d3c16f79",
@@ -17,11 +17,11 @@
  },
  "counts": {
   "species": 1206,
-  "released": 1073,
+  "released": 1075,
   "ranked_little": 168,
-  "ranked_great": 1154,
-  "ranked_ultra": 851,
-  "ranked_master": 409
+  "ranked_great": 1156,
+  "ranked_ultra": 853,
+  "ranked_master": 410
  },
  "warnings": [
   "evolution scyther -> kleavor is not in the Game Master (dropped)",
@@ -35,7 +35,9 @@
   "evolution boltund -> carkol is not in the Game Master (dropped)",
   "evolution rolycoly -> coalossal is not in the Game Master (dropped)",
   "evolution duraludon -> archaludon is not in the Game Master (dropped)",
-  "evolution sinistcha -> poltchageist is not in the Game Master (dropped)"
+  "evolution sinistcha -> poltchageist is not in the Game Master (dropped)",
+  "base stats of sliggoo_hisuian {'atk': 153, 'def': 190, 'hp': 151} not found in the Game Master",
+  "base stats of goodra_hisuian {'atk': 211, 'def': 255, 'hp': 190} not found in the Game Master"
  ],
- "generatedAt": "2026-10-31T12:35:34Z"
+ "generatedAt": "2026-11-17T16:02:20Z"
 }
