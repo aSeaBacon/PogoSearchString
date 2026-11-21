@@ -2,13 +2,13 @@
  "schemaVersion": 1,
  "pipelineVersion": 2,
  "dataFile": "data.json",
- "dataSha256": "a0a29162a72fd7ac4d3916d01207662bb25ac3bb32ef5919241219031c3c3dd3",
+ "dataSha256": "9ccac0e62b01bf8c541518f0aaa3d177fc03d82ccb7a4a7d69fd39f056cf1b78",
  "dataBytes": 208004,
  "statsHash": "374bff406d8d4722403f90af09f4126691b03b235af5d093b58f8f3c894f8bea",
  "sources": {
   "pvpoke": {
-   "sha": "d02018eb6bfc4a041cca69d7bc9de0d5179a8365",
-   "date": "2026-11-17T13:57:45Z"
+   "sha": "a8c817915e2978b433a38317b93dce267b64bde7",
+   "date": "2026-11-20T16:56:34Z"
   },
   "pokeminers": {
    "sha": "8e227be44f288d34463e23bf04e9b564d3c16f79",
@@ -39,5 +39,5 @@
   "base stats of sliggoo_hisuian {'atk': 153, 'def': 190, 'hp': 151} not found in the Game Master",
   "base stats of goodra_hisuian {'atk': 211, 'def': 255, 'hp': 190} not found in the Game Master"
  ],
- "generatedAt": "2026-11-17T16:02:20Z"
+ "generatedAt": "2026-11-21T14:41:35Z"
 }
